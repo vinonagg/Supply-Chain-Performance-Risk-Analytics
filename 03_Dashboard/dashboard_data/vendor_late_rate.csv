@@ -1,0 +1,1001 @@
+Vendor_ID,Orders,Late_Orders,Late_Rate_Pct,Avg_Delay_Days,Vendor_Name,Vendor_Category,Vendor_Tier,Reliability_Score
+VND00936,47,37.0,80.43,12.22,Vendor_0936,Packaging,Tier 3,49.1
+VND00300,44,32.0,76.19,9.86,Vendor_0300,Machinery,Tier 3,36.0
+VND00234,53,36.0,75.0,9.92,Vendor_0234,Machinery,Tier 2,64.5
+VND00623,47,34.0,73.91,9.07,Vendor_0623,Packaging,Tier 3,55.9
+VND00396,43,28.0,73.68,8.45,Vendor_0396,IT Services,Tier 1,95.2
+VND00382,43,30.0,73.17,11.59,Vendor_0382,Textiles,Tier 2,78.8
+VND00478,44,26.0,72.22,9.39,Vendor_0478,Raw Material,Tier 2,68.8
+VND00867,39,28.0,71.79,10.82,Vendor_0867,Textiles,Tier 3,40.9
+VND00825,44,30.0,71.43,8.14,Vendor_0825,Machinery,Tier 2,67.6
+VND00439,55,37.0,71.15,9.04,Vendor_0439,Machinery,Tier 2,79.4
+VND00146,47,32.0,71.11,6.71,Vendor_0146,Raw Material,Tier 3,32.6
+VND00946,44,29.0,70.73,8.39,Vendor_0946,Machinery,Tier 3,30.8
+VND00975,52,36.0,70.59,7.47,Vendor_0975,Chemicals,Tier 3,32.2
+VND00701,52,36.0,70.59,9.76,Vendor_0701,Textiles,Tier 2,67.3
+VND00518,46,31.0,70.45,8.14,Vendor_0518,Textiles,Tier 1,86.7
+VND00601,41,26.0,70.27,10.57,Vendor_0601,Raw Material,Tier 3,41.8
+VND00905,39,26.0,70.27,8.05,Vendor_0905,Textiles,Tier 3,59.5
+VND00085,52,33.0,70.21,6.62,Vendor_0085,Chemicals,Tier 3,51.8
+VND00020,53,35.0,70.0,6.98,Vendor_0020,Logistics,Tier 3,50.4
+VND00781,55,37.0,69.81,6.74,Vendor_0781,Raw Material,Tier 2,78.6
+VND00340,47,30.0,69.77,7.4,Vendor_0340,Textiles,Tier 3,36.8
+VND00316,48,30.0,69.77,6.33,Vendor_0316,Packaging,Tier 2,78.7
+VND00716,46,30.0,69.77,9.53,Vendor_0716,Chemicals,Tier 1,95.1
+VND00985,48,30.0,69.77,8.86,Vendor_0985,Packaging,Tier 1,81.0
+VND00885,47,32.0,69.57,8.5,Vendor_0885,Packaging,Tier 1,86.0
+VND00437,42,25.0,69.44,7.69,Vendor_0437,Raw Material,Tier 3,35.1
+VND00687,52,34.0,69.39,8.63,Vendor_0687,Logistics,Tier 2,70.0
+VND00934,46,29.0,69.05,9.64,Vendor_0934,Electronics,Tier 2,66.8
+VND00047,45,29.0,69.05,8.79,Vendor_0047,Logistics,Tier 3,51.8
+VND00993,48,31.0,68.89,8.78,Vendor_0993,Raw Material,Tier 3,49.1
+VND00582,49,31.0,68.89,9.09,Vendor_0582,Chemicals,Tier 1,98.6
+VND00664,48,31.0,68.89,7.56,Vendor_0664,Packaging,Tier 3,46.6
+VND00848,64,42.0,68.85,8.8,Vendor_0848,Packaging,Tier 1,99.8
+VND00519,53,33.0,68.75,7.06,Vendor_0519,IT Services,Tier 1,99.1
+VND00163,52,33.0,68.75,8.98,Vendor_0163,Raw Material,Tier 2,74.3
+VND00397,52,35.0,68.63,6.37,Vendor_0397,Chemicals,Tier 1,90.1
+VND00190,61,39.0,68.42,9.68,Vendor_0190,Raw Material,Tier 3,46.9
+VND00489,40,26.0,68.42,8.29,Vendor_0489,Packaging,Tier 1,96.5
+VND00028,41,26.0,68.42,7.74,Vendor_0028,Machinery,Tier 2,66.0
+VND00144,60,39.0,68.42,10.4,Vendor_0144,Raw Material,Tier 3,51.1
+VND00760,45,28.0,68.29,8.93,Vendor_0760,Machinery,Unclassified,
+VND00226,48,30.0,68.18,5.98,Vendor_0226,Electronics,Tier 3,47.1
+VND00211,44,30.0,68.18,8.34,Vendor_0211,Machinery,Tier 2,68.4
+VND00276,46,30.0,68.18,8.45,Vendor_0276,Unknown,Tier 2,65.1
+VND00771,48,30.0,68.18,8.34,Vendor_0771,Chemicals,Tier 3,37.7
+VND00753,51,32.0,68.09,8.68,Vendor_0753,Logistics,Tier 2,73.9
+VND00330,51,32.0,68.09,9.32,Vendor_0330,Raw Material,Tier 3,47.3
+VND00172,49,32.0,68.09,5.68,Vendor_0172,Textiles,Tier 3,31.2
+VND00726,52,34.0,68.0,10.26,Vendor_0726,IT Services,Tier 1,88.9
+VND00524,58,36.0,67.92,8.08,Vendor_0524,Packaging,Tier 1,88.9
+VND00956,64,40.0,67.8,8.53,Vendor_0956,Chemicals,Tier 3,56.8
+VND00799,38,25.0,67.57,7.95,Vendor_0799,Electronics,Tier 2,78.8
+VND00598,44,27.0,67.5,10.15,Vendor_0598,Packaging,Tier 3,42.1
+VND00599,46,27.0,67.5,7.9,Vendor_0599,Machinery,Tier 3,43.5
+VND00648,50,31.0,67.39,5.89,Vendor_0648,Textiles,Tier 2,77.5
+VND00541,52,31.0,67.39,6.98,Vendor_0541,Raw Material,Tier 1,96.8
+VND00072,50,31.0,67.39,7.61,Vendor_0072,Textiles,Tier 3,43.9
+VND00007,53,33.0,67.35,8.78,Vendor_0007,Raw Material,Tier 3,34.1
+VND00337,53,35.0,67.31,8.69,Vendor_0337,Electronics,Tier 1,89.9
+VND00201,61,41.0,67.21,6.92,Vendor_0201,Electronics,Tier 2,74.9
+VND00339,57,36.0,66.67,8.43,Vendor_0339,Machinery,Tier 2,63.2
+VND00693,43,26.0,66.67,8.92,Vendor_0693,IT Services,Unclassified,
+VND00035,50,30.0,66.67,7.09,Vendor_0035,Textiles,Tier 1,97.6
+VND00298,47,26.0,66.67,8.23,Vendor_0298,IT Services,Tier 3,45.1
+VND00603,54,34.0,66.67,9.14,Vendor_0603,Packaging,Tier 3,42.4
+VND00280,51,32.0,66.67,7.81,Vendor_0280,Packaging,Tier 1,85.7
+VND00653,67,42.0,66.67,7.79,Vendor_0653,Logistics,Tier 2,71.1
+VND00118,36,22.0,66.67,7.85,Vendor_0118,Logistics,Tier 3,43.1
+VND00684,46,28.0,66.67,7.88,Vendor_0684,Machinery,Tier 2,76.8
+VND00445,60,38.0,66.67,8.0,Vendor_0445,Machinery,Tier 1,86.9
+VND00516,47,28.0,66.67,8.43,Vendor_0516,Chemicals,Tier 3,31.8
+VND00831,58,36.0,66.67,8.46,Vendor_0831,Textiles,Tier 3,45.7
+VND00748,47,30.0,66.67,6.62,Vendor_0748,Machinery,Tier 2,68.0
+VND00205,46,30.0,66.67,7.4,Vendor_0205,Textiles,Tier 2,72.5
+VND00725,56,36.0,66.67,9.44,Vendor_0725,IT Services,Tier 2,70.2
+VND00123,60,39.0,66.1,8.44,Vendor_0123,Electronics,Tier 3,52.3
+VND00066,55,35.0,66.04,7.53,Vendor_0066,Raw Material,Tier 2,68.0
+VND00238,56,35.0,66.04,7.3,Vendor_0238,Electronics,Tier 3,31.7
+VND00872,60,33.0,66.0,7.82,Vendor_0872,Machinery,Tier 3,49.0
+VND00275,55,33.0,66.0,10.88,Vendor_0275,Logistics,Tier 2,65.8
+VND00168,51,31.0,65.96,7.49,Vendor_0168,Textiles,Tier 3,43.1
+VND00023,50,31.0,65.96,6.49,Vendor_0023,Packaging,Tier 3,50.5
+VND00366,48,31.0,65.96,7.72,Vendor_0366,Electronics,Tier 3,57.0
+VND00960,46,29.0,65.91,7.66,Vendor_0960,Logistics,Tier 1,81.7
+VND00138,47,29.0,65.91,7.57,Vendor_0138,Electronics,Tier 2,79.2
+VND00812,45,29.0,65.91,7.68,Vendor_0812,Machinery,Tier 1,88.7
+VND00113,46,29.0,65.91,8.7,Vendor_0113,Logistics,Tier 1,95.1
+VND00734,45,27.0,65.85,7.46,Vendor_0734,Electronics,Tier 2,66.6
+VND00957,41,25.0,65.79,11.24,Vendor_0957,Raw Material,Tier 2,66.3
+VND00705,42,25.0,65.79,6.13,Vendor_0705,Packaging,Tier 3,34.4
+VND00218,43,25.0,65.79,7.84,Vendor_0218,Raw Material,Tier 1,82.3
+VND00128,35,23.0,65.71,8.0,Vendor_0128,Machinery,Tier 1,90.3
+VND00660,54,34.0,65.38,5.62,Vendor_0660,Logistics,Tier 2,70.0
+VND00193,58,34.0,65.38,8.27,Vendor_0193,Unknown,Tier 1,93.0
+VND00912,52,32.0,65.31,7.63,Vendor_0912,IT Services,Tier 3,48.8
+VND00393,47,30.0,65.22,8.11,Vendor_0393,Electronics,Tier 3,56.0
+VND00924,46,28.0,65.12,7.56,Vendor_0924,IT Services,Tier 1,86.0
+VND00627,46,28.0,65.12,10.49,Vendor_0627,Electronics,Tier 2,62.4
+VND00709,65,41.0,65.08,8.24,Vendor_0709,Machinery,Tier 3,47.8
+VND00472,44,26.0,65.0,10.03,Vendor_0472,Machinery,Tier 1,97.9
+VND00533,43,26.0,65.0,8.4,Vendor_0533,Logistics,Tier 1,99.8
+VND00575,39,22.0,64.71,8.0,Vendor_0575,IT Services,Tier 1,90.4
+VND00391,54,33.0,64.71,7.25,Vendor_0391,Raw Material,Tier 1,99.3
+VND00631,36,22.0,64.71,6.24,Vendor_0631,IT Services,Tier 2,79.9
+VND00360,53,33.0,64.71,5.96,Vendor_0360,Logistics,Tier 2,70.3
+VND00629,51,31.0,64.58,6.0,Vendor_0629,Logistics,Tier 3,32.6
+VND00591,53,31.0,64.58,9.35,Vendor_0591,Logistics,Tier 3,39.7
+VND00253,52,31.0,64.58,7.98,Vendor_0253,Raw Material,Tier 1,89.6
+VND00321,47,29.0,64.44,9.16,Vendor_0321,Chemicals,Tier 2,68.4
+VND00322,47,29.0,64.44,8.49,Vendor_0322,Chemicals,Tier 1,80.0
+VND00022,49,29.0,64.44,7.27,Vendor_0022,Electronics,Tier 3,39.8
+VND00451,47,29.0,64.44,8.13,Vendor_0451,Unknown,Tier 1,84.4
+VND00075,46,29.0,64.44,7.42,Vendor_0075,Raw Material,Tier 2,79.5
+VND00101,50,29.0,64.44,8.33,Vendor_0101,Packaging,Tier 3,32.2
+VND00374,63,36.0,64.29,7.3,Vendor_0374,Logistics,Tier 2,77.8
+VND00873,44,27.0,64.29,7.69,Vendor_0873,Logistics,Tier 2,75.1
+VND00665,60,36.0,64.29,8.55,Vendor_0665,Machinery,Tier 3,37.1
+VND00083,56,34.0,64.15,7.13,Vendor_0083,Packaging,Tier 3,53.2
+VND00496,41,25.0,64.1,8.05,Vendor_0496,Packaging,Tier 3,54.7
+VND00453,39,25.0,64.1,8.28,Vendor_0453,IT Services,Tier 3,59.7
+VND00356,43,23.0,63.89,9.44,Vendor_0356,Chemicals,Tier 2,75.0
+VND00755,52,30.0,63.83,8.13,Vendor_0755,Packaging,Unclassified,
+VND00398,49,30.0,63.83,8.94,Vendor_0398,IT Services,Tier 2,60.0
+VND00803,53,30.0,63.83,8.11,Vendor_0803,Textiles,Tier 2,70.3
+VND00176,54,30.0,63.83,7.87,Vendor_0176,Raw Material,Tier 3,42.2
+VND00805,52,30.0,63.83,6.32,Vendor_0805,Chemicals,Tier 3,59.7
+VND00010,46,28.0,63.64,7.93,Vendor_0010,Electronics,Tier 2,79.6
+VND00399,45,28.0,63.64,8.43,Vendor_0399,Textiles,Tier 1,82.6
+VND00920,44,28.0,63.64,7.77,Vendor_0920,Raw Material,Tier 3,39.8
+VND00548,46,28.0,63.64,7.27,Vendor_0548,Machinery,Tier 2,77.0
+VND00059,47,28.0,63.64,7.91,Vendor_0059,Packaging,Tier 3,33.2
+VND00830,45,28.0,63.64,8.91,Vendor_0830,Logistics,Tier 2,61.7
+VND00560,37,21.0,63.64,6.64,Vendor_0560,IT Services,Tier 2,73.4
+VND00550,46,28.0,63.64,6.86,Vendor_0550,Machinery,Tier 1,84.1
+VND00241,44,28.0,63.64,5.57,Vendor_0241,Machinery,Tier 1,95.8
+VND00508,56,33.0,63.46,9.33,Vendor_0508,Electronics,Tier 1,87.6
+VND00988,41,26.0,63.41,6.93,Vendor_0988,Logistics,Tier 2,60.4
+VND00706,43,26.0,63.41,6.27,Vendor_0706,Chemicals,Tier 1,99.3
+VND00252,41,24.0,63.16,7.95,Vendor_0252,Machinery,Tier 3,57.0
+VND00381,61,36.0,63.16,8.39,Vendor_0381,IT Services,Tier 3,38.3
+VND00980,42,24.0,63.16,5.29,Vendor_0980,Packaging,Tier 2,71.8
+VND00501,44,24.0,63.16,7.11,Vendor_0501,Raw Material,Tier 2,78.9
+VND00775,59,36.0,63.16,7.07,Vendor_0775,Chemicals,Tier 1,85.8
+VND00808,47,29.0,63.04,7.91,Vendor_0808,IT Services,Tier 1,94.8
+VND00096,48,29.0,63.04,6.76,Vendor_0096,IT Services,Unclassified,
+VND00345,51,29.0,63.04,9.15,Vendor_0345,Unknown,Tier 3,57.9
+VND00510,51,29.0,63.04,8.11,Vendor_0510,Electronics,Tier 1,80.8
+VND00376,53,29.0,63.04,6.91,Vendor_0376,Electronics,Tier 3,52.3
+VND00094,60,34.0,62.96,5.81,Vendor_0094,Electronics,Tier 2,69.3
+VND00933,55,34.0,62.96,6.3,Vendor_0933,Electronics,Tier 1,98.9
+VND00530,55,34.0,62.96,8.2,Vendor_0530,Textiles,Tier 1,90.5
+VND00944,65,39.0,62.9,7.18,Vendor_0944,IT Services,Tier 1,88.1
+VND00195,38,22.0,62.86,7.69,Vendor_0195,Unknown,Tier 3,53.7
+VND00281,39,22.0,62.86,7.46,Vendor_0281,Unknown,Tier 1,92.3
+VND00308,43,27.0,62.79,7.63,Vendor_0308,Electronics,Tier 3,52.6
+VND00025,49,27.0,62.79,7.05,Vendor_0025,Packaging,Tier 2,61.9
+VND00899,50,27.0,62.79,7.21,Vendor_0899,Chemicals,Tier 3,30.9
+VND00323,47,27.0,62.79,8.23,Vendor_0323,Textiles,Tier 2,76.2
+VND00824,47,27.0,62.79,7.02,Vendor_0824,Raw Material,Tier 3,57.9
+VND00307,45,27.0,62.79,7.91,Vendor_0307,Machinery,Tier 2,66.1
+VND00474,57,32.0,62.75,7.1,Vendor_0474,Machinery,Tier 1,92.4
+VND00791,54,32.0,62.75,7.75,Vendor_0791,Unknown,Tier 3,40.7
+VND00514,53,32.0,62.75,8.39,Vendor_0514,Chemicals,Tier 1,90.6
+VND00785,51,32.0,62.75,8.37,Vendor_0785,Textiles,Tier 3,42.7
+VND00643,62,35.0,62.5,8.48,Vendor_0643,Logistics,Tier 3,44.8
+VND00610,52,30.0,62.5,5.79,Vendor_0610,IT Services,Tier 2,78.3
+VND00284,48,30.0,62.5,7.46,Vendor_0284,Textiles,Tier 3,36.6
+VND00199,59,35.0,62.5,6.32,Vendor_0199,Logistics,Tier 1,92.1
+VND00143,54,30.0,62.5,7.96,Vendor_0143,IT Services,Unclassified,
+VND00940,49,30.0,62.5,10.85,Vendor_0940,Textiles,Tier 2,70.4
+VND00929,68,40.0,62.5,7.88,Vendor_0929,Raw Material,Tier 2,74.3
+VND00500,62,35.0,62.5,8.34,Vendor_0500,Electronics,Tier 1,99.0
+VND00655,64,38.0,62.3,6.62,Vendor_0655,Machinery,Unclassified,
+VND00531,59,33.0,62.26,5.74,Vendor_0531,Machinery,Tier 1,86.9
+VND00130,57,33.0,62.26,7.25,Vendor_0130,Logistics,Tier 2,65.8
+VND00244,58,33.0,62.26,8.64,Vendor_0244,Chemicals,Tier 3,55.9
+VND00088,48,28.0,62.22,5.36,Vendor_0088,Electronics,Tier 2,74.6
+VND00090,47,28.0,62.22,9.09,Vendor_0090,Machinery,Unclassified,
+VND00387,46,28.0,62.22,7.36,Vendor_0387,Textiles,Tier 3,49.7
+VND00034,45,28.0,62.22,7.64,Vendor_0034,Chemicals,Tier 1,96.4
+VND00815,41,23.0,62.16,8.81,Vendor_0815,Textiles,Tier 1,90.9
+VND00567,38,23.0,62.16,8.19,Vendor_0567,Logistics,Tier 3,57.5
+VND00903,41,23.0,62.16,9.46,Vendor_0903,Packaging,Tier 3,42.7
+VND00511,53,31.0,62.0,6.84,Vendor_0511,Raw Material,Tier 2,72.9
+VND00809,50,31.0,62.0,5.8,Vendor_0809,Raw Material,Tier 2,61.6
+VND00527,53,31.0,62.0,9.46,Vendor_0527,Machinery,Tier 3,59.0
+VND00671,53,31.0,62.0,8.72,Vendor_0671,Machinery,Tier 3,42.1
+VND00882,43,26.0,61.9,8.07,Vendor_0882,IT Services,Tier 2,77.0
+VND00984,48,26.0,61.9,6.62,Vendor_0984,Raw Material,Tier 3,35.3
+VND00441,45,26.0,61.9,6.81,Vendor_0441,Textiles,Tier 3,35.9
+VND00248,59,34.0,61.82,6.56,Vendor_0248,Machinery,Tier 1,97.7
+VND00386,56,34.0,61.82,6.75,Vendor_0386,Electronics,Tier 1,86.2
+VND00262,51,29.0,61.7,6.38,Vendor_0262,Electronics,Tier 1,99.3
+VND00828,48,29.0,61.7,8.0,Vendor_0828,Textiles,Tier 3,54.3
+VND00278,49,29.0,61.7,6.4,Vendor_0278,Chemicals,Tier 2,75.5
+VND00893,49,29.0,61.7,6.68,Vendor_0893,Chemicals,Tier 1,88.1
+VND00001,49,29.0,61.7,8.49,Vendor_0001,Unknown,Tier 3,56.2
+VND00120,49,29.0,61.7,8.34,Vendor_0120,Electronics,Tier 2,67.8
+VND00038,49,29.0,61.7,8.51,Vendor_0038,Logistics,Tier 3,36.8
+VND00156,55,32.0,61.54,7.25,Vendor_0156,Packaging,Tier 3,46.9
+VND00236,46,24.0,61.54,5.74,Vendor_0236,Packaging,Tier 1,80.6
+VND00364,53,32.0,61.54,6.75,Vendor_0364,Machinery,Tier 2,68.2
+VND00773,55,32.0,61.54,8.02,Vendor_0773,Textiles,Tier 3,38.9
+VND00654,40,24.0,61.54,6.36,Vendor_0654,Machinery,Tier 1,82.2
+VND00855,57,32.0,61.54,8.21,Vendor_0855,IT Services,Tier 3,44.4
+VND00814,40,24.0,61.54,9.26,Vendor_0814,Electronics,Tier 1,94.5
+VND00917,54,32.0,61.54,6.56,Vendor_0917,Electronics,Tier 3,50.6
+VND00540,55,32.0,61.54,7.08,Vendor_0540,Chemicals,Tier 3,39.0
+VND00625,61,35.0,61.4,8.28,Vendor_0625,Electronics,Tier 2,73.3
+VND00587,61,35.0,61.4,8.3,Vendor_0587,IT Services,Tier 3,35.3
+VND00346,61,35.0,61.4,7.93,Vendor_0346,Textiles,Tier 2,73.1
+VND00837,49,27.0,61.36,5.95,Vendor_0837,Logistics,Tier 1,94.0
+VND00134,46,27.0,61.36,8.98,Vendor_0134,IT Services,Tier 3,53.6
+VND00293,45,27.0,61.36,6.82,Vendor_0293,Textiles,Tier 1,87.6
+VND00909,63,38.0,61.29,9.11,Vendor_0909,Raw Material,Tier 3,48.2
+VND00822,52,30.0,61.22,5.76,Vendor_0822,Raw Material,Tier 3,30.3
+VND00250,55,30.0,61.22,7.04,Vendor_0250,Electronics,Tier 1,89.7
+VND00013,52,30.0,61.22,7.43,Vendor_0013,Textiles,Tier 1,88.3
+VND00486,51,30.0,61.22,7.76,Vendor_0486,Raw Material,Tier 1,93.1
+VND00104,51,30.0,61.22,7.78,Vendor_0104,Logistics,Tier 2,65.6
+VND00314,60,33.0,61.11,6.7,Vendor_0314,Electronics,Tier 1,97.4
+VND00817,57,33.0,61.11,7.43,Vendor_0817,Electronics,Tier 2,71.4
+VND00363,65,36.0,61.02,8.47,Vendor_0363,Unknown,Tier 2,62.1
+VND00423,45,25.0,60.98,5.49,Vendor_0423,Logistics,Tier 3,36.4
+VND00521,46,25.0,60.98,6.85,Vendor_0521,Textiles,Tier 2,71.6
+VND00906,47,25.0,60.98,6.51,Vendor_0906,Chemicals,Tier 1,92.5
+VND00162,42,25.0,60.98,7.07,Vendor_0162,Unknown,Tier 2,74.3
+VND00888,45,25.0,60.98,7.95,Vendor_0888,Chemicals,Tier 3,46.7
+VND00076,42,25.0,60.98,7.49,Vendor_0076,Machinery,Tier 1,81.0
+VND00762,46,25.0,60.98,6.61,Vendor_0762,Chemicals,Tier 3,51.8
+VND00849,42,25.0,60.98,7.49,Vendor_0849,Electronics,Tier 2,65.2
+VND00179,50,28.0,60.87,8.74,Vendor_0179,IT Services,Tier 1,95.6
+VND00647,51,28.0,60.87,9.07,Vendor_0647,Raw Material,Tier 2,71.6
+VND00642,50,28.0,60.87,6.46,Vendor_0642,Packaging,Tier 3,52.5
+VND00078,50,28.0,60.87,7.72,Vendor_0078,Electronics,Tier 3,35.2
+VND00002,53,31.0,60.78,7.98,Vendor_0002,Electronics,Tier 1,96.6
+VND00242,56,31.0,60.78,6.86,Vendor_0242,Machinery,Tier 1,96.8
+VND00361,52,31.0,60.78,7.02,Vendor_0361,IT Services,Tier 3,57.2
+VND00938,42,23.0,60.53,4.97,Vendor_0938,IT Services,Tier 1,94.0
+VND00927,43,23.0,60.53,9.32,Vendor_0927,Electronics,Tier 3,48.8
+VND00839,42,23.0,60.53,7.13,Vendor_0839,Packaging,Tier 2,70.6
+VND00764,43,26.0,60.47,6.93,Vendor_0764,Raw Material,Tier 1,82.1
+VND00043,46,26.0,60.47,5.67,Vendor_0043,IT Services,Tier 3,32.4
+VND00683,45,26.0,60.47,5.07,Vendor_0683,Chemicals,Tier 3,42.0
+VND00358,47,26.0,60.47,10.42,Vendor_0358,IT Services,Tier 2,71.0
+VND00493,47,26.0,60.47,7.49,Vendor_0493,IT Services,Tier 3,49.4
+VND00459,48,26.0,60.47,6.74,Vendor_0459,Textiles,Tier 3,33.9
+VND00065,49,29.0,60.42,6.23,Vendor_0065,Machinery,Tier 3,49.7
+VND00719,54,29.0,60.42,8.12,Vendor_0719,Raw Material,Tier 3,38.7
+VND00365,50,29.0,60.42,6.27,Vendor_0365,Chemicals,Tier 1,95.9
+VND00728,52,29.0,60.42,8.0,Vendor_0728,Logistics,Tier 1,85.7
+VND00014,58,32.0,60.38,7.79,Vendor_0014,Machinery,Tier 3,44.9
+VND00341,60,32.0,60.38,7.68,Vendor_0341,Chemicals,Tier 2,64.4
+VND00067,56,32.0,60.38,6.06,Vendor_0067,Electronics,Tier 3,39.9
+VND00789,61,35.0,60.34,7.33,Vendor_0789,Packaging,Tier 2,62.3
+VND00127,62,35.0,60.34,8.07,Vendor_0127,Logistics,Tier 1,87.3
+VND00490,71,41.0,60.29,7.15,Vendor_0490,IT Services,Tier 1,92.3
+VND00718,44,24.0,60.0,5.7,Vendor_0718,Textiles,Tier 1,97.6
+VND00326,54,30.0,60.0,7.34,Vendor_0326,Logistics,Tier 1,81.7
+VND00405,54,30.0,60.0,6.98,Vendor_0405,Logistics,Tier 3,52.4
+VND00327,46,27.0,60.0,7.04,Vendor_0327,Machinery,Tier 2,68.8
+VND00961,52,30.0,60.0,8.44,Vendor_0961,Electronics,Tier 3,35.8
+VND00682,51,30.0,60.0,7.74,Vendor_0682,Textiles,Tier 3,48.1
+VND00039,58,33.0,60.0,9.71,Vendor_0039,Chemicals,Tier 2,77.9
+VND00866,32,18.0,60.0,5.8,Vendor_0866,Raw Material,Tier 2,69.2
+VND00229,52,27.0,60.0,7.27,Vendor_0229,Machinery,Unclassified,
+VND00288,43,24.0,60.0,7.4,Vendor_0288,Textiles,Tier 2,68.0
+VND00173,43,24.0,60.0,8.88,Vendor_0173,Raw Material,Tier 2,65.8
+VND00535,41,24.0,60.0,5.38,Vendor_0535,Unknown,Tier 1,83.8
+VND00852,45,24.0,60.0,8.25,Vendor_0852,Machinery,Tier 1,82.5
+VND00722,31,18.0,60.0,6.33,Vendor_0722,Raw Material,Tier 3,42.7
+VND00320,48,27.0,60.0,8.16,Vendor_0320,Textiles,Tier 3,47.5
+VND00616,47,27.0,60.0,6.98,Vendor_0616,Electronics,Tier 1,94.5
+VND00738,45,24.0,60.0,6.6,Vendor_0738,Machinery,Tier 1,87.2
+VND00184,35,21.0,60.0,9.66,Vendor_0184,Logistics,Tier 1,91.4
+VND00772,56,33.0,60.0,5.69,Vendor_0772,Chemicals,Tier 1,89.3
+VND00581,53,30.0,60.0,8.78,Vendor_0581,Logistics,Tier 2,62.1
+VND00315,53,30.0,60.0,6.84,Vendor_0315,Machinery,Tier 1,88.5
+VND00355,37,21.0,60.0,8.03,Vendor_0355,Textiles,Tier 3,34.9
+VND00061,58,30.0,60.0,5.86,Vendor_0061,Electronics,Tier 3,57.2
+VND00031,50,30.0,60.0,7.46,Vendor_0031,Raw Material,Unclassified,
+VND00538,45,24.0,60.0,7.83,Vendor_0538,IT Services,Tier 3,47.3
+VND00749,38,21.0,60.0,5.51,Vendor_0749,Machinery,Tier 1,93.5
+VND00015,46,27.0,60.0,8.09,Vendor_0015,IT Services,Tier 3,42.7
+VND00243,57,31.0,59.62,8.77,Vendor_0243,Logistics,Tier 1,94.0
+VND00239,55,31.0,59.62,6.63,Vendor_0239,Electronics,Tier 2,75.2
+VND00306,53,31.0,59.62,8.17,Vendor_0306,Chemicals,Tier 1,98.3
+VND00997,55,31.0,59.62,5.63,Vendor_0997,Electronics,Tier 1,94.2
+VND00329,55,31.0,59.62,7.19,Vendor_0329,Unknown,Tier 3,59.4
+VND00810,55,31.0,59.62,7.04,Vendor_0810,Electronics,Tier 3,37.9
+VND00821,55,31.0,59.62,6.67,Vendor_0821,Raw Material,Tier 1,86.2
+VND00526,55,31.0,59.62,7.79,Vendor_0526,Packaging,Tier 2,62.8
+VND00674,55,31.0,59.62,7.23,Vendor_0674,IT Services,Tier 2,66.7
+VND00834,48,28.0,59.57,8.17,Vendor_0834,Packaging,Tier 3,42.3
+VND00529,52,28.0,59.57,6.4,Vendor_0529,IT Services,Tier 3,33.9
+VND00546,50,28.0,59.57,6.55,Vendor_0546,Logistics,Tier 3,55.1
+VND00111,49,28.0,59.57,6.98,Vendor_0111,Electronics,Tier 3,50.3
+VND00813,55,28.0,59.57,7.72,Vendor_0813,Logistics,Tier 3,38.7
+VND00071,51,28.0,59.57,6.13,Vendor_0071,Machinery,Tier 1,84.1
+VND00037,49,28.0,59.57,8.62,Vendor_0037,Electronics,Tier 3,51.3
+VND00506,51,28.0,59.57,6.79,Vendor_0506,Electronics,Tier 3,41.4
+VND00336,50,28.0,59.57,5.32,Vendor_0336,Chemicals,Tier 3,32.9
+VND00057,48,25.0,59.52,7.21,Vendor_0057,Electronics,Tier 3,36.2
+VND00620,44,25.0,59.52,8.31,Vendor_0620,Electronics,Tier 1,82.4
+VND00586,41,22.0,59.46,8.68,Vendor_0586,Logistics,Tier 3,46.8
+VND00776,36,19.0,59.38,5.31,Vendor_0776,Logistics,Tier 3,40.5
+VND00191,65,35.0,59.32,7.29,Vendor_0191,Raw Material,Tier 3,36.5
+VND00089,60,35.0,59.32,7.32,Vendor_0089,Chemicals,Tier 1,92.1
+VND00450,63,35.0,59.32,6.03,Vendor_0450,Chemicals,Tier 3,35.8
+VND00559,57,32.0,59.26,7.5,Vendor_0559,IT Services,Unclassified,
+VND00150,54,32.0,59.26,6.87,Vendor_0150,Logistics,Tier 3,49.5
+VND00196,62,32.0,59.26,9.11,Vendor_0196,Packaging,Tier 3,54.4
+VND00800,54,29.0,59.18,6.06,Vendor_0800,IT Services,Tier 1,94.6
+VND00135,50,29.0,59.18,6.0,Vendor_0135,Textiles,Tier 1,96.0
+VND00098,53,29.0,59.18,9.94,Vendor_0098,Packaging,Tier 3,59.9
+VND00268,51,29.0,59.18,8.35,Vendor_0268,Textiles,Tier 2,79.2
+VND00495,49,26.0,59.09,9.45,Vendor_0495,Chemicals,Tier 2,62.5
+VND00698,48,26.0,59.09,5.16,Vendor_0698,Electronics,Tier 2,70.7
+VND00447,48,26.0,59.09,6.77,Vendor_0447,IT Services,Tier 1,99.0
+VND00017,44,26.0,59.09,6.68,Vendor_0017,Packaging,Tier 3,51.3
+VND00378,48,26.0,59.09,7.05,Vendor_0378,Textiles,Tier 3,31.6
+VND00770,47,26.0,59.09,6.64,Vendor_0770,IT Services,Tier 1,87.5
+VND00504,52,26.0,59.09,5.45,Vendor_0504,Textiles,Tier 1,87.0
+VND00953,42,23.0,58.97,7.64,Vendor_0953,Chemicals,Tier 3,42.3
+VND00415,39,23.0,58.97,8.72,Vendor_0415,Chemicals,Tier 2,74.2
+VND00751,44,23.0,58.97,8.18,Vendor_0751,IT Services,Tier 3,38.2
+VND00507,40,23.0,58.97,9.21,Vendor_0507,Logistics,Tier 1,93.8
+VND00556,43,23.0,58.97,5.87,Vendor_0556,Textiles,Tier 3,58.2
+VND00296,42,23.0,58.97,4.87,Vendor_0296,Logistics,Tier 2,66.6
+VND00857,51,30.0,58.82,6.88,Vendor_0857,Logistics,Tier 3,32.6
+VND00332,36,20.0,58.82,7.26,Vendor_0332,Chemicals,Tier 1,83.0
+VND00416,52,30.0,58.82,7.27,Vendor_0416,Chemicals,Tier 2,61.4
+VND00861,52,30.0,58.82,6.73,Vendor_0861,Logistics,Tier 1,84.3
+VND00431,39,20.0,58.82,6.26,Vendor_0431,Logistics,Tier 3,40.0
+VND00154,37,20.0,58.82,7.35,Vendor_0154,Packaging,Tier 2,64.3
+VND00318,51,30.0,58.82,8.45,Vendor_0318,Raw Material,Tier 3,42.1
+VND00737,52,30.0,58.82,7.53,Vendor_0737,Packaging,Tier 3,57.5
+VND00448,67,37.0,58.73,7.63,Vendor_0448,Raw Material,Tier 1,82.7
+VND00479,48,27.0,58.7,6.89,Vendor_0479,Chemicals,Tier 1,97.9
+VND00860,49,27.0,58.7,5.78,Vendor_0860,Electronics,Tier 3,34.6
+VND00426,48,27.0,58.7,7.89,Vendor_0426,Textiles,Tier 2,68.5
+VND00036,49,27.0,58.7,6.52,Vendor_0036,Machinery,Tier 1,86.6
+VND00468,50,27.0,58.7,6.89,Vendor_0468,IT Services,Tier 1,90.8
+VND00407,49,27.0,58.7,6.43,Vendor_0407,IT Services,Tier 3,57.2
+VND00263,48,27.0,58.7,6.91,Vendor_0263,Electronics,Tier 3,39.8
+VND00198,42,24.0,58.54,6.29,Vendor_0198,Electronics,Tier 1,92.8
+VND00919,47,24.0,58.54,6.56,Vendor_0919,IT Services,Tier 1,83.5
+VND00896,41,24.0,58.54,7.44,Vendor_0896,Machinery,Tier 3,44.3
+VND00185,55,31.0,58.49,6.81,Vendor_0185,Machinery,Tier 3,48.1
+VND00470,56,31.0,58.49,7.09,Vendor_0470,Chemicals,Tier 1,97.4
+VND00523,56,31.0,58.49,6.38,Vendor_0523,IT Services,Tier 1,97.9
+VND00992,54,31.0,58.49,7.45,Vendor_0992,Machinery,Tier 2,78.6
+VND00659,49,28.0,58.33,7.06,Vendor_0659,Machinery,Tier 2,75.2
+VND00807,49,28.0,58.33,7.88,Vendor_0807,Chemicals,Tier 1,95.4
+VND00424,51,28.0,58.33,7.58,Vendor_0424,Electronics,Tier 2,64.6
+VND00404,50,28.0,58.33,7.12,Vendor_0404,Machinery,Tier 1,87.9
+VND00841,49,28.0,58.33,7.23,Vendor_0841,IT Services,Tier 3,30.9
+VND00476,49,28.0,58.33,8.33,Vendor_0476,IT Services,Tier 1,99.5
+VND00122,50,28.0,58.33,5.6,Vendor_0122,Logistics,Tier 1,92.7
+VND00069,51,28.0,58.33,6.5,Vendor_0069,Chemicals,Tier 3,35.2
+VND00577,57,32.0,58.18,7.62,Vendor_0577,Machinery,Tier 3,40.3
+VND00945,57,32.0,58.18,6.89,Vendor_0945,Textiles,Tier 3,44.4
+VND00389,58,32.0,58.18,7.05,Vendor_0389,Packaging,Tier 1,82.5
+VND00596,58,32.0,58.18,6.0,Vendor_0596,Machinery,Tier 2,63.2
+VND00435,60,32.0,58.18,6.56,Vendor_0435,Textiles,Tier 3,35.9
+VND00632,57,32.0,58.18,6.35,Vendor_0632,IT Services,Tier 1,92.7
+VND00420,45,25.0,58.14,5.6,Vendor_0420,Logistics,Tier 1,82.7
+VND00041,45,25.0,58.14,6.44,Vendor_0041,IT Services,Tier 3,38.5
+VND00672,45,25.0,58.14,7.91,Vendor_0672,Unknown,Tier 1,92.8
+VND00350,45,25.0,58.14,7.42,Vendor_0350,Textiles,Tier 2,73.8
+VND00207,47,25.0,58.14,7.12,Vendor_0207,Machinery,Tier 3,37.1
+VND00231,45,25.0,58.14,6.07,Vendor_0231,IT Services,Tier 1,85.6
+VND00443,57,29.0,58.0,5.76,Vendor_0443,IT Services,Tier 3,56.2
+VND00713,54,29.0,58.0,6.82,Vendor_0713,Electronics,Tier 2,63.0
+VND00383,52,29.0,58.0,6.66,Vendor_0383,Logistics,Tier 2,74.0
+VND00304,55,29.0,58.0,8.5,Vendor_0304,Logistics,Tier 2,74.6
+VND00352,52,29.0,58.0,4.46,Vendor_0352,Unknown,Tier 1,90.0
+VND00950,54,29.0,58.0,7.9,Vendor_0950,IT Services,Tier 2,71.8
+VND00181,55,29.0,58.0,5.44,Vendor_0181,Textiles,Tier 3,53.9
+VND00251,44,22.0,57.89,6.16,Vendor_0251,Textiles,Unclassified,
+VND00302,39,22.0,57.89,6.42,Vendor_0302,Logistics,Tier 2,67.2
+VND00835,58,33.0,57.89,6.74,Vendor_0835,Electronics,Tier 2,64.9
+VND00058,63,33.0,57.89,7.93,Vendor_0058,Packaging,Tier 3,43.7
+VND00585,62,33.0,57.89,5.82,Vendor_0585,Logistics,Tier 2,74.3
+VND00362,40,22.0,57.89,7.79,Vendor_0362,Packaging,Tier 2,75.0
+VND00554,62,33.0,57.89,7.14,Vendor_0554,Electronics,Tier 2,69.3
+VND00467,46,26.0,57.78,6.2,Vendor_0467,Logistics,Tier 3,50.0
+VND00827,47,26.0,57.78,6.6,Vendor_0827,Chemicals,Tier 3,54.2
+VND00165,47,26.0,57.78,7.22,Vendor_0165,Electronics,Tier 3,36.3
+VND00973,47,26.0,57.78,7.02,Vendor_0973,Logistics,Tier 1,81.3
+VND00509,50,26.0,57.78,7.11,Vendor_0509,Machinery,Tier 1,96.5
+VND00900,52,30.0,57.69,5.65,Vendor_0900,Electronics,Tier 3,36.0
+VND00050,57,30.0,57.69,7.21,Vendor_0050,Textiles,Tier 3,42.9
+VND00512,57,30.0,57.69,5.94,Vendor_0512,Chemicals,Tier 3,59.3
+VND00897,36,19.0,57.58,6.42,Vendor_0897,IT Services,Tier 3,50.5
+VND00422,43,23.0,57.5,9.22,Vendor_0422,Packaging,Tier 1,85.3
+VND00052,50,27.0,57.45,7.6,Vendor_0052,Logistics,Tier 1,84.3
+VND00576,54,27.0,57.45,5.13,Vendor_0576,Machinery,Tier 1,96.5
+VND00503,51,27.0,57.45,6.11,Vendor_0503,Textiles,Tier 3,51.7
+VND00685,49,27.0,57.45,5.83,Vendor_0685,Raw Material,Tier 1,95.1
+VND00033,53,27.0,57.45,6.34,Vendor_0033,Raw Material,Unclassified,
+VND00801,48,27.0,57.45,5.66,Vendor_0801,Machinery,Tier 2,79.5
+VND00763,50,27.0,57.45,5.64,Vendor_0763,Machinery,Tier 3,47.4
+VND00331,50,27.0,57.45,9.17,Vendor_0331,Logistics,Tier 3,54.9
+VND00287,50,27.0,57.45,5.66,Vendor_0287,Chemicals,Tier 2,62.6
+VND00754,54,27.0,57.45,6.87,Vendor_0754,IT Services,Tier 3,53.4
+VND00806,50,27.0,57.45,8.11,Vendor_0806,Textiles,Tier 1,81.6
+VND00891,55,31.0,57.41,6.15,Vendor_0891,Unknown,Tier 1,80.6
+VND00879,57,31.0,57.41,8.85,Vendor_0879,Electronics,Tier 3,31.9
+VND00868,64,35.0,57.38,6.38,Vendor_0868,Machinery,Tier 3,42.7
+VND00588,63,35.0,57.38,6.0,Vendor_0588,Machinery,Tier 3,39.0
+VND00016,50,24.0,57.14,4.38,Vendor_0016,Chemicals,Tier 3,42.8
+VND00923,45,24.0,57.14,8.29,Vendor_0923,Electronics,Tier 1,92.6
+VND00874,44,24.0,57.14,6.62,Vendor_0874,Chemicals,Tier 3,58.6
+VND00005,61,32.0,57.14,6.34,Vendor_0005,Logistics,Tier 3,40.9
+VND00026,45,24.0,57.14,6.5,Vendor_0026,IT Services,Unclassified,
+VND00003,44,24.0,57.14,5.21,Vendor_0003,Machinery,Tier 1,81.2
+VND00187,55,28.0,57.14,5.45,Vendor_0187,Raw Material,Tier 1,87.2
+VND00761,46,24.0,57.14,7.14,Vendor_0761,Textiles,Tier 3,40.6
+VND00092,46,24.0,57.14,5.6,Vendor_0092,Raw Material,Tier 2,79.9
+VND00551,64,32.0,57.14,5.79,Vendor_0551,Machinery,Tier 2,66.4
+VND00630,53,28.0,57.14,7.51,Vendor_0630,Textiles,Tier 3,47.7
+VND00056,58,32.0,57.14,6.43,Vendor_0056,Unknown,Tier 1,94.5
+VND00030,44,24.0,57.14,8.31,Vendor_0030,Chemicals,Tier 3,33.3
+VND00668,53,28.0,57.14,5.59,Vendor_0668,Raw Material,Tier 3,41.2
+VND00482,49,28.0,57.14,5.92,Vendor_0482,Raw Material,Tier 2,78.7
+VND00359,45,24.0,57.14,5.88,Vendor_0359,IT Services,Tier 1,95.8
+VND00954,50,28.0,57.14,4.57,Vendor_0954,Electronics,Tier 1,94.0
+VND00442,58,33.0,56.9,7.78,Vendor_0442,Logistics,Tier 1,99.1
+VND00613,62,33.0,56.9,8.26,Vendor_0613,Raw Material,Tier 2,74.0
+VND00082,62,33.0,56.9,7.05,Vendor_0082,Chemicals,Tier 2,73.6
+VND00991,66,33.0,56.9,7.19,Vendor_0991,Packaging,Tier 1,86.0
+VND00432,54,29.0,56.86,6.65,Vendor_0432,Textiles,Tier 1,83.3
+VND00731,53,29.0,56.86,7.53,Vendor_0731,Machinery,Tier 3,41.5
+VND00619,53,29.0,56.86,6.9,Vendor_0619,IT Services,Tier 1,86.4
+VND00686,51,29.0,56.86,7.1,Vendor_0686,Unknown,Tier 2,69.0
+VND00027,53,29.0,56.86,8.78,Vendor_0027,Textiles,Tier 3,44.0
+VND00829,51,29.0,56.86,5.35,Vendor_0829,Packaging,Tier 1,81.6
+VND00910,47,25.0,56.82,6.52,Vendor_0910,Machinery,Tier 3,56.6
+VND00487,44,25.0,56.82,6.36,Vendor_0487,Packaging,Tier 3,33.2
+VND00344,48,25.0,56.82,6.95,Vendor_0344,Packaging,Tier 2,60.4
+VND00418,45,25.0,56.82,7.95,Vendor_0418,Packaging,Tier 3,53.0
+VND00116,46,25.0,56.82,8.0,Vendor_0116,Raw Material,Tier 1,91.0
+VND00200,49,25.0,56.82,7.52,Vendor_0200,Textiles,Tier 1,84.6
+VND00758,45,25.0,56.82,5.86,Vendor_0758,Packaging,Tier 2,67.3
+VND00515,51,25.0,56.82,7.07,Vendor_0515,Electronics,Tier 3,33.2
+VND00462,47,25.0,56.82,6.23,Vendor_0462,Packaging,Tier 2,75.4
+VND00385,47,25.0,56.82,5.52,Vendor_0385,Raw Material,Tier 1,81.5
+VND00520,49,25.0,56.82,6.23,Vendor_0520,Electronics,Tier 3,40.5
+VND00429,47,25.0,56.82,4.43,Vendor_0429,Textiles,Tier 3,54.6
+VND00911,47,25.0,56.82,7.84,Vendor_0911,Electronics,Tier 2,71.3
+VND00667,42,21.0,56.76,8.03,Vendor_0667,Electronics,Tier 3,47.2
+VND00045,40,21.0,56.76,8.14,Vendor_0045,Machinery,Tier 3,48.1
+VND00989,39,21.0,56.76,6.84,Vendor_0989,Chemicals,Tier 3,47.2
+VND00354,66,34.0,56.67,6.27,Vendor_0354,Logistics,Tier 3,41.4
+VND00117,56,30.0,56.6,6.15,Vendor_0117,Logistics,Tier 1,86.3
+VND00335,55,30.0,56.6,6.94,Vendor_0335,Chemicals,Tier 3,33.2
+VND00908,57,30.0,56.6,5.96,Vendor_0908,Textiles,Tier 3,53.9
+VND00342,58,30.0,56.6,6.79,Vendor_0342,Textiles,Tier 2,63.1
+VND00254,55,30.0,56.6,7.87,Vendor_0254,Raw Material,Tier 3,52.2
+VND00605,54,30.0,56.6,7.77,Vendor_0605,Electronics,Unclassified,
+VND00783,52,26.0,56.52,8.26,Vendor_0783,IT Services,Tier 3,47.6
+VND00875,48,26.0,56.52,7.17,Vendor_0875,Logistics,Tier 3,31.8
+VND00666,50,26.0,56.52,5.7,Vendor_0666,Packaging,Tier 3,40.7
+VND00161,49,26.0,56.52,6.67,Vendor_0161,IT Services,Tier 3,55.7
+VND00981,48,26.0,56.52,8.15,Vendor_0981,Machinery,Tier 3,53.4
+VND00325,49,26.0,56.52,6.48,Vendor_0325,Textiles,Tier 1,96.8
+VND00257,50,26.0,56.52,7.09,Vendor_0257,Machinery,Tier 1,95.5
+VND00255,47,26.0,56.52,5.28,Vendor_0255,Chemicals,Tier 3,41.9
+VND00995,48,26.0,56.52,7.41,Vendor_0995,Textiles,Tier 3,55.3
+VND00221,44,22.0,56.41,5.41,Vendor_0221,Electronics,Tier 2,76.0
+VND00183,39,22.0,56.41,6.41,Vendor_0183,Packaging,Tier 1,94.7
+VND00197,45,22.0,56.41,5.13,Vendor_0197,Electronics,Tier 1,80.8
+VND00343,42,22.0,56.41,7.03,Vendor_0343,Machinery,Tier 3,42.1
+VND00428,43,22.0,56.41,7.95,Vendor_0428,IT Services,Tier 1,92.1
+VND00319,58,31.0,56.36,5.65,Vendor_0319,Electronics,Tier 3,41.0
+VND00819,58,31.0,56.36,4.29,Vendor_0819,Packaging,Tier 3,33.8
+VND00137,57,31.0,56.36,5.36,Vendor_0137,Electronics,Tier 2,66.3
+VND00225,59,31.0,56.36,7.22,Vendor_0225,Chemicals,Tier 3,48.6
+VND00517,51,27.0,56.25,6.65,Vendor_0517,Raw Material,Tier 3,56.4
+VND00804,50,27.0,56.25,7.17,Vendor_0804,Electronics,Tier 2,72.5
+VND00216,36,18.0,56.25,6.78,Vendor_0216,Chemicals,Tier 3,46.6
+VND00079,52,27.0,56.25,7.92,Vendor_0079,Machinery,Tier 3,55.1
+VND00982,61,32.0,56.14,6.28,Vendor_0982,Packaging,Tier 1,84.0
+VND00223,63,32.0,56.14,5.96,Vendor_0223,Machinery,Tier 3,36.6
+VND00283,61,32.0,56.14,5.26,Vendor_0283,Packaging,Tier 3,56.3
+VND00409,60,32.0,56.14,5.65,Vendor_0409,Machinery,Tier 1,93.4
+VND00864,45,23.0,56.1,6.66,Vendor_0864,Machinery,Tier 2,60.9
+VND00996,46,23.0,56.1,8.63,Vendor_0996,Electronics,Tier 3,36.4
+VND00220,41,23.0,56.1,4.9,Vendor_0220,Electronics,Tier 1,89.4
+VND00159,43,23.0,56.1,8.34,Vendor_0159,Logistics,Tier 3,46.6
+VND00727,47,23.0,56.1,5.76,Vendor_0727,Raw Material,Tier 3,39.8
+VND00121,54,28.0,56.0,5.74,Vendor_0121,Raw Material,Tier 1,86.5
+VND00607,55,28.0,56.0,8.5,Vendor_0607,Machinery,Tier 3,44.4
+VND00689,52,28.0,56.0,5.8,Vendor_0689,Machinery,Tier 1,83.9
+VND00600,54,28.0,56.0,7.24,Vendor_0600,Raw Material,Tier 3,32.9
+VND00621,52,28.0,56.0,6.76,Vendor_0621,Unknown,Tier 3,42.9
+VND00270,56,28.0,56.0,6.98,Vendor_0270,Raw Material,Tier 3,50.6
+VND00724,51,28.0,56.0,5.92,Vendor_0724,Chemicals,Tier 1,81.9
+VND00699,60,33.0,55.93,6.22,Vendor_0699,IT Services,Tier 3,40.8
+VND00609,61,33.0,55.93,7.93,Vendor_0609,IT Services,Tier 2,65.2
+VND00595,37,19.0,55.88,5.79,Vendor_0595,Packaging,Tier 1,92.8
+VND00966,44,24.0,55.81,6.81,Vendor_0966,Raw Material,Tier 3,54.9
+VND00730,47,24.0,55.81,6.67,Vendor_0730,Packaging,Tier 3,41.5
+VND00557,46,24.0,55.81,7.53,Vendor_0557,IT Services,Tier 3,39.4
+VND00051,48,24.0,55.81,5.88,Vendor_0051,Chemicals,Tier 1,97.9
+VND00469,47,24.0,55.81,5.47,Vendor_0469,Chemicals,Tier 3,45.7
+VND00273,46,24.0,55.81,5.0,Vendor_0273,Raw Material,Tier 1,90.7
+VND00898,56,29.0,55.77,4.37,Vendor_0898,Machinery,Tier 1,92.7
+VND00436,58,29.0,55.77,7.06,Vendor_0436,IT Services,Tier 2,79.1
+VND00170,52,29.0,55.77,5.04,Vendor_0170,IT Services,Tier 2,71.4
+VND00074,55,29.0,55.77,7.33,Vendor_0074,IT Services,Tier 1,87.1
+VND00578,63,34.0,55.74,7.43,Vendor_0578,Machinery,Tier 1,94.9
+VND00967,75,39.0,55.71,6.81,Vendor_0967,Unknown,Tier 1,80.3
+VND00743,62,30.0,55.56,5.17,Vendor_0743,Electronics,Tier 1,82.3
+VND00032,39,20.0,55.56,5.92,Vendor_0032,Logistics,Tier 3,41.9
+VND00612,49,25.0,55.56,5.53,Vendor_0612,Packaging,Tier 1,86.0
+VND00948,39,20.0,55.56,6.17,Vendor_0948,Chemicals,Tier 1,93.0
+VND00099,51,25.0,55.56,7.29,Vendor_0099,Unknown,Tier 3,31.8
+VND00155,40,20.0,55.56,5.14,Vendor_0155,Textiles,Tier 1,99.0
+VND00373,46,25.0,55.56,7.56,Vendor_0373,Raw Material,Tier 3,36.6
+VND00192,39,20.0,55.56,7.0,Vendor_0192,IT Services,Tier 1,92.8
+VND00853,59,31.0,55.36,6.98,Vendor_0853,Textiles,Tier 3,44.7
+VND00048,60,31.0,55.36,8.71,Vendor_0048,Machinery,Tier 2,66.4
+VND00959,59,31.0,55.36,6.2,Vendor_0959,Machinery,Tier 3,41.6
+VND00224,57,31.0,55.36,6.36,Vendor_0224,Packaging,Tier 3,55.7
+VND00851,61,31.0,55.36,6.02,Vendor_0851,Chemicals,Tier 3,34.7
+VND00147,59,31.0,55.36,7.34,Vendor_0147,Textiles,Tier 2,72.7
+VND00145,61,31.0,55.36,5.7,Vendor_0145,Electronics,Tier 3,49.9
+VND00204,51,26.0,55.32,6.4,Vendor_0204,Electronics,Tier 1,92.9
+VND00622,50,26.0,55.32,7.47,Vendor_0622,Unknown,Tier 3,44.7
+VND00869,50,26.0,55.32,6.49,Vendor_0869,Raw Material,Tier 1,90.3
+VND00349,49,26.0,55.32,8.19,Vendor_0349,Machinery,Tier 3,56.2
+VND00746,52,26.0,55.32,5.96,Vendor_0746,Packaging,Tier 1,93.0
+VND00826,50,26.0,55.32,6.57,Vendor_0826,Chemicals,Tier 1,94.4
+VND00312,48,26.0,55.32,5.89,Vendor_0312,Chemicals,Tier 3,35.5
+VND00497,48,26.0,55.32,6.85,Vendor_0497,Electronics,Tier 2,70.9
+VND00291,39,21.0,55.26,4.66,Vendor_0291,Packaging,Tier 3,32.1
+VND00166,42,21.0,55.26,7.55,Vendor_0166,Logistics,Tier 1,88.5
+VND00565,42,21.0,55.26,6.0,Vendor_0565,Logistics,Tier 3,54.5
+VND00434,39,21.0,55.26,6.21,Vendor_0434,Raw Material,Tier 3,37.1
+VND00633,62,32.0,55.17,6.71,Vendor_0633,Machinery,Tier 2,65.8
+VND00928,60,32.0,55.17,8.12,Vendor_0928,Packaging,Tier 2,67.9
+VND00811,58,32.0,55.17,5.84,Vendor_0811,Logistics,Tier 1,98.9
+VND00189,51,27.0,55.1,6.24,Vendor_0189,Chemicals,Tier 2,67.1
+VND00536,52,27.0,55.1,7.82,Vendor_0536,IT Services,Tier 1,96.1
+VND00258,49,27.0,55.1,5.78,Vendor_0258,Packaging,Tier 2,78.7
+VND00889,52,27.0,55.1,7.1,Vendor_0889,Textiles,Tier 3,37.0
+VND00394,52,27.0,55.1,7.92,Vendor_0394,IT Services,Tier 1,84.3
+VND00742,67,33.0,55.0,7.42,Vendor_0742,Logistics,Tier 3,51.1
+VND00452,43,22.0,55.0,6.53,Vendor_0452,Packaging,Tier 2,69.1
+VND00626,66,33.0,55.0,5.78,Vendor_0626,Logistics,Tier 3,55.8
+VND00652,41,22.0,55.0,8.15,Vendor_0652,Raw Material,Tier 2,67.6
+VND00427,41,22.0,55.0,7.25,Vendor_0427,Chemicals,Tier 2,60.9
+VND00124,41,22.0,55.0,4.72,Vendor_0124,Raw Material,Tier 3,37.7
+VND00049,56,28.0,54.9,5.67,Vendor_0049,Textiles,Tier 2,68.3
+VND00651,57,28.0,54.9,6.51,Vendor_0651,Machinery,Tier 3,36.1
+VND00584,53,28.0,54.9,6.9,Vendor_0584,Packaging,Tier 3,53.0
+VND00464,65,34.0,54.84,4.79,Vendor_0464,Machinery,Tier 2,70.8
+VND00615,43,23.0,54.76,8.24,Vendor_0615,IT Services,Tier 1,91.2
+VND00970,46,23.0,54.76,7.21,Vendor_0970,Logistics,Tier 2,63.3
+VND00922,42,23.0,54.76,6.38,Vendor_0922,Logistics,Tier 2,64.1
+VND00884,45,23.0,54.76,7.93,Vendor_0884,Chemicals,Tier 3,37.3
+VND00348,57,29.0,54.72,6.36,Vendor_0348,Packaging,Tier 3,33.2
+VND00767,55,29.0,54.72,5.15,Vendor_0767,IT Services,Tier 1,83.4
+VND00704,55,29.0,54.72,5.32,Vendor_0704,Electronics,Tier 3,39.4
+VND00892,58,29.0,54.72,4.43,Vendor_0892,Packaging,Tier 1,89.9
+VND00271,45,24.0,54.55,7.16,Vendor_0271,Machinery,Tier 1,86.7
+VND00658,46,24.0,54.55,6.07,Vendor_0658,Logistics,Tier 3,55.4
+VND00081,48,24.0,54.55,9.43,Vendor_0081,Packaging,Tier 1,90.4
+VND00552,52,24.0,54.55,4.5,Vendor_0552,Unknown,Tier 1,89.7
+VND00282,57,30.0,54.55,6.93,Vendor_0282,Packaging,Unclassified,
+VND00115,59,30.0,54.55,4.75,Vendor_0115,Chemicals,Unclassified,
+VND00782,37,18.0,54.55,8.82,Vendor_0782,Chemicals,Tier 2,68.0
+VND00295,45,24.0,54.55,5.68,Vendor_0295,IT Services,Tier 3,38.9
+VND00084,34,18.0,54.55,5.94,Vendor_0084,Raw Material,Tier 3,34.4
+VND00102,59,31.0,54.39,6.25,Vendor_0102,Machinery,Tier 2,74.5
+VND00091,50,25.0,54.35,5.39,Vendor_0091,Logistics,Tier 3,38.4
+VND00697,53,25.0,54.35,7.61,Vendor_0697,IT Services,Tier 3,50.2
+VND00054,49,25.0,54.35,7.22,Vendor_0054,IT Services,Tier 1,92.6
+VND00978,49,25.0,54.35,5.93,Vendor_0978,Machinery,Tier 3,33.6
+VND00110,50,25.0,54.35,6.17,Vendor_0110,IT Services,Tier 3,35.4
+VND00151,48,25.0,54.35,6.61,Vendor_0151,Logistics,Tier 1,93.6
+VND00930,39,19.0,54.29,5.06,Vendor_0930,Raw Material,Tier 3,48.1
+VND00777,36,19.0,54.29,5.77,Vendor_0777,Logistics,Tier 3,46.0
+VND00313,40,19.0,54.29,9.23,Vendor_0313,Raw Material,Tier 3,31.8
+VND00796,62,32.0,54.24,6.98,Vendor_0796,Packaging,Tier 1,91.0
+VND00646,51,26.0,54.17,6.5,Vendor_0646,Packaging,Tier 1,92.3
+VND00816,50,26.0,54.17,5.33,Vendor_0816,Electronics,Tier 2,66.3
+VND00401,50,26.0,54.17,6.71,Vendor_0401,Packaging,Tier 3,37.2
+VND00070,51,26.0,54.17,8.42,Vendor_0070,Electronics,Tier 1,99.1
+VND00392,52,26.0,54.17,3.83,Vendor_0392,Logistics,Tier 3,58.9
+VND00739,51,26.0,54.17,6.48,Vendor_0739,Raw Material,Tier 2,60.7
+VND01000,52,26.0,54.17,6.33,Vendor_1000,Chemicals,Tier 2,61.2
+VND00484,49,26.0,54.17,6.08,Vendor_0484,Logistics,Tier 2,73.9
+VND00593,48,26.0,54.17,7.38,Vendor_0593,Logistics,Tier 3,42.7
+VND00832,39,20.0,54.05,7.19,Vendor_0832,Packaging,Tier 2,61.7
+VND00842,40,20.0,54.05,7.57,Vendor_0842,Machinery,Tier 2,76.4
+VND00328,40,20.0,54.05,4.65,Vendor_0328,Raw Material,Tier 2,72.8
+VND00461,52,27.0,54.0,6.86,Vendor_0461,IT Services,Tier 3,38.2
+VND00004,56,27.0,54.0,6.54,Vendor_0004,Chemicals,Tier 2,71.9
+VND00247,55,27.0,54.0,7.58,Vendor_0247,IT Services,Tier 2,60.0
+VND00264,53,27.0,54.0,6.44,Vendor_0264,Packaging,Tier 2,66.3
+VND00592,53,27.0,54.0,8.3,Vendor_0592,Machinery,Tier 2,74.9
+VND00986,52,27.0,54.0,4.06,Vendor_0986,Raw Material,Tier 2,64.7
+VND00208,53,27.0,54.0,5.76,Vendor_0208,Logistics,Tier 2,76.4
+VND00180,53,27.0,54.0,6.56,Vendor_0180,Machinery,Tier 3,39.6
+VND00142,52,27.0,54.0,6.56,Vendor_0142,Textiles,Tier 3,47.6
+VND00233,54,28.0,53.85,6.1,Vendor_0233,Raw Material,Tier 2,70.4
+VND00009,43,21.0,53.85,4.85,Vendor_0009,Machinery,Tier 2,72.1
+VND00175,55,28.0,53.85,5.23,Vendor_0175,Textiles,Tier 2,75.2
+VND00544,54,28.0,53.85,7.77,Vendor_0544,Packaging,Tier 2,77.0
+VND00618,55,28.0,53.85,6.9,Vendor_0618,Textiles,Tier 3,49.4
+VND00952,57,28.0,53.85,6.0,Vendor_0952,Logistics,Tier 2,76.6
+VND00549,42,21.0,53.85,4.9,Vendor_0549,Chemicals,Tier 2,66.4
+VND00290,57,29.0,53.7,8.91,Vendor_0290,Machinery,Tier 2,71.4
+VND00171,56,29.0,53.7,6.48,Vendor_0171,Logistics,Tier 2,77.4
+VND00681,42,22.0,53.66,4.46,Vendor_0681,Raw Material,Tier 1,87.2
+VND00887,45,22.0,53.66,7.17,Vendor_0887,Machinery,Tier 2,75.7
+VND00265,44,22.0,53.66,6.12,Vendor_0265,Raw Material,Tier 1,91.4
+VND00400,46,22.0,53.66,6.93,Vendor_0400,IT Services,Tier 1,82.8
+VND00547,46,22.0,53.66,5.51,Vendor_0547,Chemicals,Tier 3,37.9
+VND00999,43,22.0,53.66,6.76,Vendor_0999,IT Services,Tier 1,96.5
+VND00125,60,30.0,53.57,6.96,Vendor_0125,Chemicals,Tier 3,46.0
+VND00769,59,30.0,53.57,5.23,Vendor_0769,IT Services,Tier 3,53.9
+VND00097,59,30.0,53.57,5.66,Vendor_0097,Electronics,Tier 2,66.6
+VND00456,45,23.0,53.49,6.53,Vendor_0456,Textiles,Tier 2,64.5
+VND00972,46,23.0,53.49,7.16,Vendor_0972,Logistics,Tier 1,95.6
+VND00766,45,23.0,53.49,5.65,Vendor_0766,Machinery,Tier 2,69.9
+VND00823,46,23.0,53.49,6.95,Vendor_0823,Chemicals,Tier 3,53.3
+VND00498,45,23.0,53.49,5.86,Vendor_0498,Packaging,Tier 3,35.4
+VND00939,61,31.0,53.45,7.79,Vendor_0939,Chemicals,Tier 3,38.2
+VND00747,58,31.0,53.45,4.84,Vendor_0747,IT Services,Tier 3,56.9
+VND00292,63,31.0,53.45,6.47,Vendor_0292,Electronics,Tier 3,32.6
+VND00408,49,24.0,53.33,6.98,Vendor_0408,Logistics,Tier 3,30.8
+VND00114,45,24.0,53.33,6.22,Vendor_0114,Electronics,Tier 1,86.6
+VND00840,48,24.0,53.33,7.02,Vendor_0840,Logistics,Tier 2,74.3
+VND00628,61,32.0,53.33,5.57,Vendor_0628,Textiles,Tier 1,82.3
+VND00444,49,24.0,53.33,5.73,Vendor_0444,Logistics,Tier 3,55.9
+VND00916,49,25.0,53.19,7.11,Vendor_0916,Chemicals,Tier 2,60.5
+VND00203,47,25.0,53.19,6.6,Vendor_0203,Raw Material,Tier 3,41.3
+VND00029,52,25.0,53.19,3.96,Vendor_0029,Logistics,Tier 2,71.5
+VND00457,50,25.0,53.19,6.34,Vendor_0457,Raw Material,Tier 3,30.8
+VND00964,48,25.0,53.19,6.89,Vendor_0964,Logistics,Tier 3,57.3
+VND00411,51,25.0,53.19,5.57,Vendor_0411,Electronics,Tier 3,52.4
+VND00700,50,25.0,53.19,5.04,Vendor_0700,Chemicals,Tier 2,63.7
+VND00558,36,17.0,53.12,8.0,Vendor_0558,Logistics,Tier 3,32.0
+VND00406,52,26.0,53.06,8.24,Vendor_0406,Machinery,Tier 1,92.7
+VND00212,51,26.0,53.06,5.2,Vendor_0212,Textiles,Tier 2,78.4
+VND00602,52,26.0,53.06,4.06,Vendor_0602,Machinery,Tier 3,49.5
+VND00160,50,26.0,53.06,7.82,Vendor_0160,Electronics,Tier 1,81.0
+VND00597,50,26.0,53.06,8.63,Vendor_0597,Raw Material,Tier 2,76.7
+VND00285,39,18.0,52.94,6.79,Vendor_0285,Raw Material,Tier 2,70.5
+VND00299,54,27.0,52.94,6.25,Vendor_0299,Chemicals,Tier 2,73.6
+VND00745,54,27.0,52.94,5.53,Vendor_0745,Electronics,Tier 3,46.3
+VND00717,54,27.0,52.94,7.2,Vendor_0717,Electronics,Tier 1,88.1
+VND00169,37,18.0,52.94,6.35,Vendor_0169,IT Services,Tier 3,32.9
+VND00107,55,27.0,52.94,5.33,Vendor_0107,Textiles,Tier 3,58.7
+VND00649,53,27.0,52.94,5.73,Vendor_0649,IT Services,Tier 1,85.2
+VND00410,58,28.0,52.83,6.64,Vendor_0410,IT Services,Tier 3,36.4
+VND00372,59,28.0,52.83,6.32,Vendor_0372,Raw Material,Tier 3,31.3
+VND00935,40,19.0,52.78,7.28,Vendor_0935,Logistics,Tier 3,42.0
+VND00707,56,29.0,52.73,5.04,Vendor_0707,Textiles,Tier 3,52.6
+VND00942,55,29.0,52.73,5.84,Vendor_0942,Textiles,Tier 2,68.8
+VND00502,58,29.0,52.73,4.47,Vendor_0502,Machinery,Tier 2,67.5
+VND00710,43,20.0,52.63,5.76,Vendor_0710,Textiles,Tier 2,77.7
+VND00871,60,30.0,52.63,7.53,Vendor_0871,IT Services,Tier 3,56.1
+VND00485,65,30.0,52.63,6.51,Vendor_0485,Logistics,Tier 2,70.9
+VND00133,39,20.0,52.63,6.11,Vendor_0133,Logistics,Tier 3,38.4
+VND00513,58,30.0,52.63,6.12,Vendor_0513,Textiles,Tier 1,95.3
+VND00230,59,30.0,52.63,5.25,Vendor_0230,Packaging,Tier 2,74.2
+VND00228,40,20.0,52.63,8.34,Vendor_0228,Chemicals,Tier 3,57.5
+VND00594,43,21.0,52.5,6.45,Vendor_0594,Chemicals,Tier 3,54.2
+VND00965,43,21.0,52.5,5.0,Vendor_0965,Raw Material,Tier 3,50.2
+VND00491,42,21.0,52.5,6.62,Vendor_0491,Electronics,Tier 2,61.9
+VND00650,45,21.0,52.5,6.0,Vendor_0650,IT Services,Tier 2,64.9
+VND00604,44,21.0,52.5,7.88,Vendor_0604,IT Services,Tier 3,36.2
+VND00019,65,32.0,52.46,5.43,Vendor_0019,Chemicals,Tier 2,60.2
+VND00926,44,22.0,52.38,4.95,Vendor_0926,Textiles,Tier 3,31.6
+VND00561,47,22.0,52.38,7.48,Vendor_0561,IT Services,Tier 2,79.3
+VND00011,45,22.0,52.38,6.69,Vendor_0011,Logistics,Tier 3,31.4
+VND00112,66,33.0,52.38,6.87,Vendor_0112,Logistics,Tier 3,41.3
+VND00109,44,22.0,52.38,7.45,Vendor_0109,IT Services,Tier 3,46.0
+VND00214,48,23.0,52.27,6.41,Vendor_0214,Machinery,Tier 3,45.7
+VND00787,49,23.0,52.27,5.27,Vendor_0787,IT Services,Tier 2,70.8
+VND00202,45,23.0,52.27,4.48,Vendor_0202,Logistics,Tier 3,35.9
+VND00845,47,23.0,52.27,5.45,Vendor_0845,Raw Material,Tier 3,40.4
+VND00543,45,23.0,52.27,5.75,Vendor_0543,Chemicals,Tier 3,46.0
+VND00267,48,23.0,52.27,5.73,Vendor_0267,Packaging,Tier 2,78.8
+VND00148,49,23.0,52.27,6.68,Vendor_0148,Chemicals,Tier 2,65.2
+VND00095,50,23.0,52.27,4.3,Vendor_0095,Electronics,Tier 1,84.0
+VND00087,71,35.0,52.24,4.97,Vendor_0087,Raw Material,Tier 1,81.1
+VND00471,49,24.0,52.17,5.3,Vendor_0471,Textiles,Tier 3,30.9
+VND00963,51,24.0,52.17,7.26,Vendor_0963,Electronics,Tier 3,47.2
+VND00525,50,24.0,52.17,5.98,Vendor_0525,Textiles,Tier 1,88.7
+VND00317,49,24.0,52.17,7.09,Vendor_0317,Machinery,Tier 3,58.6
+VND00334,50,24.0,52.17,5.76,Vendor_0334,Electronics,Tier 3,38.1
+VND00987,47,24.0,52.17,6.0,Vendor_0987,Chemicals,Tier 2,78.2
+VND00044,50,25.0,52.08,5.23,Vendor_0044,Packaging,Tier 1,93.7
+VND00856,52,25.0,52.08,6.94,Vendor_0856,Machinery,Tier 3,43.3
+VND00925,48,25.0,52.08,5.06,Vendor_0925,Machinery,Tier 3,59.8
+VND00206,49,25.0,52.08,5.62,Vendor_0206,Unknown,Tier 3,30.6
+VND00870,50,25.0,52.08,5.88,Vendor_0870,Raw Material,Tier 1,96.2
+VND00797,49,25.0,52.08,5.21,Vendor_0797,Textiles,Tier 1,95.2
+VND00918,52,25.0,52.08,6.35,Vendor_0918,Logistics,Tier 1,96.4
+VND00131,52,26.0,52.0,5.82,Vendor_0131,Packaging,Tier 3,59.2
+VND00235,51,26.0,52.0,6.54,Vendor_0235,Electronics,Tier 3,43.7
+VND00788,52,26.0,52.0,6.68,Vendor_0788,Raw Material,Tier 3,58.1
+VND00802,50,26.0,52.0,5.3,Vendor_0802,Chemicals,Tier 3,40.7
+VND00862,53,26.0,52.0,6.66,Vendor_0862,Textiles,Tier 2,61.7
+VND00976,52,26.0,52.0,6.88,Vendor_0976,Packaging,Tier 3,48.4
+VND00539,53,27.0,51.92,8.17,Vendor_0539,Textiles,Tier 2,61.5
+VND00921,56,27.0,51.92,5.56,Vendor_0921,Chemicals,Tier 1,90.8
+VND00063,54,27.0,51.92,6.83,Vendor_0063,Textiles,Tier 1,88.0
+VND00008,55,27.0,51.92,5.81,Vendor_0008,Logistics,Tier 1,90.6
+VND00688,55,27.0,51.92,4.77,Vendor_0688,Raw Material,Tier 3,49.6
+VND00309,57,28.0,51.85,5.13,Vendor_0309,Machinery,Tier 1,85.7
+VND00542,55,28.0,51.85,6.26,Vendor_0542,IT Services,Tier 2,72.4
+VND00937,59,29.0,51.79,6.61,Vendor_0937,Textiles,Tier 3,31.3
+VND00794,58,29.0,51.79,5.34,Vendor_0794,IT Services,Tier 2,72.8
+VND00274,62,29.0,51.79,6.57,Vendor_0274,Chemicals,Tier 1,93.9
+VND00635,60,29.0,51.79,5.88,Vendor_0635,Machinery,Tier 3,37.5
+VND00723,61,30.0,51.72,5.5,Vendor_0723,Logistics,Tier 3,34.7
+VND00571,65,30.0,51.72,7.19,Vendor_0571,Chemicals,Tier 2,66.0
+VND00555,60,30.0,51.72,7.14,Vendor_0555,Logistics,Tier 1,91.4
+VND00440,65,31.0,51.67,5.22,Vendor_0440,Textiles,Tier 3,35.7
+VND00863,62,31.0,51.67,6.55,Vendor_0863,Chemicals,Tier 2,66.7
+VND00245,60,31.0,51.67,4.97,Vendor_0245,Logistics,Tier 3,31.1
+VND00413,35,17.0,51.52,4.82,Vendor_0413,Logistics,Tier 1,96.5
+VND00695,34,17.0,51.52,5.27,Vendor_0695,Packaging,Tier 3,38.0
+VND00941,33,17.0,51.52,6.12,Vendor_0941,Packaging,Tier 3,49.2
+VND00219,35,17.0,51.52,7.24,Vendor_0219,IT Services,Tier 2,75.5
+VND00333,37,19.0,51.35,5.03,Vendor_0333,Textiles,Tier 3,31.0
+VND00466,41,20.0,51.28,3.13,Vendor_0466,Chemicals,Tier 3,56.2
+VND00449,42,20.0,51.28,6.15,Vendor_0449,Textiles,Tier 3,56.3
+VND00473,40,20.0,51.28,6.05,Vendor_0473,Unknown,Tier 3,33.0
+VND00129,43,21.0,51.22,8.2,Vendor_0129,IT Services,Tier 3,30.5
+VND00305,44,21.0,51.22,5.1,Vendor_0305,Textiles,Tier 1,80.8
+VND00353,45,21.0,51.22,6.78,Vendor_0353,Machinery,Tier 2,76.1
+VND00904,44,21.0,51.22,5.9,Vendor_0904,Logistics,Tier 2,70.8
+VND00656,44,21.0,51.22,7.76,Vendor_0656,IT Services,Tier 3,38.9
+VND00606,43,21.0,51.22,3.78,Vendor_0606,Raw Material,Tier 2,62.3
+VND00696,48,21.0,51.22,6.49,Vendor_0696,Textiles,Tier 2,72.7
+VND00876,47,22.0,51.16,6.56,Vendor_0876,Logistics,Tier 3,40.9
+VND00865,45,22.0,51.16,6.65,Vendor_0865,Machinery,Tier 3,58.1
+VND00690,46,22.0,51.16,6.28,Vendor_0690,Raw Material,Tier 3,43.1
+VND00949,46,22.0,51.16,6.7,Vendor_0949,Logistics,Tier 1,91.2
+VND00877,45,22.0,51.16,7.02,Vendor_0877,Machinery,Tier 1,80.1
+VND00617,47,22.0,51.16,5.26,Vendor_0617,Electronics,Tier 3,34.3
+VND00132,51,23.0,51.11,5.42,Vendor_0132,IT Services,Tier 3,45.5
+VND00971,49,23.0,51.11,5.6,Vendor_0971,Electronics,Tier 2,76.5
+VND00564,47,23.0,51.11,5.62,Vendor_0564,Machinery,Tier 3,31.0
+VND00012,47,23.0,51.11,6.33,Vendor_0012,Electronics,Tier 1,97.9
+VND00634,48,23.0,51.11,5.56,Vendor_0634,Textiles,Tier 2,67.2
+VND00286,47,23.0,51.11,6.76,Vendor_0286,Packaging,Tier 3,32.5
+VND00998,50,24.0,51.06,4.55,Vendor_0998,IT Services,Tier 3,39.6
+VND00246,48,24.0,51.06,6.79,Vendor_0246,Machinery,Tier 1,95.0
+VND00614,51,24.0,51.06,6.0,Vendor_0614,Machinery,Tier 3,35.7
+VND00977,54,24.0,51.06,6.11,Vendor_0977,Raw Material,Tier 2,71.7
+VND00046,49,24.0,51.06,4.85,Vendor_0046,Packaging,Tier 2,76.4
+VND00182,47,24.0,51.06,5.36,Vendor_0182,IT Services,Tier 3,37.9
+VND00256,51,24.0,51.06,5.11,Vendor_0256,Packaging,Tier 2,69.0
+VND00106,50,25.0,51.02,7.14,Vendor_0106,Unknown,Tier 3,47.5
+VND00370,52,25.0,51.02,7.24,Vendor_0370,Logistics,Tier 3,34.9
+VND00100,53,25.0,51.02,6.86,Vendor_0100,IT Services,Tier 3,37.6
+VND00669,53,26.0,50.98,6.06,Vendor_0669,Unknown,Tier 3,43.1
+VND00458,55,26.0,50.98,4.33,Vendor_0458,Electronics,Tier 2,62.8
+VND00157,53,26.0,50.98,4.16,Vendor_0157,Machinery,Tier 2,77.0
+VND00838,54,26.0,50.98,5.67,Vendor_0838,IT Services,Tier 3,55.4
+VND00858,56,26.0,50.98,6.49,Vendor_0858,Textiles,Tier 2,63.0
+VND00105,53,26.0,50.98,7.71,Vendor_0105,Logistics,Unclassified,
+VND00979,53,26.0,50.98,5.37,Vendor_0979,Packaging,Tier 2,64.7
+VND00573,57,27.0,50.94,5.75,Vendor_0573,Chemicals,Tier 3,57.8
+VND00818,55,27.0,50.94,7.91,Vendor_0818,IT Services,Tier 3,57.9
+VND00854,67,32.0,50.79,5.3,Vendor_0854,Machinery,Tier 1,92.9
+VND00272,56,27.0,50.0,5.13,Vendor_0272,Chemicals,Tier 1,86.7
+VND00167,43,21.0,50.0,5.33,Vendor_0167,Packaging,Tier 3,52.5
+VND00847,48,23.0,50.0,6.61,Vendor_0847,Machinery,Tier 3,36.0
+VND00294,45,22.0,50.0,5.61,Vendor_0294,Raw Material,Tier 3,55.2
+VND00859,55,26.0,50.0,5.98,Vendor_0859,Unknown,Tier 2,69.5
+VND00053,43,19.0,50.0,5.84,Vendor_0053,Packaging,Tier 1,95.8
+VND00958,58,27.0,50.0,5.28,Vendor_0958,Textiles,Tier 3,33.3
+VND00890,37,17.0,50.0,5.94,Vendor_0890,Packaging,Tier 3,47.0
+VND00006,53,24.0,50.0,5.44,Vendor_0006,Electronics,Tier 3,40.9
+VND00844,40,19.0,50.0,6.34,Vendor_0844,Machinery,Tier 1,97.3
+VND00880,34,17.0,50.0,5.53,Vendor_0880,Unknown,Tier 3,45.5
+VND00886,47,22.0,50.0,6.2,Vendor_0886,Unknown,Tier 3,42.5
+VND00269,42,20.0,50.0,5.17,Vendor_0269,Unknown,Tier 3,55.2
+VND00210,52,25.0,50.0,4.28,Vendor_0210,Logistics,Tier 3,41.3
+VND00060,59,28.0,50.0,7.09,Vendor_0060,Textiles,Tier 3,52.8
+VND00670,56,26.0,50.0,5.46,Vendor_0670,Machinery,Tier 3,50.0
+VND00732,49,21.0,50.0,6.4,Vendor_0732,IT Services,Tier 1,87.0
+VND00640,40,18.0,50.0,5.58,Vendor_0640,Machinery,Tier 3,56.4
+VND00750,45,19.0,50.0,3.32,Vendor_0750,Textiles,Tier 2,73.7
+VND00657,54,26.0,50.0,7.1,Vendor_0657,Electronics,Tier 3,49.9
+VND00093,44,18.0,50.0,7.19,Vendor_0093,Logistics,Tier 1,83.3
+VND00375,51,24.0,50.0,6.52,Vendor_0375,IT Services,Tier 3,35.0
+VND00662,55,26.0,50.0,6.9,Vendor_0662,Electronics,Tier 1,99.1
+VND00371,50,24.0,50.0,4.5,Vendor_0371,Packaging,Tier 3,37.1
+VND00590,43,20.0,50.0,5.65,Vendor_0590,Electronics,Tier 3,40.6
+VND00477,42,20.0,50.0,4.15,Vendor_0477,Raw Material,Tier 3,35.2
+VND00080,43,20.0,50.0,5.03,Vendor_0080,Logistics,Tier 3,38.1
+VND00384,62,29.0,50.0,6.62,Vendor_0384,Packaging,Tier 1,91.4
+VND00086,46,22.0,50.0,8.8,Vendor_0086,IT Services,Tier 3,52.8
+VND00673,42,20.0,50.0,4.83,Vendor_0673,Electronics,Tier 3,35.6
+VND00537,48,22.0,50.0,6.5,Vendor_0537,Logistics,Tier 1,89.5
+VND00077,45,21.0,50.0,4.38,Vendor_0077,Packaging,Tier 1,84.0
+VND00126,59,28.0,50.0,7.95,Vendor_0126,Electronics,Tier 3,59.9
+VND00494,54,26.0,50.0,7.33,Vendor_0494,Machinery,Tier 3,43.2
+VND00403,46,23.0,50.0,6.63,Vendor_0403,IT Services,Tier 2,65.4
+VND00488,54,24.0,50.0,6.48,Vendor_0488,Logistics,Tier 3,49.7
+VND00186,58,28.0,49.12,5.82,Vendor_0186,Logistics,Tier 2,76.2
+VND00068,61,28.0,49.12,6.23,Vendor_0068,Machinery,Tier 1,86.2
+VND00141,58,27.0,49.09,5.2,Vendor_0141,Textiles,Tier 1,97.4
+VND00962,57,26.0,49.06,4.25,Vendor_0962,IT Services,Tier 2,72.2
+VND00475,52,25.0,49.02,5.08,Vendor_0475,Electronics,Tier 2,66.9
+VND00438,51,25.0,49.02,6.65,Vendor_0438,Chemicals,Tier 1,87.5
+VND00792,52,25.0,49.02,4.78,Vendor_0792,IT Services,Tier 2,71.0
+VND00638,51,25.0,49.02,5.98,Vendor_0638,Logistics,Tier 3,47.0
+VND00608,52,25.0,49.02,5.59,Vendor_0608,IT Services,Tier 3,55.5
+VND00419,53,24.0,48.98,7.12,Vendor_0419,Packaging,Tier 2,77.1
+VND00425,50,24.0,48.98,3.49,Vendor_0425,Textiles,Tier 3,34.0
+VND00152,52,24.0,48.98,5.16,Vendor_0152,Logistics,Tier 3,46.8
+VND00562,52,23.0,48.94,5.7,Vendor_0562,Raw Material,Tier 3,44.9
+VND00678,48,23.0,48.94,4.21,Vendor_0678,IT Services,Tier 3,57.8
+VND00380,47,22.0,48.89,5.73,Vendor_0380,Textiles,Tier 3,49.7
+VND00752,49,22.0,48.89,6.02,Vendor_0752,IT Services,Tier 1,95.8
+VND00232,51,22.0,48.89,5.56,Vendor_0232,Machinery,Tier 2,65.2
+VND00570,46,22.0,48.89,5.0,Vendor_0570,IT Services,Tier 3,54.4
+VND00583,49,22.0,48.89,5.96,Vendor_0583,Electronics,Tier 2,64.5
+VND00040,47,21.0,48.84,6.14,Vendor_0040,Unknown,Tier 2,60.8
+VND00064,45,21.0,48.84,3.53,Vendor_0064,IT Services,Tier 3,55.0
+VND00774,47,21.0,48.84,4.81,Vendor_0774,IT Services,Tier 3,57.8
+VND00784,47,21.0,48.84,4.93,Vendor_0784,Textiles,Tier 3,54.2
+VND00073,46,21.0,48.84,7.12,Vendor_0073,Packaging,Tier 3,30.4
+VND00301,42,20.0,48.78,4.15,Vendor_0301,Logistics,Tier 3,33.6
+VND00259,45,20.0,48.78,6.54,Vendor_0259,IT Services,Tier 2,69.9
+VND00983,44,20.0,48.78,3.95,Vendor_0983,Electronics,Tier 3,37.5
+VND00351,42,19.0,48.72,6.31,Vendor_0351,Raw Material,Tier 2,65.2
+VND00733,41,18.0,48.65,6.24,Vendor_0733,IT Services,Tier 2,76.6
+VND00042,38,18.0,48.65,5.32,Vendor_0042,Textiles,Tier 2,64.7
+VND00711,40,17.0,48.57,6.6,Vendor_0711,Raw Material,Tier 1,83.2
+VND00395,40,17.0,48.57,4.14,Vendor_0395,Packaging,Tier 3,53.9
+VND00850,38,16.0,48.48,3.79,Vendor_0850,IT Services,Tier 2,71.7
+VND00990,66,30.0,48.39,6.1,Vendor_0990,Raw Material,Tier 1,87.3
+VND00522,62,29.0,48.33,5.03,Vendor_0522,Chemicals,Tier 3,56.7
+VND00303,60,28.0,48.28,4.74,Vendor_0303,Raw Material,Tier 2,67.8
+VND00249,62,28.0,48.28,3.72,Vendor_0249,Raw Material,Tier 1,97.5
+VND00260,36,14.0,48.28,5.31,Vendor_0260,Textiles,Tier 3,36.8
+VND00692,53,25.0,48.08,4.4,Vendor_0692,IT Services,Tier 3,59.8
+VND00878,55,25.0,48.08,5.02,Vendor_0878,Packaging,Tier 2,76.1
+VND00636,52,24.0,48.0,5.94,Vendor_0636,Raw Material,Tier 2,61.3
+VND00714,52,24.0,48.0,7.14,Vendor_0714,Chemicals,Tier 3,58.8
+VND00402,54,23.0,47.92,4.92,Vendor_0402,IT Services,Tier 1,93.2
+VND00021,53,23.0,47.92,6.23,Vendor_0021,Machinery,Tier 2,72.8
+VND00846,48,22.0,47.83,4.96,Vendor_0846,IT Services,Tier 3,59.0
+VND00177,48,22.0,47.83,4.15,Vendor_0177,Textiles,Tier 2,78.4
+VND00188,49,22.0,47.83,5.78,Vendor_0188,Raw Material,Tier 2,68.9
+VND00708,51,22.0,47.83,6.0,Vendor_0708,IT Services,Tier 1,86.7
+VND00691,45,21.0,47.73,4.66,Vendor_0691,Packaging,Tier 3,52.7
+VND00715,47,21.0,47.73,6.77,Vendor_0715,Machinery,Tier 3,54.4
+VND00481,46,21.0,47.73,6.55,Vendor_0481,Electronics,Tier 2,74.1
+VND00793,46,21.0,47.73,7.36,Vendor_0793,Electronics,Tier 2,65.4
+VND00568,45,21.0,47.73,7.45,Vendor_0568,Machinery,Tier 2,60.6
+VND00679,44,20.0,47.62,3.21,Vendor_0679,IT Services,Tier 1,97.9
+VND00574,43,20.0,47.62,5.83,Vendor_0574,Chemicals,Tier 2,73.5
+VND00790,44,20.0,47.62,6.5,Vendor_0790,Chemicals,Tier 1,96.3
+VND00740,45,20.0,47.62,4.93,Vendor_0740,Textiles,Tier 3,56.4
+VND00741,43,20.0,47.62,5.74,Vendor_0741,Unknown,Tier 2,62.4
+VND00357,46,20.0,47.62,5.12,Vendor_0357,IT Services,Tier 3,31.9
+VND00499,45,19.0,47.5,5.03,Vendor_0499,Machinery,Tier 1,98.2
+VND00820,44,19.0,47.5,4.53,Vendor_0820,Machinery,Tier 3,53.5
+VND00579,44,19.0,47.5,4.7,Vendor_0579,Logistics,Tier 2,64.4
+VND00149,44,19.0,47.5,6.1,Vendor_0149,Electronics,Tier 3,33.6
+VND00545,41,19.0,47.5,5.8,Vendor_0545,IT Services,Tier 2,73.3
+VND00483,42,19.0,47.5,4.25,Vendor_0483,Raw Material,Tier 2,61.8
+VND00881,44,19.0,47.5,5.3,Vendor_0881,Machinery,Tier 3,46.2
+VND00778,41,19.0,47.5,4.95,Vendor_0778,Textiles,Tier 1,80.6
+VND00833,40,18.0,47.37,4.61,Vendor_0833,Packaging,Tier 3,39.9
+VND00712,62,27.0,47.37,4.72,Vendor_0712,IT Services,Tier 2,71.7
+VND00553,59,27.0,47.37,4.61,Vendor_0553,Logistics,Tier 2,68.6
+VND00611,59,26.0,47.27,7.69,Vendor_0611,Chemicals,Tier 3,32.8
+VND00735,57,25.0,47.17,3.91,Vendor_0735,Raw Material,Tier 3,55.1
+VND00902,56,24.0,47.06,6.9,Vendor_0902,Electronics,Tier 3,31.9
+VND00645,56,24.0,47.06,3.98,Vendor_0645,Electronics,Tier 3,38.4
+VND00227,42,16.0,47.06,4.62,Vendor_0227,Logistics,Tier 1,98.1
+VND00566,51,23.0,46.94,5.04,Vendor_0566,Textiles,Tier 2,71.3
+VND00624,55,23.0,46.94,4.12,Vendor_0624,Machinery,Tier 2,63.9
+VND00759,51,23.0,46.94,6.82,Vendor_0759,Electronics,Unclassified,
+VND00379,52,23.0,46.94,5.37,Vendor_0379,Logistics,Tier 1,87.0
+VND00213,33,15.0,46.88,8.06,Vendor_0213,Packaging,Tier 2,75.6
+VND00310,51,21.0,46.67,4.67,Vendor_0310,Chemicals,Tier 3,49.0
+VND00153,49,21.0,46.67,4.36,Vendor_0153,IT Services,Tier 3,40.1
+VND00968,51,21.0,46.67,4.82,Vendor_0968,Logistics,Tier 3,50.8
+VND00140,47,21.0,46.67,3.8,Vendor_0140,Chemicals,Tier 1,98.0
+VND00637,49,21.0,46.67,4.96,Vendor_0637,Electronics,Tier 2,67.3
+VND00119,63,27.0,46.55,4.03,Vendor_0119,Raw Material,Tier 1,92.5
+VND00943,47,20.0,46.51,4.93,Vendor_0943,Electronics,Tier 2,75.6
+VND00421,45,20.0,46.51,5.26,Vendor_0421,Textiles,Tier 1,85.4
+VND00913,47,20.0,46.51,5.21,Vendor_0913,Chemicals,Tier 2,73.7
+VND00417,45,20.0,46.51,4.21,Vendor_0417,Electronics,Tier 3,50.5
+VND00675,49,20.0,46.51,5.98,Vendor_0675,Machinery,Tier 3,58.7
+VND00729,46,20.0,46.51,4.12,Vendor_0729,Machinery,Tier 3,44.1
+VND00589,60,26.0,46.43,5.62,Vendor_0589,Machinery,Tier 3,39.0
+VND00768,43,19.0,46.34,6.9,Vendor_0768,Packaging,Tier 1,91.4
+VND00994,42,19.0,46.34,2.88,Vendor_0994,Packaging,Tier 2,71.3
+VND00465,46,19.0,46.34,5.95,Vendor_0465,Textiles,Tier 1,97.4
+VND00931,56,25.0,46.3,5.11,Vendor_0931,Machinery,Tier 3,39.8
+VND00572,57,25.0,46.3,5.02,Vendor_0572,Textiles,Tier 1,84.9
+VND00569,40,18.0,46.15,5.59,Vendor_0569,Chemicals,Tier 1,93.3
+VND00505,57,24.0,46.15,4.6,Vendor_0505,Logistics,Tier 2,77.9
+VND00174,44,18.0,46.15,4.1,Vendor_0174,Packaging,Tier 3,45.9
+VND00240,45,18.0,46.15,6.0,Vendor_0240,Packaging,Tier 3,42.4
+VND00532,43,18.0,46.15,6.21,Vendor_0532,Chemicals,Tier 1,100.0
+VND00367,43,18.0,46.15,5.46,Vendor_0367,Logistics,Tier 1,97.3
+VND00178,52,23.0,46.0,4.8,Vendor_0178,Machinery,Tier 3,57.1
+VND00136,53,23.0,46.0,4.44,Vendor_0136,Logistics,Tier 3,52.6
+VND00455,36,16.0,45.71,4.57,Vendor_0455,Raw Material,Tier 3,37.8
+VND00676,38,16.0,45.71,4.57,Vendor_0676,Textiles,Tier 1,98.8
+VND00894,47,21.0,45.65,3.07,Vendor_0894,Machinery,Tier 3,57.8
+VND00164,48,21.0,45.65,5.46,Vendor_0164,Raw Material,Tier 2,67.5
+VND00297,72,31.0,45.59,6.1,Vendor_0297,Logistics,Tier 1,83.9
+VND00694,59,25.0,45.45,5.27,Vendor_0694,Machinery,Tier 3,47.0
+VND00895,48,20.0,45.45,4.93,Vendor_0895,Packaging,Tier 2,76.8
+VND00836,65,29.0,45.31,4.17,Vendor_0836,Textiles,Tier 3,59.3
+VND00460,48,19.0,45.24,3.19,Vendor_0460,Packaging,Tier 3,38.3
+VND00018,45,19.0,45.24,4.79,Vendor_0018,Chemicals,Tier 2,66.7
+VND00279,45,19.0,45.24,4.21,Vendor_0279,Textiles,Tier 2,79.1
+VND00914,53,23.0,45.1,4.12,Vendor_0914,Machinery,Unclassified,
+VND00024,41,18.0,45.0,5.38,Vendor_0024,Logistics,Tier 3,55.6
+VND00266,42,18.0,45.0,6.58,Vendor_0266,Chemicals,Tier 1,81.9
+VND00744,53,22.0,44.9,5.31,Vendor_0744,IT Services,Tier 2,65.2
+VND00883,54,22.0,44.9,6.43,Vendor_0883,Raw Material,Tier 3,31.4
+VND00324,39,17.0,44.74,3.11,Vendor_0324,Electronics,Tier 3,49.6
+VND00338,50,21.0,44.68,4.81,Vendor_0338,Machinery,Tier 2,79.3
+VND00062,57,24.0,44.44,4.8,Vendor_0062,Textiles,Tier 3,49.0
+VND00798,63,27.0,44.26,4.82,Vendor_0798,Packaging,Tier 2,69.6
+VND00932,57,23.0,44.23,3.46,Vendor_0932,IT Services,Tier 1,88.4
+VND00347,45,19.0,44.19,5.05,Vendor_0347,Textiles,Tier 2,74.5
+VND00969,35,15.0,44.12,2.26,Vendor_0969,Unknown,Tier 2,69.6
+VND00756,52,22.0,44.0,4.0,Vendor_0756,Textiles,Tier 1,85.6
+VND00757,50,22.0,44.0,6.06,Vendor_0757,Logistics,Tier 2,73.4
+VND00311,53,22.0,44.0,6.1,Vendor_0311,Textiles,Tier 2,60.7
+VND00907,41,18.0,43.9,3.29,Vendor_0907,Electronics,Tier 1,87.2
+VND00369,43,18.0,43.9,6.71,Vendor_0369,Logistics,Tier 3,43.7
+VND00388,49,21.0,43.75,3.29,Vendor_0388,Logistics,Tier 3,42.4
+VND00368,52,21.0,43.75,6.02,Vendor_0368,Machinery,Tier 1,93.4
+VND00534,55,24.0,43.64,5.15,Vendor_0534,Electronics,Tier 2,68.9
+VND00951,42,17.0,43.59,5.77,Vendor_0951,IT Services,Tier 2,72.0
+VND00974,47,20.0,43.48,4.43,Vendor_0974,Logistics,Tier 3,45.0
+VND00915,49,20.0,43.48,4.76,Vendor_0915,Textiles,Tier 2,68.6
+VND00209,38,16.0,43.24,5.73,Vendor_0209,Chemicals,Tier 3,30.4
+VND00158,41,16.0,43.24,5.57,Vendor_0158,IT Services,Tier 1,83.3
+VND00261,46,19.0,43.18,3.64,Vendor_0261,Raw Material,Tier 2,73.1
+VND00108,56,22.0,43.14,5.69,Vendor_0108,Chemicals,Tier 1,82.9
+VND00639,64,27.0,42.86,5.76,Vendor_0639,Logistics,Tier 3,48.8
+VND00463,55,21.0,42.86,4.29,Vendor_0463,Raw Material,Tier 1,82.2
+VND00454,55,23.0,42.59,5.69,Vendor_0454,Packaging,Tier 1,93.4
+VND00955,48,20.0,42.55,5.87,Vendor_0955,Chemicals,Tier 3,59.3
+VND00430,46,17.0,42.5,6.15,Vendor_0430,Raw Material,Tier 3,38.2
+VND00779,42,17.0,42.5,6.83,Vendor_0779,Logistics,Tier 1,80.4
+VND00677,56,22.0,42.31,3.96,Vendor_0677,Machinery,Tier 3,37.8
+VND00644,55,22.0,42.31,5.94,Vendor_0644,Packaging,Tier 3,52.9
+VND00446,53,22.0,42.31,6.79,Vendor_0446,Textiles,Tier 1,96.3
+VND00947,47,19.0,42.22,5.78,Vendor_0947,Raw Material,Tier 3,39.6
+VND00680,46,19.0,42.22,4.93,Vendor_0680,Electronics,Tier 1,90.6
+VND00215,44,16.0,42.11,5.39,Vendor_0215,IT Services,Tier 2,79.9
+VND00480,56,21.0,42.0,5.54,Vendor_0480,Logistics,Tier 2,66.6
+VND00786,53,21.0,42.0,6.08,Vendor_0786,Packaging,Tier 1,93.6
+VND00661,48,18.0,41.86,7.02,Vendor_0661,Textiles,Tier 3,54.9
+VND00377,47,18.0,41.86,4.67,Vendor_0377,IT Services,Tier 1,89.1
+VND00528,53,20.0,41.67,4.62,Vendor_0528,IT Services,Tier 3,49.1
+VND00433,54,22.0,41.51,3.45,Vendor_0433,Textiles,Unclassified,
+VND00703,43,17.0,41.46,5.41,Vendor_0703,Chemicals,Tier 3,53.6
+VND00901,50,19.0,41.3,4.57,Vendor_0901,IT Services,Tier 3,44.6
+VND00563,50,19.0,41.3,3.89,Vendor_0563,Electronics,Tier 3,39.5
+VND00780,48,18.0,40.91,5.55,Vendor_0780,Textiles,Tier 2,74.9
+VND00390,51,20.0,40.82,4.37,Vendor_0390,IT Services,Tier 1,86.5
+VND00663,43,15.0,40.54,5.03,Vendor_0663,Logistics,Tier 2,72.4
+VND00795,55,21.0,40.38,5.23,Vendor_0795,Raw Material,Tier 3,31.3
+VND00580,60,22.0,40.0,3.93,Vendor_0580,Electronics,Tier 3,48.1
+VND00414,42,16.0,40.0,5.72,Vendor_0414,Machinery,Tier 2,70.1
+VND00103,57,21.0,39.62,5.23,Vendor_0103,Textiles,Tier 3,52.0
+VND00492,51,19.0,39.58,5.15,Vendor_0492,Logistics,Tier 2,73.4
+VND00641,51,19.0,39.58,3.62,Vendor_0641,Electronics,Tier 3,31.4
+VND00217,49,18.0,39.13,5.04,Vendor_0217,Electronics,Tier 3,52.8
+VND00721,42,16.0,39.02,3.88,Vendor_0721,Unknown,Tier 1,95.7
+VND00765,48,17.0,38.64,4.52,Vendor_0765,Machinery,Tier 3,32.3
+VND00194,35,13.0,38.24,4.91,Vendor_0194,Raw Material,Tier 2,74.3
+VND00289,47,17.0,37.78,4.69,Vendor_0289,Logistics,Tier 3,50.1
+VND00237,53,18.0,37.5,3.58,Vendor_0237,Machinery,Tier 3,49.7
+VND00702,52,18.0,37.5,5.19,Vendor_0702,Chemicals,Tier 3,33.6
+VND00222,38,13.0,37.14,4.97,Vendor_0222,Logistics,Tier 2,69.8
+VND00843,56,20.0,36.36,4.8,Vendor_0843,IT Services,Tier 3,42.5
+VND00055,41,14.0,35.9,5.49,Vendor_0055,Electronics,Tier 2,71.9
+VND00720,54,17.0,34.0,4.34,Vendor_0720,IT Services,Tier 1,81.2
+VND00277,39,13.0,33.33,3.03,Vendor_0277,Electronics,Tier 1,85.9
+VND00139,45,14.0,31.82,3.66,Vendor_0139,Textiles,Tier 3,55.5
+VND00412,46,13.0,31.71,2.95,Vendor_0412,Machinery,Tier 1,96.5
+VND00736,46,13.0,30.95,4.26,Vendor_0736,Unknown,Tier 1,91.4

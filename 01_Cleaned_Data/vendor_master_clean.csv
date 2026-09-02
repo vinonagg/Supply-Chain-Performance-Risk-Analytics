@@ -1,0 +1,1001 @@
+Vendor_ID,Vendor_Name,Vendor_Category,Country,Reliability_Score,Reliability_Score_Flag,Lead_Time_Days,Vendor_Tier,Contact_Email,Active_Since_Year
+VND00757,Vendor_0757,Logistics,Malaysia,73.4,Valid,38,Tier 2,contact756@vendor756.com,2017
+VND00464,Vendor_0464,Machinery,India,70.8,Valid,6,Tier 2,contact463@vendor463.com,2008
+VND00868,Vendor_0868,Machinery,Thailand,42.7,Valid,34,Tier 3,contact867@vendor867.com,2016
+VND00497,Vendor_0497,Electronics,Vietnam,70.9,Valid,39,Tier 2,contact496@vendor496.com,2005
+VND00634,Vendor_0634,Textiles,South Korea,67.2,Valid,25,Tier 2,contact633@vendor633.com,2022
+VND00289,Vendor_0289,Logistics,Vietnam,50.1,Valid,31,Tier 3,contact288@vendor288.com,2013
+VND00052,Vendor_0052,Logistics,China,84.3,Valid,36,Tier 1,contact51@vendor51.com,2021
+VND00243,Vendor_0243,Logistics,Thailand,94.0,Valid,32,Tier 1,contact242@vendor242.com,2009
+VND00224,Vendor_0224,Packaging,Unknown,55.7,Valid,15,Tier 3,contact223@vendor223.com,2012
+VND00087,Vendor_0087,Raw Material,USA,81.1,Valid,41,Tier 1,contact86@vendor86.com,2015
+VND00953,Vendor_0953,Chemicals,South Korea,42.3,Valid,15,Tier 3,contact952@vendor952.com,2017
+VND00037,Vendor_0037,Electronics,South Korea,51.3,Valid,25,Tier 3,contact36@vendor36.com,2005
+VND00436,Vendor_0436,IT Services,Malaysia,79.1,Valid,21,Tier 2,contact435@vendor435.com,2011
+VND00447,Vendor_0447,IT Services,South Korea,99.0,Valid,34,Tier 1,contact446@vendor446.com,2006
+VND00061,Vendor_0061,Electronics,China,57.2,Valid,31,Tier 3,contact60@vendor60.com,2016
+VND00945,Vendor_0945,Textiles,Japan,44.4,Valid,6,Tier 3,contact944@vendor944.com,2005
+VND00672,Vendor_0672,Unknown,Vietnam,92.8,Valid,27,Tier 1,contact671@vendor671.com,2022
+VND00791,Vendor_0791,Unknown,Malaysia,40.7,Valid,21,Tier 3,contact790@vendor790.com,2022
+VND00500,Vendor_0500,Electronics,Thailand,99.0,Valid,43,Tier 1,contact499@vendor499.com,2022
+VND00475,Vendor_0475,Electronics,Thailand,66.9,Valid,36,Tier 2,contact474@vendor474.com,2011
+VND00146,Vendor_0146,Raw Material,Bangladesh,32.6,Valid,39,Tier 3,contact145@vendor145.com,2008
+VND00682,Vendor_0682,Textiles,South Korea,48.1,Valid,23,Tier 3,contact681@vendor681.com,2021
+VND00445,Vendor_0445,Machinery,South Korea,86.9,Valid,24,Tier 1,contact444@vendor444.com,2009
+VND00270,Vendor_0270,Raw Material,Thailand,50.6,Valid,13,Tier 3,contact269@vendor269.com,2009
+VND00983,Vendor_0983,Electronics,Japan,37.5,Valid,9,Tier 3,contact982@vendor982.com,2011
+VND00482,Vendor_0482,Raw Material,South Korea,78.7,Valid,20,Tier 2,contact481@vendor481.com,2006
+VND00755,Vendor_0755,Packaging,China,,Out of Range (0-100),20,Unclassified,contact754@vendor754.com,2021
+VND00060,Vendor_0060,Textiles,Unknown,52.8,Valid,6,Tier 3,contact59@vendor59.com,2022
+VND00229,Vendor_0229,Machinery,USA,,Out of Range (0-100),33,Unclassified,contact228@vendor228.com,2008
+VND00958,Vendor_0958,Textiles,China,33.3,Valid,31,Tier 3,contact957@vendor957.com,2014
+VND00963,Vendor_0963,Electronics,India,47.2,Valid,25,Tier 3,contact962@vendor962.com,2018
+VND00875,Vendor_0875,Logistics,Thailand,31.8,Valid,38,Tier 3,contact874@vendor874.com,2020
+VND00845,Vendor_0845,Raw Material,South Korea,40.4,Valid,19,Tier 3,contact844@vendor844.com,2010
+VND00442,Vendor_0442,Logistics,Japan,99.1,Valid,8,Tier 1,contact441@vendor441.com,2013
+VND00018,Vendor_0018,Chemicals,Malaysia,66.7,Valid,17,Tier 2,contact17@vendor17.com,2022
+VND00977,Vendor_0977,Raw Material,Bangladesh,71.7,Valid,21,Tier 2,contact976@vendor976.com,2006
+VND00800,Vendor_0800,IT Services,Japan,94.6,Valid,39,Tier 1,contact799@vendor799.com,
+VND01000,Vendor_1000,Chemicals,Japan,61.2,Valid,9,Tier 2,Not Provided,2014
+VND00269,Vendor_0269,Unknown,China,55.2,Valid,31,Tier 3,contact268@vendor268.com,2015
+VND00011,Vendor_0011,Logistics,Malaysia,31.4,Valid,18,Tier 3,contact10@vendor10.com,2006
+VND00718,Vendor_0718,Textiles,Germany,97.6,Valid,41,Tier 1,contact717@vendor717.com,
+VND00513,Vendor_0513,Textiles,Malaysia,95.3,Valid,26,Tier 1,contact512@vendor512.com,2010
+VND00186,Vendor_0186,Logistics,India,76.2,Valid,42,Tier 2,contact185@vendor185.com,2019
+VND00470,Vendor_0470,Chemicals,Bangladesh,97.4,Valid,38,Tier 1,contact469@vendor469.com,2011
+VND00411,Vendor_0411,Electronics,China,52.4,Valid,43,Tier 3,contact410@vendor410.com,2022
+VND00710,Vendor_0710,Textiles,Vietnam,77.7,Valid,6,Tier 2,contact709@vendor709.com,2020
+VND00486,Vendor_0486,Raw Material,South Korea,93.1,Valid,35,Tier 1,contact485@vendor485.com,2018
+VND00694,Vendor_0694,Machinery,Germany,47.0,Valid,21,Tier 3,contact693@vendor693.com,2013
+VND00580,Vendor_0580,Electronics,USA,48.1,Valid,10,Tier 3,contact579@vendor579.com,2012
+VND00405,Vendor_0405,Logistics,USA,52.4,Valid,11,Tier 3,contact404@vendor404.com,2014
+VND00532,Vendor_0532,Chemicals,Vietnam,100.0,Valid,3,Tier 1,contact531@vendor531.com,2016
+VND00042,Vendor_0042,Textiles,South Korea,64.7,Valid,41,Tier 2,contact41@vendor41.com,2010
+VND00964,Vendor_0964,Logistics,South Korea,57.3,Valid,21,Tier 3,contact963@vendor963.com,2008
+VND00222,Vendor_0222,Logistics,South Korea,69.8,Valid,4,Tier 2,contact221@vendor221.com,2006
+VND00386,Vendor_0386,Electronics,Japan,86.2,Valid,43,Tier 1,contact385@vendor385.com,2019
+VND00330,Vendor_0330,Raw Material,South Korea,47.3,Valid,5,Tier 3,contact329@vendor329.com,2019
+VND00056,Vendor_0056,Unknown,Japan,94.5,Valid,28,Tier 1,contact55@vendor55.com,2009
+VND00174,Vendor_0174,Packaging,Malaysia,45.9,Valid,39,Tier 3,contact173@vendor173.com,2010
+VND00980,Vendor_0980,Packaging,Unknown,71.8,Valid,23,Tier 2,contact979@vendor979.com,2009
+VND00498,Vendor_0498,Packaging,Germany,35.4,Valid,7,Tier 3,contact497@vendor497.com,2022
+VND00335,Vendor_0335,Chemicals,China,33.2,Valid,17,Tier 3,contact334@vendor334.com,2018
+VND00392,Vendor_0392,Logistics,Germany,58.9,Valid,24,Tier 3,contact391@vendor391.com,2010
+VND00144,Vendor_0144,Raw Material,Thailand,51.1,Valid,6,Tier 3,contact143@vendor143.com,2005
+VND00662,Vendor_0662,Electronics,Bangladesh,99.1,Valid,11,Tier 1,contact661@vendor661.com,2006
+VND00855,Vendor_0855,IT Services,Unknown,44.4,Valid,42,Tier 3,contact854@vendor854.com,2008
+VND00550,Vendor_0550,Machinery,Unknown,84.1,Valid,11,Tier 1,contact549@vendor549.com,2021
+VND00092,Vendor_0092,Raw Material,South Korea,79.9,Valid,5,Tier 2,contact91@vendor91.com,2007
+VND00334,Vendor_0334,Electronics,South Korea,38.1,Valid,22,Tier 3,contact333@vendor333.com,2020
+VND00176,Vendor_0176,Raw Material,Unknown,42.2,Valid,30,Tier 3,contact175@vendor175.com,2021
+VND00563,Vendor_0563,Electronics,Bangladesh,39.5,Valid,44,Tier 3,contact562@vendor562.com,2016
+VND00180,Vendor_0180,Machinery,Germany,39.6,Valid,42,Tier 3,contact179@vendor179.com,
+VND00152,Vendor_0152,Logistics,Bangladesh,46.8,Valid,31,Tier 3,contact151@vendor151.com,2020
+VND00679,Vendor_0679,IT Services,South Korea,97.9,Valid,17,Tier 1,contact678@vendor678.com,2021
+VND00396,Vendor_0396,IT Services,India,95.2,Valid,41,Tier 1,contact395@vendor395.com,2017
+VND00548,Vendor_0548,Machinery,Bangladesh,77.0,Valid,16,Tier 2,contact547@vendor547.com,2012
+VND00077,Vendor_0077,Packaging,Bangladesh,84.0,Valid,34,Tier 1,contact76@vendor76.com,2008
+VND00259,Vendor_0259,IT Services,South Korea,69.9,Valid,24,Tier 2,contact258@vendor258.com,2015
+VND00367,Vendor_0367,Logistics,Malaysia,97.3,Valid,24,Tier 1,contact366@vendor366.com,2016
+VND00347,Vendor_0347,Textiles,Germany,74.5,Valid,26,Tier 2,contact346@vendor346.com,
+VND00130,Vendor_0130,Logistics,Vietnam,65.8,Valid,37,Tier 2,contact129@vendor129.com,2006
+VND00859,Vendor_0859,Unknown,Malaysia,69.5,Valid,3,Tier 2,contact858@vendor858.com,2009
+VND00363,Vendor_0363,Unknown,USA,62.1,Valid,40,Tier 2,contact362@vendor362.com,2007
+VND00234,Vendor_0234,Machinery,Germany,64.5,Valid,21,Tier 2,contact233@vendor233.com,2012
+VND00479,Vendor_0479,Chemicals,South Korea,97.9,Valid,44,Tier 1,contact478@vendor478.com,2007
+VND00570,Vendor_0570,IT Services,Thailand,54.4,Valid,33,Tier 3,contact569@vendor569.com,2010
+VND00719,Vendor_0719,Raw Material,Thailand,38.7,Valid,15,Tier 3,contact718@vendor718.com,2010
+VND00208,Vendor_0208,Logistics,China,76.4,Valid,44,Tier 2,contact207@vendor207.com,2016
+VND00510,Vendor_0510,Electronics,USA,80.8,Valid,30,Tier 1,contact509@vendor509.com,2021
+VND00603,Vendor_0603,Packaging,Bangladesh,42.4,Valid,21,Tier 3,contact602@vendor602.com,2021
+VND00106,Vendor_0106,Unknown,India,47.5,Valid,39,Tier 3,contact105@vendor105.com,2014
+VND00669,Vendor_0669,Unknown,Malaysia,43.1,Valid,30,Tier 3,contact668@vendor668.com,2017
+VND00467,Vendor_0467,Logistics,Germany,50.0,Valid,26,Tier 3,contact466@vendor466.com,2016
+VND00848,Vendor_0848,Packaging,Thailand,99.8,Valid,10,Tier 1,contact847@vendor847.com,2013
+VND00142,Vendor_0142,Textiles,Bangladesh,47.6,Valid,27,Tier 3,Not Provided,2015
+VND00021,Vendor_0021,Machinery,China,72.8,Valid,28,Tier 2,contact20@vendor20.com,2020
+VND00211,Vendor_0211,Machinery,Thailand,68.4,Valid,32,Tier 2,contact210@vendor210.com,2015
+VND00288,Vendor_0288,Textiles,China,68.0,Valid,31,Tier 2,contact287@vendor287.com,2008
+VND00338,Vendor_0338,Machinery,Vietnam,79.3,Valid,16,Tier 2,contact337@vendor337.com,
+VND00110,Vendor_0110,IT Services,Vietnam,35.4,Valid,26,Tier 3,contact109@vendor109.com,2020
+VND00240,Vendor_0240,Packaging,Malaysia,42.4,Valid,36,Tier 3,contact239@vendor239.com,2011
+VND00328,Vendor_0328,Raw Material,China,72.8,Valid,29,Tier 2,contact327@vendor327.com,2010
+VND00595,Vendor_0595,Packaging,Vietnam,92.8,Valid,42,Tier 1,contact594@vendor594.com,2017
+VND00275,Vendor_0275,Logistics,Thailand,65.8,Valid,13,Tier 2,contact274@vendor274.com,2009
+VND00574,Vendor_0574,Chemicals,China,73.5,Valid,25,Tier 2,contact573@vendor573.com,2012
+VND00910,Vendor_0910,Machinery,Vietnam,56.6,Valid,18,Tier 3,contact909@vendor909.com,2018
+VND00261,Vendor_0261,Raw Material,Japan,73.1,Valid,20,Tier 2,contact260@vendor260.com,2005
+VND00644,Vendor_0644,Packaging,USA,52.9,Valid,14,Tier 3,contact643@vendor643.com,2019
+VND00444,Vendor_0444,Logistics,USA,55.9,Valid,21,Tier 3,contact443@vendor443.com,
+VND00626,Vendor_0626,Logistics,Malaysia,55.8,Valid,6,Tier 3,contact625@vendor625.com,2011
+VND00609,Vendor_0609,IT Services,USA,65.2,Valid,28,Tier 2,contact608@vendor608.com,2009
+VND00514,Vendor_0514,Chemicals,India,90.6,Valid,7,Tier 1,contact513@vendor513.com,2006
+VND00200,Vendor_0200,Textiles,India,84.6,Valid,44,Tier 1,contact199@vendor199.com,2014
+VND00207,Vendor_0207,Machinery,Bangladesh,37.1,Valid,25,Tier 3,contact206@vendor206.com,2005
+VND00309,Vendor_0309,Machinery,Vietnam,85.7,Valid,5,Tier 1,contact308@vendor308.com,2014
+VND00296,Vendor_0296,Logistics,Malaysia,66.6,Valid,13,Tier 2,contact295@vendor295.com,2016
+VND00515,Vendor_0515,Electronics,Japan,33.2,Valid,3,Tier 3,contact514@vendor514.com,2022
+VND00490,Vendor_0490,IT Services,India,92.3,Valid,38,Tier 1,contact489@vendor489.com,2007
+VND00534,Vendor_0534,Electronics,China,68.9,Valid,22,Tier 2,contact533@vendor533.com,2019
+VND00585,Vendor_0585,Logistics,China,74.3,Valid,24,Tier 2,contact584@vendor584.com,2008
+VND00788,Vendor_0788,Raw Material,India,58.1,Valid,13,Tier 3,contact787@vendor787.com,2019
+VND00678,Vendor_0678,IT Services,Bangladesh,57.8,Valid,38,Tier 3,contact677@vendor677.com,2013
+VND00150,Vendor_0150,Logistics,China,49.5,Valid,5,Tier 3,contact149@vendor149.com,2022
+VND00067,Vendor_0067,Electronics,USA,39.9,Valid,18,Tier 3,contact66@vendor66.com,2015
+VND00473,Vendor_0473,Unknown,Vietnam,33.0,Valid,4,Tier 3,contact472@vendor472.com,2022
+VND00615,Vendor_0615,IT Services,Japan,91.2,Valid,43,Tier 1,contact614@vendor614.com,2022
+VND00285,Vendor_0285,Raw Material,USA,70.5,Valid,19,Tier 2,contact284@vendor284.com,2013
+VND00366,Vendor_0366,Electronics,USA,57.0,Valid,13,Tier 3,contact365@vendor365.com,2019
+VND00839,Vendor_0839,Packaging,Vietnam,70.6,Valid,33,Tier 2,contact838@vendor838.com,2012
+VND00804,Vendor_0804,Electronics,India,72.5,Valid,11,Tier 2,Not Provided,2020
+VND00400,Vendor_0400,IT Services,China,82.8,Valid,44,Tier 1,contact399@vendor399.com,2009
+VND00108,Vendor_0108,Chemicals,Japan,82.9,Valid,8,Tier 1,contact107@vendor107.com,2005
+VND00372,Vendor_0372,Raw Material,Unknown,31.3,Valid,34,Tier 3,contact371@vendor371.com,2008
+VND00956,Vendor_0956,Chemicals,Japan,56.8,Valid,22,Tier 3,contact955@vendor955.com,2010
+VND00316,Vendor_0316,Packaging,Japan,78.7,Valid,26,Tier 2,contact315@vendor315.com,
+VND00530,Vendor_0530,Textiles,Vietnam,90.5,Valid,32,Tier 1,contact529@vendor529.com,2012
+VND00892,Vendor_0892,Packaging,Vietnam,89.9,Valid,37,Tier 1,contact891@vendor891.com,2009
+VND00557,Vendor_0557,IT Services,China,39.4,Valid,8,Tier 3,contact556@vendor556.com,2020
+VND00785,Vendor_0785,Textiles,Germany,42.7,Valid,44,Tier 3,contact784@vendor784.com,2010
+VND00298,Vendor_0298,IT Services,South Korea,45.1,Valid,5,Tier 3,contact297@vendor297.com,2022
+VND00035,Vendor_0035,Textiles,Japan,97.6,Valid,11,Tier 1,contact34@vendor34.com,2015
+VND00220,Vendor_0220,Electronics,USA,89.4,Valid,14,Tier 1,contact219@vendor219.com,2013
+VND00098,Vendor_0098,Packaging,Bangladesh,59.9,Valid,27,Tier 3,contact97@vendor97.com,2011
+VND00994,Vendor_0994,Packaging,Bangladesh,71.3,Valid,31,Tier 2,contact993@vendor993.com,2019
+VND00131,Vendor_0131,Packaging,Thailand,59.2,Valid,22,Tier 3,contact130@vendor130.com,2021
+VND00071,Vendor_0071,Machinery,South Korea,84.1,Valid,44,Tier 1,contact70@vendor70.com,2007
+VND00158,Vendor_0158,IT Services,Japan,83.3,Valid,44,Tier 1,contact157@vendor157.com,2015
+VND00779,Vendor_0779,Logistics,India,80.4,Valid,4,Tier 1,contact778@vendor778.com,2007
+VND00638,Vendor_0638,Logistics,USA,47.0,Valid,26,Tier 3,contact637@vendor637.com,2022
+VND00472,Vendor_0472,Machinery,Thailand,97.9,Valid,38,Tier 1,contact471@vendor471.com,2010
+VND00006,Vendor_0006,Electronics,Germany,40.9,Valid,33,Tier 3,contact5@vendor5.com,2017
+VND00821,Vendor_0821,Raw Material,China,86.2,Valid,5,Tier 1,contact820@vendor820.com,2013
+VND00841,Vendor_0841,IT Services,South Korea,30.9,Valid,44,Tier 3,contact840@vendor840.com,2006
+VND00238,Vendor_0238,Electronics,China,31.7,Valid,43,Tier 3,contact237@vendor237.com,2008
+VND00136,Vendor_0136,Logistics,USA,52.6,Valid,26,Tier 3,contact135@vendor135.com,2018
+VND00319,Vendor_0319,Electronics,Vietnam,41.0,Valid,17,Tier 3,contact318@vendor318.com,2013
+VND00934,Vendor_0934,Electronics,Japan,66.8,Valid,18,Tier 2,contact933@vendor933.com,2022
+VND00268,Vendor_0268,Textiles,China,79.2,Valid,9,Tier 2,contact267@vendor267.com,2021
+VND00481,Vendor_0481,Electronics,China,74.1,Valid,5,Tier 2,contact480@vendor480.com,
+VND00761,Vendor_0761,Textiles,India,40.6,Valid,37,Tier 3,contact760@vendor760.com,2017
+VND00029,Vendor_0029,Logistics,Thailand,71.5,Valid,23,Tier 2,contact28@vendor28.com,2008
+VND00219,Vendor_0219,IT Services,Vietnam,75.5,Valid,31,Tier 2,contact218@vendor218.com,2020
+VND00457,Vendor_0457,Raw Material,Thailand,30.8,Valid,14,Tier 3,contact456@vendor456.com,2011
+VND00258,Vendor_0258,Packaging,Vietnam,78.7,Valid,3,Tier 2,contact257@vendor257.com,2016
+VND00597,Vendor_0597,Raw Material,Malaysia,76.7,Valid,29,Tier 2,contact596@vendor596.com,2014
+VND00250,Vendor_0250,Electronics,Malaysia,89.7,Valid,38,Tier 1,contact249@vendor249.com,
+VND00594,Vendor_0594,Chemicals,Malaysia,54.2,Valid,10,Tier 3,contact593@vendor593.com,2010
+VND00135,Vendor_0135,Textiles,USA,96.0,Valid,26,Tier 1,contact134@vendor134.com,2011
+VND00552,Vendor_0552,Unknown,USA,89.7,Valid,22,Tier 1,contact551@vendor551.com,2005
+VND00297,Vendor_0297,Logistics,South Korea,83.9,Valid,29,Tier 1,contact296@vendor296.com,2014
+VND00768,Vendor_0768,Packaging,Vietnam,91.4,Valid,17,Tier 1,contact767@vendor767.com,2016
+VND00350,Vendor_0350,Textiles,China,73.8,Valid,15,Tier 2,contact349@vendor349.com,2007
+VND00430,Vendor_0430,Raw Material,USA,38.2,Valid,20,Tier 3,contact429@vendor429.com,2006
+VND00832,Vendor_0832,Packaging,South Korea,61.7,Valid,32,Tier 2,contact831@vendor831.com,2019
+VND00538,Vendor_0538,IT Services,Malaysia,47.3,Valid,22,Tier 3,contact537@vendor537.com,2009
+VND00897,Vendor_0897,IT Services,Bangladesh,50.5,Valid,44,Tier 3,contact896@vendor896.com,2009
+VND00581,Vendor_0581,Logistics,Thailand,62.1,Valid,31,Tier 2,contact580@vendor580.com,2013
+VND00062,Vendor_0062,Textiles,China,49.0,Valid,24,Tier 3,contact61@vendor61.com,2010
+VND00276,Vendor_0276,Unknown,South Korea,65.1,Valid,25,Tier 2,Not Provided,2005
+VND00244,Vendor_0244,Chemicals,Malaysia,55.9,Valid,22,Tier 3,contact243@vendor243.com,2011
+VND00569,Vendor_0569,Chemicals,Vietnam,93.3,Valid,41,Tier 1,contact568@vendor568.com,2013
+VND00654,Vendor_0654,Machinery,USA,82.2,Valid,40,Tier 1,contact653@vendor653.com,2017
+VND00424,Vendor_0424,Electronics,Vietnam,64.6,Valid,28,Tier 2,contact423@vendor423.com,2022
+VND00253,Vendor_0253,Raw Material,Malaysia,89.6,Valid,19,Tier 1,contact252@vendor252.com,2007
+VND00477,Vendor_0477,Raw Material,USA,35.2,Valid,8,Tier 3,contact476@vendor476.com,2011
+VND00863,Vendor_0863,Chemicals,India,66.7,Valid,8,Tier 2,contact862@vendor862.com,2006
+VND00554,Vendor_0554,Electronics,Japan,69.3,Valid,31,Tier 2,contact553@vendor553.com,2009
+VND00097,Vendor_0097,Electronics,Germany,66.6,Valid,39,Tier 2,contact96@vendor96.com,2008
+VND00796,Vendor_0796,Packaging,India,91.0,Valid,22,Tier 1,contact795@vendor795.com,2012
+VND00145,Vendor_0145,Electronics,Malaysia,49.9,Valid,16,Tier 3,Not Provided,2021
+VND00965,Vendor_0965,Raw Material,Germany,50.2,Valid,33,Tier 3,contact964@vendor964.com,2012
+VND00414,Vendor_0414,Machinery,Vietnam,70.1,Valid,10,Tier 2,contact413@vendor413.com,2017
+VND00381,Vendor_0381,IT Services,Germany,38.3,Valid,34,Tier 3,contact380@vendor380.com,2017
+VND00920,Vendor_0920,Raw Material,Germany,39.8,Valid,37,Tier 3,contact919@vendor919.com,2022
+VND00680,Vendor_0680,Electronics,India,90.6,Valid,25,Tier 1,Not Provided,2007
+VND00402,Vendor_0402,IT Services,China,93.2,Valid,13,Tier 1,contact401@vendor401.com,2022
+VND00616,Vendor_0616,Electronics,Japan,94.5,Valid,27,Tier 1,contact615@vendor615.com,2018
+VND00433,Vendor_0433,Textiles,Japan,,Out of Range (0-100),14,Unclassified,contact432@vendor432.com,2016
+VND00593,Vendor_0593,Logistics,USA,42.7,Valid,28,Tier 3,contact592@vendor592.com,2006
+VND00741,Vendor_0741,Unknown,Thailand,62.4,Valid,44,Tier 2,contact740@vendor740.com,2021
+VND00531,Vendor_0531,Machinery,India,86.9,Valid,24,Tier 1,contact530@vendor530.com,2018
+VND00688,Vendor_0688,Raw Material,Germany,49.6,Valid,13,Tier 3,contact687@vendor687.com,2005
+VND00410,Vendor_0410,IT Services,Bangladesh,36.4,Valid,34,Tier 3,contact409@vendor409.com,2018
+VND00419,Vendor_0419,Packaging,South Korea,77.1,Valid,22,Tier 2,contact418@vendor418.com,2014
+VND00628,Vendor_0628,Textiles,Malaysia,82.3,Valid,21,Tier 1,contact627@vendor627.com,2005
+VND00798,Vendor_0798,Packaging,Bangladesh,69.6,Valid,38,Tier 2,contact797@vendor797.com,2018
+VND00808,Vendor_0808,IT Services,South Korea,94.8,Valid,43,Tier 1,contact807@vendor807.com,2018
+VND00884,Vendor_0884,Chemicals,USA,37.3,Valid,3,Tier 3,contact883@vendor883.com,2021
+VND00007,Vendor_0007,Raw Material,Thailand,34.1,Valid,23,Tier 3,contact6@vendor6.com,2017
+VND00072,Vendor_0072,Textiles,South Korea,43.9,Valid,36,Tier 3,contact71@vendor71.com,2015
+VND00874,Vendor_0874,Chemicals,Thailand,58.6,Valid,16,Tier 3,contact873@vendor873.com,2022
+VND00115,Vendor_0115,Chemicals,Thailand,,Out of Range (0-100),9,Unclassified,contact114@vendor114.com,2016
+VND00340,Vendor_0340,Textiles,Vietnam,36.8,Valid,19,Tier 3,contact339@vendor339.com,2012
+VND00120,Vendor_0120,Electronics,China,67.8,Valid,12,Tier 2,contact119@vendor119.com,2009
+VND00002,Vendor_0002,Electronics,Thailand,96.6,Valid,18,Tier 1,contact1@vendor1.com,2007
+VND00151,Vendor_0151,Logistics,Vietnam,93.6,Valid,30,Tier 1,contact150@vendor150.com,2018
+VND00172,Vendor_0172,Textiles,China,31.2,Valid,20,Tier 3,contact171@vendor171.com,2021
+VND00196,Vendor_0196,Packaging,Bangladesh,54.4,Valid,35,Tier 3,contact195@vendor195.com,
+VND00095,Vendor_0095,Electronics,Japan,84.0,Valid,0,Tier 1,contact94@vendor94.com,2010
+VND00148,Vendor_0148,Chemicals,Germany,65.2,Valid,13,Tier 2,Not Provided,2008
+VND00900,Vendor_0900,Electronics,Malaysia,36.0,Valid,40,Tier 3,contact899@vendor899.com,2006
+VND00907,Vendor_0907,Electronics,Malaysia,87.2,Valid,16,Tier 1,contact906@vendor906.com,2020
+VND00505,Vendor_0505,Logistics,South Korea,77.9,Valid,4,Tier 2,contact504@vendor504.com,2006
+VND00699,Vendor_0699,IT Services,Thailand,40.8,Valid,31,Tier 3,contact698@vendor698.com,2013
+VND00636,Vendor_0636,Raw Material,Japan,61.3,Valid,13,Tier 2,contact635@vendor635.com,2017
+VND00908,Vendor_0908,Textiles,South Korea,53.9,Valid,8,Tier 3,contact907@vendor907.com,2007
+VND00869,Vendor_0869,Raw Material,Japan,90.3,Valid,35,Tier 1,Not Provided,2019
+VND00690,Vendor_0690,Raw Material,South Korea,43.1,Valid,6,Tier 3,contact689@vendor689.com,2012
+VND00693,Vendor_0693,IT Services,Japan,,Out of Range (0-100),24,Unclassified,contact692@vendor692.com,2021
+VND00973,Vendor_0973,Logistics,USA,81.3,Valid,33,Tier 1,contact972@vendor972.com,2021
+VND00686,Vendor_0686,Unknown,USA,69.0,Valid,27,Tier 2,contact685@vendor685.com,2012
+VND00291,Vendor_0291,Packaging,South Korea,32.1,Valid,34,Tier 3,contact290@vendor290.com,2008
+VND00080,Vendor_0080,Logistics,Thailand,38.1,Valid,41,Tier 3,contact79@vendor79.com,2018
+VND00799,Vendor_0799,Electronics,USA,78.8,Valid,42,Tier 2,contact798@vendor798.com,2014
+VND00684,Vendor_0684,Machinery,Japan,76.8,Valid,18,Tier 2,contact683@vendor683.com,2013
+VND00287,Vendor_0287,Chemicals,Malaysia,62.6,Valid,17,Tier 2,contact286@vendor286.com,2005
+VND00376,Vendor_0376,Electronics,Germany,52.3,Valid,30,Tier 3,contact375@vendor375.com,2016
+VND00782,Vendor_0782,Chemicals,South Korea,68.0,Valid,22,Tier 2,contact781@vendor781.com,2012
+VND00722,Vendor_0722,Raw Material,India,42.7,Valid,44,Tier 3,contact721@vendor721.com,2005
+VND00702,Vendor_0702,Chemicals,South Korea,33.6,Valid,10,Tier 3,contact701@vendor701.com,2012
+VND00121,Vendor_0121,Raw Material,South Korea,86.5,Valid,36,Tier 1,contact120@vendor120.com,2008
+VND00622,Vendor_0622,Unknown,Germany,44.7,Valid,13,Tier 3,contact621@vendor621.com,2013
+VND00723,Vendor_0723,Logistics,Malaysia,34.7,Valid,44,Tier 3,contact722@vendor722.com,
+VND00598,Vendor_0598,Packaging,China,42.1,Valid,10,Tier 3,contact597@vendor597.com,2011
+VND00308,Vendor_0308,Electronics,India,52.6,Valid,7,Tier 3,contact307@vendor307.com,2012
+VND00592,Vendor_0592,Machinery,Thailand,74.9,Valid,19,Tier 2,contact591@vendor591.com,
+VND00816,Vendor_0816,Electronics,Malaysia,66.3,Valid,23,Tier 2,contact815@vendor815.com,2022
+VND00448,Vendor_0448,Raw Material,Bangladesh,82.7,Valid,43,Tier 1,contact447@vendor447.com,2014
+VND00468,Vendor_0468,IT Services,USA,90.8,Valid,34,Tier 1,contact467@vendor467.com,2021
+VND00876,Vendor_0876,Logistics,Germany,40.9,Valid,35,Tier 3,contact875@vendor875.com,2010
+VND00769,Vendor_0769,IT Services,Thailand,53.9,Valid,37,Tier 3,contact768@vendor768.com,2021
+VND00924,Vendor_0924,IT Services,Japan,86.0,Valid,20,Tier 1,contact923@vendor923.com,2010
+VND00936,Vendor_0936,Packaging,China,49.1,Valid,37,Tier 3,contact935@vendor935.com,2013
+VND00078,Vendor_0078,Electronics,India,35.2,Valid,34,Tier 3,contact77@vendor77.com,2006
+VND00232,Vendor_0232,Machinery,USA,65.2,Valid,37,Tier 2,contact231@vendor231.com,2010
+VND00995,Vendor_0995,Textiles,Malaysia,55.3,Valid,38,Tier 3,contact994@vendor994.com,2012
+VND00351,Vendor_0351,Raw Material,Japan,65.2,Valid,19,Tier 2,contact350@vendor350.com,2015
+VND00043,Vendor_0043,IT Services,Germany,32.4,Valid,37,Tier 3,contact42@vendor42.com,2007
+VND00990,Vendor_0990,Raw Material,USA,87.3,Valid,42,Tier 1,contact989@vendor989.com,2016
+VND00305,Vendor_0305,Textiles,Bangladesh,80.8,Valid,22,Tier 1,contact304@vendor304.com,2007
+VND00846,Vendor_0846,IT Services,USA,59.0,Valid,18,Tier 3,contact845@vendor845.com,2006
+VND00663,Vendor_0663,Logistics,Bangladesh,72.4,Valid,5,Tier 2,contact662@vendor662.com,2021
+VND00192,Vendor_0192,IT Services,Thailand,92.8,Valid,21,Tier 1,contact191@vendor191.com,2011
+VND00790,Vendor_0790,Chemicals,Unknown,96.3,Valid,26,Tier 1,contact789@vendor789.com,2022
+VND00374,Vendor_0374,Logistics,Unknown,77.8,Valid,18,Tier 2,contact373@vendor373.com,
+VND00894,Vendor_0894,Machinery,USA,57.8,Valid,17,Tier 3,contact893@vendor893.com,2015
+VND00675,Vendor_0675,Machinery,Thailand,58.7,Valid,36,Tier 3,contact674@vendor674.com,2013
+VND00749,Vendor_0749,Machinery,South Korea,93.5,Valid,26,Tier 1,contact748@vendor748.com,2016
+VND00063,Vendor_0063,Textiles,China,88.0,Valid,27,Tier 1,contact62@vendor62.com,2014
+VND00522,Vendor_0522,Chemicals,South Korea,56.7,Valid,12,Tier 3,contact521@vendor521.com,2007
+VND00902,Vendor_0902,Electronics,USA,31.9,Valid,37,Tier 3,contact901@vendor901.com,2021
+VND00262,Vendor_0262,Electronics,Malaysia,99.3,Valid,16,Tier 1,contact261@vendor261.com,2012
+VND00070,Vendor_0070,Electronics,Thailand,99.1,Valid,37,Tier 1,contact69@vendor69.com,2009
+VND00921,Vendor_0921,Chemicals,Germany,90.8,Valid,20,Tier 1,contact920@vendor920.com,2008
+VND00073,Vendor_0073,Packaging,Vietnam,30.4,Valid,32,Tier 3,contact72@vendor72.com,2007
+VND00838,Vendor_0838,IT Services,USA,55.4,Valid,31,Tier 3,contact837@vendor837.com,2005
+VND00251,Vendor_0251,Textiles,China,,Out of Range (0-100),6,Unclassified,contact250@vendor250.com,2010
+VND00610,Vendor_0610,IT Services,Malaysia,78.3,Valid,30,Tier 2,contact609@vendor609.com,2010
+VND00950,Vendor_0950,IT Services,Malaysia,71.8,Valid,34,Tier 2,contact949@vendor949.com,2009
+VND00167,Vendor_0167,Packaging,Germany,52.5,Valid,17,Tier 3,contact166@vendor166.com,2015
+VND00856,Vendor_0856,Machinery,South Korea,43.3,Valid,7,Tier 3,contact855@vendor855.com,2012
+VND00721,Vendor_0721,Unknown,Thailand,95.7,Valid,9,Tier 1,contact720@vendor720.com,2019
+VND00982,Vendor_0982,Packaging,Vietnam,84.0,Valid,30,Tier 1,contact981@vendor981.com,2020
+VND00415,Vendor_0415,Chemicals,India,74.2,Valid,30,Tier 2,contact414@vendor414.com,2006
+VND00589,Vendor_0589,Machinery,Bangladesh,39.0,Valid,12,Tier 3,contact588@vendor588.com,
+VND00844,Vendor_0844,Machinery,Thailand,97.3,Valid,14,Tier 1,contact843@vendor843.com,2014
+VND00665,Vendor_0665,Machinery,China,37.1,Valid,28,Tier 3,contact664@vendor664.com,2006
+VND00562,Vendor_0562,Raw Material,Thailand,44.9,Valid,14,Tier 3,contact561@vendor561.com,2021
+VND00051,Vendor_0051,Chemicals,Bangladesh,97.9,Valid,37,Tier 1,contact50@vendor50.com,2009
+VND00217,Vendor_0217,Electronics,Vietnam,52.8,Valid,16,Tier 3,contact216@vendor216.com,2017
+VND00191,Vendor_0191,Raw Material,Vietnam,36.5,Valid,26,Tier 3,contact190@vendor190.com,2017
+VND00572,Vendor_0572,Textiles,Japan,84.9,Valid,40,Tier 1,contact571@vendor571.com,2007
+VND00560,Vendor_0560,IT Services,Japan,73.4,Valid,35,Tier 2,contact559@vendor559.com,2013
+VND00824,Vendor_0824,Raw Material,Bangladesh,57.9,Valid,4,Tier 3,contact823@vendor823.com,2022
+VND00153,Vendor_0153,IT Services,China,40.1,Valid,11,Tier 3,contact152@vendor152.com,2020
+VND00641,Vendor_0641,Electronics,Germany,31.4,Valid,23,Tier 3,contact640@vendor640.com,2014
+VND00915,Vendor_0915,Textiles,South Korea,68.6,Valid,23,Tier 2,contact914@vendor914.com,2021
+VND00914,Vendor_0914,Machinery,Vietnam,,Out of Range (0-100),17,Unclassified,contact913@vendor913.com,2007
+VND00602,Vendor_0602,Machinery,Vietnam,49.5,Valid,3,Tier 3,contact601@vendor601.com,2010
+VND00546,Vendor_0546,Logistics,Japan,55.1,Valid,8,Tier 3,contact545@vendor545.com,2022
+VND00961,Vendor_0961,Electronics,Germany,35.8,Valid,31,Tier 3,contact960@vendor960.com,2006
+VND00009,Vendor_0009,Machinery,South Korea,72.1,Valid,25,Tier 2,contact8@vendor8.com,2010
+VND00348,Vendor_0348,Packaging,USA,33.2,Valid,10,Tier 3,contact347@vendor347.com,2021
+VND00885,Vendor_0885,Packaging,Germany,86.0,Valid,13,Tier 1,contact884@vendor884.com,2010
+VND00673,Vendor_0673,Electronics,USA,35.6,Valid,14,Tier 3,contact672@vendor672.com,2022
+VND00032,Vendor_0032,Logistics,Bangladesh,41.9,Valid,16,Tier 3,contact31@vendor31.com,2012
+VND00202,Vendor_0202,Logistics,USA,35.9,Valid,29,Tier 3,contact201@vendor201.com,2017
+VND00895,Vendor_0895,Packaging,Bangladesh,76.8,Valid,24,Tier 2,contact894@vendor894.com,2021
+VND00601,Vendor_0601,Raw Material,South Korea,41.8,Valid,35,Tier 3,Not Provided,2018
+VND00526,Vendor_0526,Packaging,Japan,62.8,Valid,12,Tier 2,contact525@vendor525.com,2009
+VND00440,Vendor_0440,Textiles,China,35.7,Valid,34,Tier 3,contact439@vendor439.com,2008
+VND00588,Vendor_0588,Machinery,Vietnam,39.0,Valid,28,Tier 3,contact587@vendor587.com,2018
+VND00310,Vendor_0310,Chemicals,China,49.0,Valid,22,Tier 3,contact309@vendor309.com,2006
+VND00213,Vendor_0213,Packaging,South Korea,75.6,Valid,33,Tier 2,contact212@vendor212.com,2013
+VND00991,Vendor_0991,Packaging,Bangladesh,86.0,Valid,19,Tier 1,contact990@vendor990.com,2005
+VND00016,Vendor_0016,Chemicals,Bangladesh,42.8,Valid,27,Tier 3,contact15@vendor15.com,2009
+VND00527,Vendor_0527,Machinery,India,59.0,Valid,31,Tier 3,contact526@vendor526.com,2016
+VND00930,Vendor_0930,Raw Material,Vietnam,48.1,Valid,38,Tier 3,contact929@vendor929.com,2015
+VND00047,Vendor_0047,Logistics,Bangladesh,51.8,Valid,19,Tier 3,contact46@vendor46.com,2011
+VND00185,Vendor_0185,Machinery,Unknown,48.1,Valid,36,Tier 3,contact184@vendor184.com,2012
+VND00429,Vendor_0429,Textiles,Vietnam,54.6,Valid,13,Tier 3,contact428@vendor428.com,2015
+VND00369,Vendor_0369,Logistics,Bangladesh,43.7,Valid,43,Tier 3,contact368@vendor368.com,2015
+VND00826,Vendor_0826,Chemicals,Vietnam,94.4,Valid,4,Tier 1,contact825@vendor825.com,2014
+VND00190,Vendor_0190,Raw Material,China,46.9,Valid,8,Tier 3,contact189@vendor189.com,2007
+VND00763,Vendor_0763,Machinery,Bangladesh,47.4,Valid,35,Tier 3,contact762@vendor762.com,2015
+VND00306,Vendor_0306,Chemicals,Vietnam,98.3,Valid,8,Tier 1,contact305@vendor305.com,2007
+VND00314,Vendor_0314,Electronics,Bangladesh,97.4,Valid,37,Tier 1,contact313@vendor313.com,2008
+VND00345,Vendor_0345,Unknown,Malaysia,57.9,Valid,0,Tier 3,contact344@vendor344.com,2022
+VND00239,Vendor_0239,Electronics,USA,75.2,Valid,34,Tier 2,contact238@vendor238.com,2007
+VND00038,Vendor_0038,Logistics,Thailand,36.8,Valid,31,Tier 3,Not Provided,2016
+VND00179,Vendor_0179,IT Services,South Korea,95.6,Valid,19,Tier 1,contact178@vendor178.com,2012
+VND00539,Vendor_0539,Textiles,Bangladesh,61.5,Valid,30,Tier 2,Not Provided,2011
+VND00212,Vendor_0212,Textiles,Bangladesh,78.4,Valid,41,Tier 2,contact211@vendor211.com,2015
+VND00317,Vendor_0317,Machinery,Thailand,58.6,Valid,14,Tier 3,Not Provided,2010
+VND00085,Vendor_0085,Chemicals,Unknown,51.8,Valid,32,Tier 3,contact84@vendor84.com,2007
+VND00406,Vendor_0406,Machinery,Japan,92.7,Valid,8,Tier 1,contact405@vendor405.com,2009
+VND00168,Vendor_0168,Textiles,USA,43.1,Valid,40,Tier 3,contact167@vendor167.com,2018
+VND00643,Vendor_0643,Logistics,Germany,44.8,Valid,3,Tier 3,contact642@vendor642.com,2008
+VND00344,Vendor_0344,Packaging,Vietnam,60.4,Valid,40,Tier 2,contact343@vendor343.com,2017
+VND00735,Vendor_0735,Raw Material,Malaysia,55.1,Valid,11,Tier 3,contact734@vendor734.com,2013
+VND00653,Vendor_0653,Logistics,South Korea,71.1,Valid,37,Tier 2,contact652@vendor652.com,2007
+VND00642,Vendor_0642,Packaging,China,52.5,Valid,17,Tier 3,contact641@vendor641.com,2017
+VND00249,Vendor_0249,Raw Material,USA,97.5,Valid,34,Tier 1,contact248@vendor248.com,2006
+VND00815,Vendor_0815,Textiles,South Korea,90.9,Valid,34,Tier 1,contact814@vendor814.com,2013
+VND00169,Vendor_0169,IT Services,Japan,32.9,Valid,10,Tier 3,contact168@vendor168.com,2007
+VND00318,Vendor_0318,Raw Material,USA,42.1,Valid,20,Tier 3,contact317@vendor317.com,2019
+VND00353,Vendor_0353,Machinery,Unknown,76.1,Valid,23,Tier 2,contact352@vendor352.com,2012
+VND00254,Vendor_0254,Raw Material,Japan,52.2,Valid,14,Tier 3,contact253@vendor253.com,2018
+VND00069,Vendor_0069,Chemicals,India,35.2,Valid,4,Tier 3,contact68@vendor68.com,2008
+VND00379,Vendor_0379,Logistics,Japan,87.0,Valid,12,Tier 1,contact378@vendor378.com,2018
+VND00819,Vendor_0819,Packaging,Thailand,33.8,Valid,10,Tier 3,contact818@vendor818.com,2014
+VND00449,Vendor_0449,Textiles,China,56.3,Valid,5,Tier 3,contact448@vendor448.com,2022
+VND00423,Vendor_0423,Logistics,China,36.4,Valid,24,Tier 3,contact422@vendor422.com,2022
+VND00927,Vendor_0927,Electronics,Japan,48.8,Valid,4,Tier 3,contact926@vendor926.com,2022
+VND00439,Vendor_0439,Machinery,India,79.4,Valid,31,Tier 2,contact438@vendor438.com,2010
+VND00004,Vendor_0004,Chemicals,Malaysia,71.9,Valid,21,Tier 2,contact3@vendor3.com,2019
+VND00814,Vendor_0814,Electronics,Unknown,94.5,Valid,29,Tier 1,contact813@vendor813.com,2021
+VND00024,Vendor_0024,Logistics,USA,55.6,Valid,18,Tier 3,contact23@vendor23.com,2015
+VND00976,Vendor_0976,Packaging,USA,48.4,Valid,25,Tier 3,contact975@vendor975.com,2015
+VND00189,Vendor_0189,Chemicals,Malaysia,67.1,Valid,35,Tier 2,contact188@vendor188.com,2013
+VND00382,Vendor_0382,Textiles,Vietnam,78.8,Valid,35,Tier 2,contact381@vendor381.com,2011
+VND00283,Vendor_0283,Packaging,Malaysia,56.3,Valid,37,Tier 3,contact282@vendor282.com,2008
+VND00322,Vendor_0322,Chemicals,USA,80.0,Valid,10,Tier 1,contact321@vendor321.com,2017
+VND00600,Vendor_0600,Raw Material,USA,32.9,Valid,6,Tier 3,contact599@vendor599.com,2010
+VND00271,Vendor_0271,Machinery,Thailand,86.7,Valid,35,Tier 1,contact270@vendor270.com,2020
+VND00420,Vendor_0420,Logistics,Vietnam,82.7,Valid,18,Tier 1,contact419@vendor419.com,2022
+VND00046,Vendor_0046,Packaging,Germany,76.4,Valid,41,Tier 2,contact45@vendor45.com,2015
+VND00103,Vendor_0103,Textiles,India,52.0,Valid,26,Tier 3,Not Provided,2022
+VND00112,Vendor_0112,Logistics,India,41.3,Valid,15,Tier 3,contact111@vendor111.com,2020
+VND00904,Vendor_0904,Logistics,Germany,70.8,Valid,26,Tier 2,contact903@vendor903.com,2012
+VND00368,Vendor_0368,Machinery,India,93.4,Valid,26,Tier 1,contact367@vendor367.com,2012
+VND00765,Vendor_0765,Machinery,Bangladesh,32.3,Valid,19,Tier 3,contact764@vendor764.com,2013
+VND00933,Vendor_0933,Electronics,South Korea,98.9,Valid,3,Tier 1,contact932@vendor932.com,2015
+VND00388,Vendor_0388,Logistics,South Korea,42.4,Valid,32,Tier 3,contact387@vendor387.com,2020
+VND00413,Vendor_0413,Logistics,Malaysia,96.5,Valid,10,Tier 1,contact412@vendor412.com,2021
+VND00960,Vendor_0960,Logistics,Thailand,81.7,Valid,34,Tier 1,contact959@vendor959.com,2017
+VND00556,Vendor_0556,Textiles,China,58.2,Valid,37,Tier 3,contact555@vendor555.com,2009
+VND00946,Vendor_0946,Machinery,China,30.8,Valid,27,Tier 3,contact945@vendor945.com,2013
+VND00279,Vendor_0279,Textiles,Thailand,79.1,Valid,36,Tier 2,contact278@vendor278.com,2013
+VND00132,Vendor_0132,IT Services,Thailand,45.5,Valid,44,Tier 3,contact131@vendor131.com,2009
+VND00133,Vendor_0133,Logistics,China,38.4,Valid,37,Tier 3,contact132@vendor132.com,2019
+VND00040,Vendor_0040,Unknown,China,60.8,Valid,33,Tier 2,contact39@vendor39.com,2011
+VND00416,Vendor_0416,Chemicals,Bangladesh,61.4,Valid,22,Tier 2,contact415@vendor415.com,2010
+VND00918,Vendor_0918,Logistics,Thailand,96.4,Valid,29,Tier 1,contact917@vendor917.com,2012
+VND00692,Vendor_0692,IT Services,China,59.8,Valid,15,Tier 3,contact691@vendor691.com,2018
+VND00732,Vendor_0732,IT Services,China,87.0,Valid,23,Tier 1,Not Provided,2017
+VND00712,Vendor_0712,IT Services,India,71.7,Valid,27,Tier 2,contact711@vendor711.com,2013
+VND00109,Vendor_0109,IT Services,Japan,46.0,Valid,41,Tier 3,contact108@vendor108.com,2014
+VND00371,Vendor_0371,Packaging,Germany,37.1,Valid,14,Tier 3,contact370@vendor370.com,2016
+VND00282,Vendor_0282,Packaging,Thailand,,Out of Range (0-100),19,Unclassified,contact281@vendor281.com,2005
+VND00076,Vendor_0076,Machinery,Vietnam,81.0,Valid,20,Tier 1,contact75@vendor75.com,2007
+VND00955,Vendor_0955,Chemicals,South Korea,59.3,Valid,16,Tier 3,contact954@vendor954.com,2015
+VND00667,Vendor_0667,Electronics,Vietnam,47.2,Valid,4,Tier 3,contact666@vendor666.com,2007
+VND00312,Vendor_0312,Chemicals,China,35.5,Valid,17,Tier 3,contact311@vendor311.com,2014
+VND00521,Vendor_0521,Textiles,Japan,71.6,Valid,13,Tier 2,contact520@vendor520.com,2012
+VND00256,Vendor_0256,Packaging,Thailand,69.0,Valid,19,Tier 2,contact255@vendor255.com,2020
+VND00197,Vendor_0197,Electronics,Japan,80.8,Valid,43,Tier 1,contact196@vendor196.com,2005
+VND00919,Vendor_0919,IT Services,Malaysia,83.5,Valid,4,Tier 1,Not Provided,2010
+VND00221,Vendor_0221,Electronics,China,76.0,Valid,0,Tier 2,contact220@vendor220.com,2017
+VND00237,Vendor_0237,Machinery,USA,49.7,Valid,12,Tier 3,contact236@vendor236.com,2014
+VND00512,Vendor_0512,Chemicals,China,59.3,Valid,37,Tier 3,contact511@vendor511.com,2013
+VND00462,Vendor_0462,Packaging,Thailand,75.4,Valid,22,Tier 2,contact461@vendor461.com,2012
+VND00750,Vendor_0750,Textiles,South Korea,73.7,Valid,21,Tier 2,contact749@vendor749.com,2013
+VND00193,Vendor_0193,Unknown,Bangladesh,93.0,Valid,18,Tier 1,contact192@vendor192.com,2012
+VND00797,Vendor_0797,Textiles,China,95.2,Valid,41,Tier 1,contact796@vendor796.com,2019
+VND00389,Vendor_0389,Packaging,South Korea,82.5,Valid,35,Tier 1,contact388@vendor388.com,
+VND00105,Vendor_0105,Logistics,Japan,,Out of Range (0-100),22,Unclassified,contact104@vendor104.com,2005
+VND00041,Vendor_0041,IT Services,China,38.5,Valid,32,Tier 3,contact40@vendor40.com,2020
+VND00203,Vendor_0203,Raw Material,Thailand,41.3,Valid,40,Tier 3,contact202@vendor202.com,2019
+VND00315,Vendor_0315,Machinery,Japan,88.5,Valid,27,Tier 1,contact314@vendor314.com,2006
+VND00266,Vendor_0266,Chemicals,Vietnam,81.9,Valid,37,Tier 1,contact265@vendor265.com,2006
+VND00740,Vendor_0740,Textiles,Vietnam,56.4,Valid,26,Tier 3,contact739@vendor739.com,2020
+VND00425,Vendor_0425,Textiles,Germany,34.0,Valid,5,Tier 3,contact424@vendor424.com,2021
+VND00506,Vendor_0506,Electronics,Vietnam,41.4,Valid,41,Tier 3,Not Provided,
+VND00917,Vendor_0917,Electronics,Japan,50.6,Valid,4,Tier 3,contact916@vendor916.com,2011
+VND00590,Vendor_0590,Electronics,Thailand,40.6,Valid,32,Tier 3,Not Provided,2010
+VND00058,Vendor_0058,Packaging,USA,43.7,Valid,41,Tier 3,contact57@vendor57.com,2020
+VND00847,Vendor_0847,Machinery,Vietnam,36.0,Valid,14,Tier 3,contact846@vendor846.com,2022
+VND00893,Vendor_0893,Chemicals,Bangladesh,88.1,Valid,24,Tier 1,contact892@vendor892.com,2015
+VND00324,Vendor_0324,Electronics,Japan,49.6,Valid,19,Tier 3,contact323@vendor323.com,2017
+VND00932,Vendor_0932,IT Services,Vietnam,88.4,Valid,16,Tier 1,contact931@vendor931.com,2018
+VND00940,Vendor_0940,Textiles,Bangladesh,70.4,Valid,15,Tier 2,contact939@vendor939.com,
+VND00181,Vendor_0181,Textiles,South Korea,53.9,Valid,26,Tier 3,contact180@vendor180.com,2016
+VND00458,Vendor_0458,Electronics,Malaysia,62.8,Valid,32,Tier 2,contact457@vendor457.com,2021
+VND00911,Vendor_0911,Electronics,USA,71.3,Valid,9,Tier 2,contact910@vendor910.com,2006
+VND00454,Vendor_0454,Packaging,India,93.4,Valid,17,Tier 1,contact453@vendor453.com,2007
+VND00617,Vendor_0617,Electronics,Malaysia,34.3,Valid,15,Tier 3,Not Provided,2016
+VND00752,Vendor_0752,IT Services,Vietnam,95.8,Valid,41,Tier 1,contact751@vendor751.com,2011
+VND00206,Vendor_0206,Unknown,China,30.6,Valid,33,Tier 3,contact205@vendor205.com,2017
+VND00346,Vendor_0346,Textiles,Germany,73.1,Valid,4,Tier 2,contact345@vendor345.com,2006
+VND00463,Vendor_0463,Raw Material,South Korea,82.2,Valid,39,Tier 1,contact462@vendor462.com,2015
+VND00922,Vendor_0922,Logistics,Japan,64.1,Valid,16,Tier 2,contact921@vendor921.com,2016
+VND00970,Vendor_0970,Logistics,Vietnam,63.3,Valid,27,Tier 2,contact969@vendor969.com,2015
+VND00992,Vendor_0992,Machinery,USA,78.6,Valid,39,Tier 2,contact991@vendor991.com,2010
+VND00871,Vendor_0871,IT Services,Thailand,56.1,Valid,14,Tier 3,contact870@vendor870.com,2016
+VND00971,Vendor_0971,Electronics,Malaysia,76.5,Valid,4,Tier 2,Not Provided,2012
+VND00404,Vendor_0404,Machinery,China,87.9,Valid,8,Tier 1,contact403@vendor403.com,2011
+VND00901,Vendor_0901,IT Services,India,44.6,Valid,20,Tier 3,contact900@vendor900.com,2017
+VND00817,Vendor_0817,Electronics,South Korea,71.4,Valid,10,Tier 2,contact816@vendor816.com,2018
+VND00906,Vendor_0906,Chemicals,Vietnam,92.5,Valid,32,Tier 1,contact905@vendor905.com,
+VND00485,Vendor_0485,Logistics,South Korea,70.9,Valid,17,Tier 2,contact484@vendor484.com,2012
+VND00089,Vendor_0089,Chemicals,Germany,92.1,Valid,7,Tier 1,contact88@vendor88.com,2010
+VND00608,Vendor_0608,IT Services,India,55.5,Valid,43,Tier 3,contact607@vendor607.com,2021
+VND00129,Vendor_0129,IT Services,Japan,30.5,Valid,11,Tier 3,contact128@vendor128.com,2007
+VND00034,Vendor_0034,Chemicals,Unknown,96.4,Valid,9,Tier 1,contact33@vendor33.com,2010
+VND00460,Vendor_0460,Packaging,China,38.3,Valid,33,Tier 3,contact459@vendor459.com,2005
+VND00605,Vendor_0605,Electronics,Japan,,Out of Range (0-100),18,Unclassified,contact604@vendor604.com,2007
+VND00551,Vendor_0551,Machinery,Thailand,66.4,Valid,39,Tier 2,contact550@vendor550.com,2017
+VND00862,Vendor_0862,Textiles,Malaysia,61.7,Valid,22,Tier 2,contact861@vendor861.com,2015
+VND00905,Vendor_0905,Textiles,South Korea,59.5,Valid,44,Tier 3,contact904@vendor904.com,2007
+VND00611,Vendor_0611,Chemicals,South Korea,32.8,Valid,4,Tier 3,contact610@vendor610.com,2006
+VND00776,Vendor_0776,Logistics,Malaysia,40.5,Valid,16,Tier 3,contact775@vendor775.com,2020
+VND00728,Vendor_0728,Logistics,Germany,85.7,Valid,3,Tier 1,contact727@vendor727.com,2015
+VND00625,Vendor_0625,Electronics,China,73.3,Valid,40,Tier 2,contact624@vendor624.com,2022
+VND00364,Vendor_0364,Machinery,USA,68.2,Valid,43,Tier 2,contact363@vendor363.com,2014
+VND00803,Vendor_0803,Textiles,Vietnam,70.3,Valid,5,Tier 2,contact802@vendor802.com,2020
+VND00890,Vendor_0890,Packaging,India,47.0,Valid,20,Tier 3,contact889@vendor889.com,2011
+VND00377,Vendor_0377,IT Services,South Korea,89.1,Valid,22,Tier 1,contact376@vendor376.com,2006
+VND00155,Vendor_0155,Textiles,Unknown,99.0,Valid,27,Tier 1,contact154@vendor154.com,2009
+VND00928,Vendor_0928,Packaging,Germany,67.9,Valid,22,Tier 2,contact927@vendor927.com,2019
+VND00583,Vendor_0583,Electronics,India,64.5,Valid,40,Tier 2,contact582@vendor582.com,2008
+VND00972,Vendor_0972,Logistics,China,95.6,Valid,22,Tier 1,contact971@vendor971.com,2017
+VND00432,Vendor_0432,Textiles,India,83.3,Valid,25,Tier 1,contact431@vendor431.com,2019
+VND00773,Vendor_0773,Textiles,Malaysia,38.9,Valid,13,Tier 3,contact772@vendor772.com,2007
+VND00618,Vendor_0618,Textiles,Germany,49.4,Valid,11,Tier 3,contact617@vendor617.com,2021
+VND00812,Vendor_0812,Machinery,Unknown,88.7,Valid,24,Tier 1,contact811@vendor811.com,2012
+VND00873,Vendor_0873,Logistics,Japan,75.1,Valid,36,Tier 2,contact872@vendor872.com,2020
+VND00646,Vendor_0646,Packaging,Malaysia,92.3,Valid,17,Tier 1,contact645@vendor645.com,2021
+VND00170,Vendor_0170,IT Services,Japan,71.4,Valid,7,Tier 2,contact169@vendor169.com,2011
+VND00966,Vendor_0966,Raw Material,Germany,54.9,Valid,7,Tier 3,contact965@vendor965.com,2005
+VND00469,Vendor_0469,Chemicals,Japan,45.7,Valid,43,Tier 3,contact468@vendor468.com,2006
+VND00635,Vendor_0635,Machinery,Japan,37.5,Valid,21,Tier 3,contact634@vendor634.com,2016
+VND00255,Vendor_0255,Chemicals,Japan,41.9,Valid,24,Tier 3,contact254@vendor254.com,2017
+VND00426,Vendor_0426,Textiles,India,68.5,Valid,43,Tier 2,contact425@vendor425.com,2014
+VND00629,Vendor_0629,Logistics,China,32.6,Valid,8,Tier 3,contact628@vendor628.com,2008
+VND00931,Vendor_0931,Machinery,Malaysia,39.8,Valid,33,Tier 3,contact930@vendor930.com,2018
+VND00036,Vendor_0036,Machinery,Malaysia,86.6,Valid,10,Tier 1,contact35@vendor35.com,2016
+VND00777,Vendor_0777,Logistics,Japan,46.0,Valid,15,Tier 3,contact776@vendor776.com,2005
+VND00623,Vendor_0623,Packaging,China,55.9,Valid,6,Tier 3,contact622@vendor622.com,2012
+VND00729,Vendor_0729,Machinery,Bangladesh,44.1,Valid,44,Tier 3,contact728@vendor728.com,2020
+VND00700,Vendor_0700,Chemicals,South Korea,63.7,Valid,30,Tier 2,Not Provided,2011
+VND00086,Vendor_0086,IT Services,Germany,52.8,Valid,27,Tier 3,contact85@vendor85.com,2006
+VND00537,Vendor_0537,Logistics,Bangladesh,89.5,Valid,3,Tier 1,contact536@vendor536.com,2007
+VND00342,Vendor_0342,Textiles,USA,63.1,Valid,38,Tier 2,contact341@vendor341.com,2008
+VND00640,Vendor_0640,Machinery,Unknown,56.4,Valid,27,Tier 3,contact639@vendor639.com,2020
+VND00739,Vendor_0739,Raw Material,Germany,60.7,Valid,12,Tier 2,contact738@vendor738.com,2005
+VND00084,Vendor_0084,Raw Material,Thailand,34.4,Valid,12,Tier 3,contact83@vendor83.com,2012
+VND00187,Vendor_0187,Raw Material,Bangladesh,87.2,Valid,29,Tier 1,contact186@vendor186.com,2020
+VND00081,Vendor_0081,Packaging,Japan,90.4,Valid,31,Tier 1,contact80@vendor80.com,2017
+VND00039,Vendor_0039,Chemicals,Bangladesh,77.9,Valid,20,Tier 2,contact38@vendor38.com,2009
+VND00427,Vendor_0427,Chemicals,Vietnam,60.9,Valid,44,Tier 2,contact426@vendor426.com,2006
+VND00867,Vendor_0867,Textiles,Bangladesh,40.9,Valid,41,Tier 3,contact866@vendor866.com,2022
+VND00094,Vendor_0094,Electronics,China,69.3,Valid,32,Tier 2,contact93@vendor93.com,2018
+VND00495,Vendor_0495,Chemicals,Vietnam,62.5,Valid,16,Tier 2,contact494@vendor494.com,2014
+VND00725,Vendor_0725,IT Services,Japan,70.2,Valid,22,Tier 2,contact724@vendor724.com,2013
+VND00352,Vendor_0352,Unknown,China,90.0,Valid,10,Tier 1,contact351@vendor351.com,2013
+VND00478,Vendor_0478,Raw Material,China,68.8,Valid,41,Tier 2,contact477@vendor477.com,2018
+VND00503,Vendor_0503,Textiles,India,51.7,Valid,27,Tier 3,contact502@vendor502.com,2005
+VND00576,Vendor_0576,Machinery,Vietnam,96.5,Valid,44,Tier 1,contact575@vendor575.com,2016
+VND00724,Vendor_0724,Chemicals,South Korea,81.9,Valid,22,Tier 1,contact723@vendor723.com,2008
+VND00008,Vendor_0008,Logistics,India,90.6,Valid,19,Tier 1,contact7@vendor7.com,2010
+VND00247,Vendor_0247,IT Services,Vietnam,60.0,Valid,6,Tier 2,contact246@vendor246.com,2020
+VND00418,Vendor_0418,Packaging,Bangladesh,53.0,Valid,13,Tier 3,contact417@vendor417.com,2006
+VND00811,Vendor_0811,Logistics,South Korea,98.9,Valid,15,Tier 1,contact810@vendor810.com,2017
+VND00336,Vendor_0336,Chemicals,Bangladesh,32.9,Valid,27,Tier 3,Not Provided,2007
+VND00245,Vendor_0245,Logistics,Thailand,31.1,Valid,31,Tier 3,contact244@vendor244.com,2019
+VND00299,Vendor_0299,Chemicals,Thailand,73.6,Valid,19,Tier 2,contact298@vendor298.com,2011
+VND00107,Vendor_0107,Textiles,USA,58.7,Valid,39,Tier 3,contact106@vendor106.com,2020
+VND00993,Vendor_0993,Raw Material,India,49.1,Valid,41,Tier 3,contact992@vendor992.com,2019
+VND00753,Vendor_0753,Logistics,Germany,73.9,Valid,12,Tier 2,contact752@vendor752.com,2022
+VND00125,Vendor_0125,Chemicals,Malaysia,46.0,Valid,8,Tier 3,Not Provided,2017
+VND00929,Vendor_0929,Raw Material,Malaysia,74.3,Valid,35,Tier 2,contact928@vendor928.com,2015
+VND00545,Vendor_0545,IT Services,South Korea,73.3,Valid,17,Tier 2,contact544@vendor544.com,2022
+VND00745,Vendor_0745,Electronics,Vietnam,46.3,Valid,28,Tier 3,contact744@vendor744.com,2010
+VND00311,Vendor_0311,Textiles,Vietnam,60.7,Valid,40,Tier 2,contact310@vendor310.com,2010
+VND00870,Vendor_0870,Raw Material,India,96.2,Valid,18,Tier 1,contact869@vendor869.com,2005
+VND00671,Vendor_0671,Machinery,South Korea,42.1,Valid,28,Tier 3,contact670@vendor670.com,2007
+VND00357,Vendor_0357,IT Services,Vietnam,31.9,Valid,33,Tier 3,contact356@vendor356.com,2019
+VND00996,Vendor_0996,Electronics,USA,36.4,Valid,40,Tier 3,contact995@vendor995.com,2016
+VND00332,Vendor_0332,Chemicals,Vietnam,83.0,Valid,26,Tier 1,contact331@vendor331.com,2005
+VND00543,Vendor_0543,Chemicals,Malaysia,46.0,Valid,39,Tier 3,contact542@vendor542.com,2017
+VND00861,Vendor_0861,Logistics,Japan,84.3,Valid,23,Tier 1,contact860@vendor860.com,2020
+VND00831,Vendor_0831,Textiles,Thailand,45.7,Valid,25,Tier 3,contact830@vendor830.com,2020
+VND00272,Vendor_0272,Chemicals,South Korea,86.7,Valid,8,Tier 1,contact271@vendor271.com,2011
+VND00578,Vendor_0578,Machinery,USA,94.9,Valid,23,Tier 1,contact577@vendor577.com,2005
+VND00705,Vendor_0705,Packaging,Thailand,34.4,Valid,22,Tier 3,contact704@vendor704.com,2016
+VND00050,Vendor_0050,Textiles,Bangladesh,42.9,Valid,26,Tier 3,contact49@vendor49.com,2009
+VND00333,Vendor_0333,Textiles,USA,31.0,Valid,5,Tier 3,contact332@vendor332.com,2009
+VND00852,Vendor_0852,Machinery,Thailand,82.5,Valid,32,Tier 1,contact851@vendor851.com,2012
+VND00161,Vendor_0161,IT Services,Bangladesh,55.7,Valid,42,Tier 3,contact160@vendor160.com,2005
+VND00730,Vendor_0730,Packaging,Japan,41.5,Valid,15,Tier 3,contact729@vendor729.com,2018
+VND00493,Vendor_0493,IT Services,Japan,49.4,Valid,44,Tier 3,contact492@vendor492.com,2021
+VND00727,Vendor_0727,Raw Material,Malaysia,39.8,Valid,19,Tier 3,Not Provided,2020
+VND00981,Vendor_0981,Machinery,Japan,53.4,Valid,24,Tier 3,Not Provided,2020
+VND00093,Vendor_0093,Logistics,Vietnam,83.3,Valid,16,Tier 1,contact92@vendor92.com,2020
+VND00518,Vendor_0518,Textiles,Germany,86.7,Valid,38,Tier 1,contact517@vendor517.com,2011
+VND00792,Vendor_0792,IT Services,Thailand,71.0,Valid,6,Tier 2,contact791@vendor791.com,2019
+VND00223,Vendor_0223,Machinery,China,36.6,Valid,34,Tier 3,contact222@vendor222.com,2011
+VND00302,Vendor_0302,Logistics,Vietnam,67.2,Valid,23,Tier 2,contact301@vendor301.com,
+VND00829,Vendor_0829,Packaging,USA,81.6,Valid,37,Tier 1,contact828@vendor828.com,2005
+VND00778,Vendor_0778,Textiles,Malaysia,80.6,Valid,27,Tier 1,contact777@vendor777.com,2021
+VND00742,Vendor_0742,Logistics,USA,51.1,Valid,10,Tier 3,contact741@vendor741.com,2015
+VND00738,Vendor_0738,Machinery,Malaysia,87.2,Valid,17,Tier 1,contact737@vendor737.com,2009
+VND00453,Vendor_0453,IT Services,China,59.7,Valid,31,Tier 3,contact452@vendor452.com,2022
+VND00882,Vendor_0882,IT Services,Thailand,77.0,Valid,29,Tier 2,contact881@vendor881.com,2022
+VND00122,Vendor_0122,Logistics,Germany,92.7,Valid,28,Tier 1,contact121@vendor121.com,2016
+VND00015,Vendor_0015,IT Services,Bangladesh,42.7,Valid,20,Tier 3,contact14@vendor14.com,2007
+VND00422,Vendor_0422,Packaging,Bangladesh,85.3,Valid,8,Tier 1,contact421@vendor421.com,2008
+VND00248,Vendor_0248,Machinery,Vietnam,97.7,Valid,22,Tier 1,contact247@vendor247.com,2010
+VND00677,Vendor_0677,Machinery,USA,37.8,Valid,17,Tier 3,contact676@vendor676.com,2017
+VND00361,Vendor_0361,IT Services,Bangladesh,57.2,Valid,27,Tier 3,contact360@vendor360.com,2018
+VND00005,Vendor_0005,Logistics,South Korea,40.9,Valid,10,Tier 3,contact4@vendor4.com,2018
+VND00242,Vendor_0242,Machinery,Thailand,96.8,Valid,17,Tier 1,contact241@vendor241.com,2018
+VND00599,Vendor_0599,Machinery,Thailand,43.5,Valid,27,Tier 3,contact598@vendor598.com,2020
+VND00159,Vendor_0159,Logistics,India,46.6,Valid,11,Tier 3,contact158@vendor158.com,2006
+VND00878,Vendor_0878,Packaging,Thailand,76.1,Valid,4,Tier 2,contact877@vendor877.com,2013
+VND00935,Vendor_0935,Logistics,Japan,42.0,Valid,5,Tier 3,contact934@vendor934.com,2022
+VND00645,Vendor_0645,Electronics,Germany,38.4,Valid,9,Tier 3,contact644@vendor644.com,2010
+VND00655,Vendor_0655,Machinery,Thailand,,Out of Range (0-100),28,Unclassified,contact654@vendor654.com,2017
+VND00491,Vendor_0491,Electronics,Bangladesh,61.9,Valid,32,Tier 2,contact490@vendor490.com,2006
+VND00596,Vendor_0596,Machinery,Vietnam,63.2,Valid,14,Tier 2,contact595@vendor595.com,2005
+VND00068,Vendor_0068,Machinery,South Korea,86.2,Valid,44,Tier 1,contact67@vendor67.com,2012
+VND00360,Vendor_0360,Logistics,Thailand,70.3,Valid,13,Tier 2,contact359@vendor359.com,2005
+VND00461,Vendor_0461,IT Services,Malaysia,38.2,Valid,26,Tier 3,contact460@vendor460.com,2016
+VND00969,Vendor_0969,Unknown,Bangladesh,69.6,Valid,12,Tier 2,contact968@vendor968.com,2022
+VND00339,Vendor_0339,Machinery,India,63.2,Valid,9,Tier 2,contact338@vendor338.com,2021
+VND00301,Vendor_0301,Logistics,Vietnam,33.6,Valid,31,Tier 3,contact300@vendor300.com,2005
+VND00507,Vendor_0507,Logistics,USA,93.8,Valid,8,Tier 1,contact506@vendor506.com,2022
+VND00394,Vendor_0394,IT Services,USA,84.3,Valid,24,Tier 1,Not Provided,2009
+VND00858,Vendor_0858,Textiles,South Korea,63.0,Valid,42,Tier 2,contact857@vendor857.com,2020
+VND00026,Vendor_0026,IT Services,USA,,Out of Range (0-100),19,Unclassified,contact25@vendor25.com,2013
+VND00747,Vendor_0747,IT Services,USA,56.9,Valid,39,Tier 3,contact746@vendor746.com,2008
+VND00362,Vendor_0362,Packaging,USA,75.0,Valid,35,Tier 2,contact361@vendor361.com,
+VND00199,Vendor_0199,Logistics,Bangladesh,92.1,Valid,27,Tier 1,contact198@vendor198.com,2005
+VND00492,Vendor_0492,Logistics,Vietnam,73.4,Valid,25,Tier 2,contact491@vendor491.com,2007
+VND00090,Vendor_0090,Machinery,China,,Out of Range (0-100),3,Unclassified,contact89@vendor89.com,2010
+VND00571,Vendor_0571,Chemicals,Bangladesh,66.0,Valid,25,Tier 2,contact570@vendor570.com,2017
+VND00951,Vendor_0951,IT Services,Germany,72.0,Valid,34,Tier 2,contact950@vendor950.com,2012
+VND00793,Vendor_0793,Electronics,Malaysia,65.4,Valid,28,Tier 2,contact792@vendor792.com,2018
+VND00278,Vendor_0278,Chemicals,Malaysia,75.5,Valid,36,Tier 2,contact277@vendor277.com,2006
+VND00948,Vendor_0948,Chemicals,Malaysia,93.0,Valid,6,Tier 1,contact947@vendor947.com,2009
+VND00143,Vendor_0143,IT Services,Malaysia,,Out of Range (0-100),11,Unclassified,contact142@vendor142.com,2021
+VND00607,Vendor_0607,Machinery,China,44.4,Valid,7,Tier 3,contact606@vendor606.com,2005
+VND00434,Vendor_0434,Raw Material,Malaysia,37.1,Valid,15,Tier 3,contact433@vendor433.com,2022
+VND00393,Vendor_0393,Electronics,Thailand,56.0,Valid,41,Tier 3,contact392@vendor392.com,2010
+VND00627,Vendor_0627,Electronics,USA,62.4,Valid,40,Tier 2,contact626@vendor626.com,
+VND00516,Vendor_0516,Chemicals,Germany,31.8,Valid,42,Tier 3,contact515@vendor515.com,2022
+VND00713,Vendor_0713,Electronics,India,63.0,Valid,32,Tier 2,contact712@vendor712.com,2021
+VND00714,Vendor_0714,Chemicals,China,58.8,Valid,13,Tier 3,contact713@vendor713.com,2012
+VND00124,Vendor_0124,Raw Material,Bangladesh,37.7,Valid,5,Tier 3,contact123@vendor123.com,2012
+VND00079,Vendor_0079,Machinery,Japan,55.1,Valid,37,Tier 3,contact78@vendor78.com,2018
+VND00760,Vendor_0760,Machinery,China,,Out of Range (0-100),7,Unclassified,contact759@vendor759.com,2015
+VND00767,Vendor_0767,IT Services,USA,83.4,Valid,39,Tier 1,contact766@vendor766.com,2019
+VND00226,Vendor_0226,Electronics,Germany,47.1,Valid,43,Tier 3,contact225@vendor225.com,2016
+VND00736,Vendor_0736,Unknown,Bangladesh,91.4,Valid,28,Tier 1,contact735@vendor735.com,2022
+VND00489,Vendor_0489,Packaging,Malaysia,96.5,Valid,10,Tier 1,contact488@vendor488.com,2008
+VND00195,Vendor_0195,Unknown,Bangladesh,53.7,Valid,30,Tier 3,contact194@vendor194.com,2021
+VND00759,Vendor_0759,Electronics,USA,,Out of Range (0-100),35,Unclassified,contact758@vendor758.com,2009
+VND00988,Vendor_0988,Logistics,South Korea,60.4,Valid,6,Tier 2,contact987@vendor987.com,2018
+VND00827,Vendor_0827,Chemicals,South Korea,54.2,Valid,40,Tier 3,contact826@vendor826.com,2019
+VND00774,Vendor_0774,IT Services,South Korea,57.8,Valid,12,Tier 3,contact773@vendor773.com,2017
+VND00504,Vendor_0504,Textiles,Vietnam,87.0,Valid,22,Tier 1,contact503@vendor503.com,2022
+VND00225,Vendor_0225,Chemicals,South Korea,48.6,Valid,29,Tier 3,contact224@vendor224.com,2020
+VND00331,Vendor_0331,Logistics,Bangladesh,54.9,Valid,22,Tier 3,Not Provided,2017
+VND00770,Vendor_0770,IT Services,Vietnam,87.5,Valid,30,Tier 1,contact769@vendor769.com,2018
+VND00307,Vendor_0307,Machinery,Unknown,66.1,Valid,21,Tier 2,contact306@vendor306.com,2008
+VND00939,Vendor_0939,Chemicals,Bangladesh,38.2,Valid,27,Tier 3,contact938@vendor938.com,
+VND00775,Vendor_0775,Chemicals,Malaysia,85.8,Valid,11,Tier 1,contact774@vendor774.com,2007
+VND00373,Vendor_0373,Raw Material,Thailand,36.6,Valid,19,Tier 3,contact372@vendor372.com,2012
+VND00555,Vendor_0555,Logistics,Vietnam,91.4,Valid,3,Tier 1,contact554@vendor554.com,2010
+VND00879,Vendor_0879,Electronics,Malaysia,31.9,Valid,43,Tier 3,contact878@vendor878.com,2022
+VND00756,Vendor_0756,Textiles,Japan,85.6,Valid,21,Tier 1,contact755@vendor755.com,2019
+VND00519,Vendor_0519,IT Services,India,99.1,Valid,25,Tier 1,contact518@vendor518.com,2020
+VND00055,Vendor_0055,Electronics,Vietnam,71.9,Valid,42,Tier 2,contact54@vendor54.com,2015
+VND00033,Vendor_0033,Raw Material,Thailand,,Out of Range (0-100),17,Unclassified,contact32@vendor32.com,2017
+VND00501,Vendor_0501,Raw Material,Vietnam,78.9,Valid,16,Tier 2,contact500@vendor500.com,2009
+VND00391,Vendor_0391,Raw Material,USA,99.3,Valid,28,Tier 1,contact390@vendor390.com,2020
+VND00134,Vendor_0134,IT Services,India,53.6,Valid,20,Tier 3,contact133@vendor133.com,2010
+VND00717,Vendor_0717,Electronics,Unknown,88.1,Valid,28,Tier 1,contact716@vendor716.com,2022
+VND00711,Vendor_0711,Raw Material,Thailand,83.2,Valid,28,Tier 1,contact710@vendor710.com,2015
+VND00697,Vendor_0697,IT Services,USA,50.2,Valid,6,Tier 3,contact696@vendor696.com,2010
+VND00842,Vendor_0842,Machinery,Malaysia,76.4,Valid,32,Tier 2,contact841@vendor841.com,2008
+VND00926,Vendor_0926,Textiles,Japan,31.6,Valid,27,Tier 3,contact925@vendor925.com,2015
+VND00156,Vendor_0156,Packaging,Malaysia,46.9,Valid,36,Tier 3,contact155@vendor155.com,2017
+VND00119,Vendor_0119,Raw Material,India,92.5,Valid,31,Tier 1,contact118@vendor118.com,2013
+VND00230,Vendor_0230,Packaging,Germany,74.2,Valid,36,Tier 2,contact229@vendor229.com,2013
+VND00813,Vendor_0813,Logistics,China,38.7,Valid,7,Tier 3,contact812@vendor812.com,2018
+VND00378,Vendor_0378,Textiles,Germany,31.6,Valid,35,Tier 3,contact377@vendor377.com,2020
+VND00409,Vendor_0409,Machinery,USA,93.4,Valid,33,Tier 1,contact408@vendor408.com,2016
+VND00171,Vendor_0171,Logistics,Vietnam,77.4,Valid,22,Tier 2,contact170@vendor170.com,2018
+VND00541,Vendor_0541,Raw Material,USA,96.8,Valid,39,Tier 1,contact540@vendor540.com,2005
+VND00706,Vendor_0706,Chemicals,USA,99.3,Valid,32,Tier 1,contact705@vendor705.com,2008
+VND00182,Vendor_0182,IT Services,South Korea,37.9,Valid,31,Tier 3,contact181@vendor181.com,2013
+VND00017,Vendor_0017,Packaging,China,51.3,Valid,14,Tier 3,contact16@vendor16.com,2021
+VND00614,Vendor_0614,Machinery,China,35.7,Valid,35,Tier 3,contact613@vendor613.com,2009
+VND00807,Vendor_0807,Chemicals,Thailand,95.4,Valid,8,Tier 1,contact806@vendor806.com,2022
+VND00387,Vendor_0387,Textiles,Bangladesh,49.7,Valid,15,Tier 3,contact386@vendor386.com,2021
+VND00138,Vendor_0138,Electronics,India,79.2,Valid,34,Tier 2,contact137@vendor137.com,2009
+VND00398,Vendor_0398,IT Services,Vietnam,60.0,Valid,17,Tier 2,contact397@vendor397.com,2015
+VND00938,Vendor_0938,IT Services,South Korea,94.0,Valid,24,Tier 1,contact937@vendor937.com,2017
+VND00944,Vendor_0944,IT Services,India,88.1,Valid,36,Tier 1,contact943@vendor943.com,2011
+VND00954,Vendor_0954,Electronics,Japan,94.0,Valid,33,Tier 1,contact953@vendor953.com,2011
+VND00586,Vendor_0586,Logistics,Germany,46.8,Valid,36,Tier 3,contact585@vendor585.com,2020
+VND00766,Vendor_0766,Machinery,Germany,69.9,Valid,24,Tier 2,contact765@vendor765.com,2017
+VND00044,Vendor_0044,Packaging,Bangladesh,93.7,Valid,20,Tier 1,contact43@vendor43.com,2012
+VND00795,Vendor_0795,Raw Material,South Korea,31.3,Valid,44,Tier 3,contact794@vendor794.com,2016
+VND00650,Vendor_0650,IT Services,Thailand,64.9,Valid,27,Tier 2,contact649@vendor649.com,2009
+VND00054,Vendor_0054,IT Services,Bangladesh,92.6,Valid,39,Tier 1,contact53@vendor53.com,2017
+VND00118,Vendor_0118,Logistics,USA,43.1,Valid,22,Tier 3,contact117@vendor117.com,2019
+VND00049,Vendor_0049,Textiles,Malaysia,68.3,Valid,33,Tier 2,contact48@vendor48.com,2015
+VND00786,Vendor_0786,Packaging,Thailand,93.6,Valid,41,Tier 1,contact785@vendor785.com,
+VND00525,Vendor_0525,Textiles,Malaysia,88.7,Valid,18,Tier 1,contact524@vendor524.com,2014
+VND00689,Vendor_0689,Machinery,Vietnam,83.9,Valid,17,Tier 1,contact688@vendor688.com,2013
+VND00709,Vendor_0709,Machinery,Thailand,47.8,Valid,15,Tier 3,contact708@vendor708.com,2022
+VND00252,Vendor_0252,Machinery,Malaysia,57.0,Valid,29,Tier 3,contact251@vendor251.com,2010
+VND00896,Vendor_0896,Machinery,Germany,44.3,Valid,39,Tier 3,contact895@vendor895.com,2006
+VND00356,Vendor_0356,Chemicals,India,75.0,Valid,20,Tier 2,contact355@vendor355.com,2019
+VND00860,Vendor_0860,Electronics,Thailand,34.6,Valid,32,Tier 3,contact859@vendor859.com,2007
+VND00438,Vendor_0438,Chemicals,Thailand,87.5,Valid,10,Tier 1,contact437@vendor437.com,2007
+VND00865,Vendor_0865,Machinery,Vietnam,58.1,Valid,20,Tier 3,contact864@vendor864.com,2008
+VND00941,Vendor_0941,Packaging,Vietnam,49.2,Valid,36,Tier 3,contact940@vendor940.com,2005
+VND00149,Vendor_0149,Electronics,South Korea,33.6,Valid,43,Tier 3,contact148@vendor148.com,2008
+VND00326,Vendor_0326,Logistics,USA,81.7,Valid,10,Tier 1,Not Provided,2010
+VND00028,Vendor_0028,Machinery,Thailand,66.0,Valid,28,Tier 2,contact27@vendor27.com,2012
+VND00003,Vendor_0003,Machinery,China,81.2,Valid,26,Tier 1,contact2@vendor2.com,2015
+VND00274,Vendor_0274,Chemicals,Malaysia,93.9,Valid,34,Tier 1,contact273@vendor273.com,
+VND00263,Vendor_0263,Electronics,Malaysia,39.8,Valid,31,Tier 3,contact262@vendor262.com,2016
+VND00818,Vendor_0818,IT Services,Japan,57.9,Valid,40,Tier 3,contact817@vendor817.com,2007
+VND00173,Vendor_0173,Raw Material,India,65.8,Valid,8,Tier 2,contact172@vendor172.com,2006
+VND00621,Vendor_0621,Unknown,Malaysia,42.9,Valid,43,Tier 3,contact620@vendor620.com,2008
+VND00888,Vendor_0888,Chemicals,China,46.7,Valid,28,Tier 3,contact887@vendor887.com,2007
+VND00459,Vendor_0459,Textiles,China,33.9,Valid,23,Tier 3,contact458@vendor458.com,2022
+VND00166,Vendor_0166,Logistics,Japan,88.5,Valid,26,Tier 1,contact165@vendor165.com,2019
+VND00913,Vendor_0913,Chemicals,South Korea,73.7,Valid,11,Tier 2,contact912@vendor912.com,2007
+VND00649,Vendor_0649,IT Services,South Korea,85.2,Valid,31,Tier 1,contact648@vendor648.com,2005
+VND00968,Vendor_0968,Logistics,China,50.8,Valid,36,Tier 3,contact967@vendor967.com,2021
+VND00783,Vendor_0783,IT Services,Malaysia,47.6,Valid,20,Tier 3,contact782@vendor782.com,2019
+VND00100,Vendor_0100,IT Services,Thailand,37.6,Valid,17,Tier 3,contact99@vendor99.com,2022
+VND00397,Vendor_0397,Chemicals,Malaysia,90.1,Valid,28,Tier 1,contact396@vendor396.com,2012
+VND00210,Vendor_0210,Logistics,Bangladesh,41.3,Valid,34,Tier 3,contact209@vendor209.com,2008
+VND00708,Vendor_0708,IT Services,Thailand,86.7,Valid,4,Tier 1,contact707@vendor707.com,2020
+VND00455,Vendor_0455,Raw Material,Germany,37.8,Valid,35,Tier 3,contact454@vendor454.com,2011
+VND00236,Vendor_0236,Packaging,Thailand,80.6,Valid,9,Tier 1,contact235@vendor235.com,2015
+VND00227,Vendor_0227,Logistics,Vietnam,98.1,Valid,19,Tier 1,contact226@vendor226.com,2010
+VND00658,Vendor_0658,Logistics,Japan,55.4,Valid,10,Tier 3,contact657@vendor657.com,2010
+VND00496,Vendor_0496,Packaging,China,54.7,Valid,4,Tier 3,contact495@vendor495.com,2019
+VND00872,Vendor_0872,Machinery,Malaysia,49.0,Valid,40,Tier 3,contact871@vendor871.com,2013
+VND00833,Vendor_0833,Packaging,Unknown,39.9,Valid,10,Tier 3,contact832@vendor832.com,2006
+VND00553,Vendor_0553,Logistics,South Korea,68.6,Valid,22,Tier 2,contact552@vendor552.com,2010
+VND00540,Vendor_0540,Chemicals,Vietnam,39.0,Valid,39,Tier 3,contact539@vendor539.com,2007
+VND00947,Vendor_0947,Raw Material,Vietnam,39.6,Valid,17,Tier 3,contact946@vendor946.com,2021
+VND00502,Vendor_0502,Machinery,USA,67.5,Valid,41,Tier 2,contact501@vendor501.com,2016
+VND00707,Vendor_0707,Textiles,USA,52.6,Valid,20,Tier 3,Not Provided,2007
+VND00293,Vendor_0293,Textiles,India,87.6,Valid,16,Tier 1,contact292@vendor292.com,2008
+VND00652,Vendor_0652,Raw Material,Malaysia,67.6,Valid,34,Tier 2,contact651@vendor651.com,2013
+VND00789,Vendor_0789,Packaging,India,62.3,Valid,41,Tier 2,contact788@vendor788.com,2022
+VND00606,Vendor_0606,Raw Material,Germany,62.3,Valid,16,Tier 2,contact605@vendor605.com,2017
+VND00431,Vendor_0431,Logistics,USA,40.0,Valid,14,Tier 3,contact430@vendor430.com,
+VND00743,Vendor_0743,Electronics,Vietnam,82.3,Valid,26,Tier 1,contact742@vendor742.com,2014
+VND00523,Vendor_0523,IT Services,Bangladesh,97.9,Valid,5,Tier 1,contact522@vendor522.com,2015
+VND00536,Vendor_0536,IT Services,Bangladesh,96.1,Valid,14,Tier 1,contact535@vendor535.com,2008
+VND00101,Vendor_0101,Packaging,Thailand,32.2,Valid,11,Tier 3,contact100@vendor100.com,2014
+VND00809,Vendor_0809,Raw Material,Germany,61.6,Valid,41,Tier 2,contact808@vendor808.com,2018
+VND00235,Vendor_0235,Electronics,USA,43.7,Valid,32,Tier 3,contact234@vendor234.com,2014
+VND00780,Vendor_0780,Textiles,China,74.9,Valid,37,Tier 2,contact779@vendor779.com,2009
+VND00175,Vendor_0175,Textiles,Bangladesh,75.2,Valid,15,Tier 2,contact174@vendor174.com,2021
+VND00801,Vendor_0801,Machinery,Vietnam,79.5,Valid,35,Tier 2,Not Provided,2009
+VND00218,Vendor_0218,Raw Material,Germany,82.3,Valid,15,Tier 1,contact217@vendor217.com,2009
+VND00962,Vendor_0962,IT Services,Germany,72.2,Valid,4,Tier 2,contact961@vendor961.com,2015
+VND00698,Vendor_0698,Electronics,Japan,70.7,Valid,29,Tier 2,contact697@vendor697.com,2016
+VND00401,Vendor_0401,Packaging,South Korea,37.2,Valid,42,Tier 3,contact400@vendor400.com,2021
+VND00421,Vendor_0421,Textiles,Germany,85.4,Valid,6,Tier 1,contact420@vendor420.com,
+VND00925,Vendor_0925,Machinery,Germany,59.8,Valid,12,Tier 3,contact924@vendor924.com,2022
+VND00568,Vendor_0568,Machinery,India,60.6,Valid,31,Tier 2,contact567@vendor567.com,2013
+VND00624,Vendor_0624,Machinery,USA,63.9,Valid,36,Tier 2,contact623@vendor623.com,2007
+VND00198,Vendor_0198,Electronics,China,92.8,Valid,15,Tier 1,contact197@vendor197.com,2009
+VND00177,Vendor_0177,Textiles,USA,78.4,Valid,7,Tier 2,contact176@vendor176.com,2005
+VND00825,Vendor_0825,Machinery,Vietnam,67.6,Valid,25,Tier 2,contact824@vendor824.com,
+VND00854,Vendor_0854,Machinery,Thailand,92.9,Valid,30,Tier 1,contact853@vendor853.com,
+VND00612,Vendor_0612,Packaging,Bangladesh,86.0,Valid,8,Tier 1,contact611@vendor611.com,2022
+VND00452,Vendor_0452,Packaging,Japan,69.1,Valid,37,Tier 2,contact451@vendor451.com,2021
+VND00428,Vendor_0428,IT Services,China,92.1,Valid,16,Tier 1,contact427@vendor427.com,2017
+VND00674,Vendor_0674,IT Services,South Korea,66.7,Valid,7,Tier 2,contact673@vendor673.com,2016
+VND00137,Vendor_0137,Electronics,Thailand,66.3,Valid,5,Tier 2,contact136@vendor136.com,2018
+VND00974,Vendor_0974,Logistics,India,45.0,Valid,17,Tier 3,contact973@vendor973.com,2018
+VND00619,Vendor_0619,IT Services,Thailand,86.4,Valid,15,Tier 1,contact618@vendor618.com,2020
+VND00577,Vendor_0577,Machinery,South Korea,40.3,Valid,10,Tier 3,contact576@vendor576.com,2020
+VND00633,Vendor_0633,Machinery,South Korea,65.8,Valid,43,Tier 2,contact632@vendor632.com,2013
+VND00651,Vendor_0651,Machinery,Vietnam,36.1,Valid,35,Tier 3,contact650@vendor650.com,2018
+VND00668,Vendor_0668,Raw Material,China,41.2,Valid,8,Tier 3,contact667@vendor667.com,2017
+VND00157,Vendor_0157,Machinery,South Korea,77.0,Valid,14,Tier 2,contact156@vendor156.com,
+VND00325,Vendor_0325,Textiles,Bangladesh,96.8,Valid,31,Tier 1,contact324@vendor324.com,2020
+VND00390,Vendor_0390,IT Services,Bangladesh,86.5,Valid,24,Tier 1,contact389@vendor389.com,2022
+VND00088,Vendor_0088,Electronics,Malaysia,74.6,Valid,22,Tier 2,contact87@vendor87.com,2008
+VND00343,Vendor_0343,Machinery,Germany,42.1,Valid,11,Tier 3,contact342@vendor342.com,2012
+VND00209,Vendor_0209,Chemicals,Germany,30.4,Valid,12,Tier 3,contact208@vendor208.com,2014
+VND00294,Vendor_0294,Raw Material,Germany,55.2,Valid,22,Tier 3,contact293@vendor293.com,2011
+VND00784,Vendor_0784,Textiles,Germany,54.2,Valid,5,Tier 3,contact783@vendor783.com,2009
+VND00096,Vendor_0096,IT Services,Thailand,,Out of Range (0-100),24,Unclassified,Not Provided,2018
+VND00154,Vendor_0154,Packaging,Japan,64.3,Valid,5,Tier 2,contact153@vendor153.com,
+VND00241,Vendor_0241,Machinery,Malaysia,95.8,Valid,30,Tier 1,contact240@vendor240.com,2017
+VND00441,Vendor_0441,Textiles,India,35.9,Valid,20,Tier 3,contact440@vendor440.com,2018
+VND00591,Vendor_0591,Logistics,India,39.7,Valid,20,Tier 3,contact590@vendor590.com,2021
+VND00561,Vendor_0561,IT Services,Malaysia,79.3,Valid,16,Tier 2,contact560@vendor560.com,2006
+VND00716,Vendor_0716,Chemicals,Thailand,95.1,Valid,33,Tier 1,contact715@vendor715.com,2018
+VND00834,Vendor_0834,Packaging,South Korea,42.3,Valid,24,Tier 3,contact833@vendor833.com,2009
+VND00639,Vendor_0639,Logistics,Vietnam,48.8,Valid,9,Tier 3,contact638@vendor638.com,2016
+VND00354,Vendor_0354,Logistics,South Korea,41.4,Valid,20,Tier 3,contact353@vendor353.com,2017
+VND00805,Vendor_0805,Chemicals,Bangladesh,59.7,Valid,10,Tier 3,contact804@vendor804.com,2018
+VND00631,Vendor_0631,IT Services,Vietnam,79.9,Valid,20,Tier 2,contact630@vendor630.com,2015
+VND00012,Vendor_0012,Electronics,Unknown,97.9,Valid,8,Tier 1,contact11@vendor11.com,2012
+VND00466,Vendor_0466,Chemicals,Thailand,56.2,Valid,22,Tier 3,contact465@vendor465.com,2005
+VND00471,Vendor_0471,Textiles,India,30.9,Valid,36,Tier 3,contact470@vendor470.com,2007
+VND00059,Vendor_0059,Packaging,Malaysia,33.2,Valid,17,Tier 3,contact58@vendor58.com,2010
+VND00205,Vendor_0205,Textiles,Unknown,72.5,Valid,7,Tier 2,contact204@vendor204.com,2021
+VND00899,Vendor_0899,Chemicals,Thailand,30.9,Valid,44,Tier 3,Not Provided,2020
+VND00843,Vendor_0843,IT Services,Unknown,42.5,Valid,18,Tier 3,contact842@vendor842.com,2011
+VND00030,Vendor_0030,Chemicals,South Korea,33.3,Valid,24,Tier 3,contact29@vendor29.com,2012
+VND00891,Vendor_0891,Unknown,Malaysia,80.6,Valid,8,Tier 1,contact890@vendor890.com,2020
+VND00408,Vendor_0408,Logistics,South Korea,30.8,Valid,41,Tier 3,contact407@vendor407.com,2015
+VND00984,Vendor_0984,Raw Material,India,35.3,Valid,18,Tier 3,contact983@vendor983.com,2021
+VND00412,Vendor_0412,Machinery,Germany,96.5,Valid,14,Tier 1,contact411@vendor411.com,2018
+VND00178,Vendor_0178,Machinery,Bangladesh,57.1,Valid,15,Tier 3,contact177@vendor177.com,2011
+VND00014,Vendor_0014,Machinery,Malaysia,44.9,Valid,27,Tier 3,contact13@vendor13.com,2022
+VND00160,Vendor_0160,Electronics,Germany,81.0,Valid,28,Tier 1,contact159@vendor159.com,2013
+VND00660,Vendor_0660,Logistics,Malaysia,70.0,Valid,12,Tier 2,contact659@vendor659.com,
+VND00564,Vendor_0564,Machinery,USA,31.0,Valid,22,Tier 3,contact563@vendor563.com,2019
+VND00975,Vendor_0975,Chemicals,South Korea,32.2,Valid,11,Tier 3,contact974@vendor974.com,2017
+VND00456,Vendor_0456,Textiles,Unknown,64.5,Valid,9,Tier 2,contact455@vendor455.com,2015
+VND00484,Vendor_0484,Logistics,South Korea,73.9,Valid,23,Tier 2,contact483@vendor483.com,2013
+VND00010,Vendor_0010,Electronics,Japan,79.6,Valid,39,Tier 2,contact9@vendor9.com,2019
+VND00074,Vendor_0074,IT Services,China,87.1,Valid,15,Tier 1,contact73@vendor73.com,2015
+VND00446,Vendor_0446,Textiles,Thailand,96.3,Valid,39,Tier 1,contact445@vendor445.com,
+VND00544,Vendor_0544,Packaging,Vietnam,77.0,Valid,30,Tier 2,contact543@vendor543.com,2011
+VND00023,Vendor_0023,Packaging,Thailand,50.5,Valid,12,Tier 3,contact22@vendor22.com,2013
+VND00183,Vendor_0183,Packaging,Vietnam,94.7,Valid,5,Tier 1,contact182@vendor182.com,2019
+VND00999,Vendor_0999,IT Services,India,96.5,Valid,24,Tier 1,contact998@vendor998.com,2009
+VND00031,Vendor_0031,Raw Material,Vietnam,,Out of Range (0-100),9,Unclassified,contact30@vendor30.com,2006
+VND00889,Vendor_0889,Textiles,Germany,37.0,Valid,6,Tier 3,contact888@vendor888.com,2022
+VND00281,Vendor_0281,Unknown,Vietnam,92.3,Valid,6,Tier 1,contact280@vendor280.com,2006
+VND00313,Vendor_0313,Raw Material,South Korea,31.8,Valid,36,Tier 3,contact312@vendor312.com,2015
+VND00053,Vendor_0053,Packaging,Vietnam,95.8,Valid,5,Tier 1,contact52@vendor52.com,2007
+VND00403,Vendor_0403,IT Services,Japan,65.4,Valid,5,Tier 2,contact402@vendor402.com,2022
+VND00943,Vendor_0943,Electronics,Japan,75.6,Valid,23,Tier 2,contact942@vendor942.com,
+VND00781,Vendor_0781,Raw Material,Bangladesh,78.6,Valid,9,Tier 2,contact780@vendor780.com,2017
+VND00437,Vendor_0437,Raw Material,Malaysia,35.1,Valid,38,Tier 3,contact436@vendor436.com,2010
+VND00670,Vendor_0670,Machinery,Malaysia,50.0,Valid,31,Tier 3,contact669@vendor669.com,2011
+VND00233,Vendor_0233,Raw Material,Japan,70.4,Valid,8,Tier 2,contact232@vendor232.com,2015
+VND00321,Vendor_0321,Chemicals,Thailand,68.4,Valid,29,Tier 2,contact320@vendor320.com,2015
+VND00565,Vendor_0565,Logistics,Malaysia,54.5,Valid,26,Tier 3,contact564@vendor564.com,2006
+VND00231,Vendor_0231,IT Services,China,85.6,Valid,26,Tier 1,contact230@vendor230.com,2022
+VND00733,Vendor_0733,IT Services,India,76.6,Valid,24,Tier 2,contact732@vendor732.com,2010
+VND00630,Vendor_0630,Textiles,Vietnam,47.7,Valid,36,Tier 3,contact629@vendor629.com,2017
+VND00027,Vendor_0027,Textiles,Japan,44.0,Valid,25,Tier 3,contact26@vendor26.com,2020
+VND00567,Vendor_0567,Logistics,Malaysia,57.5,Valid,27,Tier 3,contact566@vendor566.com,2021
+VND00632,Vendor_0632,IT Services,China,92.7,Valid,15,Tier 1,contact631@vendor631.com,2008
+VND00215,Vendor_0215,IT Services,Bangladesh,79.9,Valid,38,Tier 2,contact214@vendor214.com,2021
+VND00451,Vendor_0451,Unknown,Germany,84.4,Valid,12,Tier 1,contact450@vendor450.com,2010
+VND00295,Vendor_0295,IT Services,Malaysia,38.9,Valid,24,Tier 3,contact294@vendor294.com,2021
+VND00828,Vendor_0828,Textiles,Vietnam,54.3,Valid,19,Tier 3,contact827@vendor827.com,2012
+VND00508,Vendor_0508,Electronics,Malaysia,87.6,Valid,19,Tier 1,contact507@vendor507.com,2007
+VND00998,Vendor_0998,IT Services,India,39.6,Valid,39,Tier 3,contact997@vendor997.com,2006
+VND00957,Vendor_0957,Raw Material,USA,66.3,Valid,20,Tier 2,contact956@vendor956.com,2008
+VND00898,Vendor_0898,Machinery,South Korea,92.7,Valid,14,Tier 1,contact897@vendor897.com,2006
+VND00474,Vendor_0474,Machinery,Germany,92.4,Valid,17,Tier 1,contact473@vendor473.com,2007
+VND00450,Vendor_0450,Chemicals,Japan,35.8,Valid,30,Tier 3,contact449@vendor449.com,2015
+VND00830,Vendor_0830,Logistics,Germany,61.7,Valid,36,Tier 2,contact829@vendor829.com,2015
+VND00823,Vendor_0823,Chemicals,China,53.3,Valid,8,Tier 3,contact822@vendor822.com,2005
+VND00656,Vendor_0656,IT Services,China,38.9,Valid,13,Tier 3,contact655@vendor655.com,2021
+VND00380,Vendor_0380,Textiles,Malaysia,49.7,Valid,42,Tier 3,contact379@vendor379.com,2011
+VND00746,Vendor_0746,Packaging,Bangladesh,93.0,Valid,29,Tier 1,contact745@vendor745.com,2013
+VND00162,Vendor_0162,Unknown,Thailand,74.3,Valid,27,Tier 2,contact161@vendor161.com,2014
+VND00375,Vendor_0375,IT Services,Malaysia,35.0,Valid,24,Tier 3,contact374@vendor374.com,2014
+VND00978,Vendor_0978,Machinery,Malaysia,33.6,Valid,11,Tier 3,contact977@vendor977.com,2013
+VND00066,Vendor_0066,Raw Material,Vietnam,68.0,Valid,35,Tier 2,contact65@vendor65.com,2006
+VND00528,Vendor_0528,IT Services,Germany,49.1,Valid,12,Tier 3,contact527@vendor527.com,2018
+VND00887,Vendor_0887,Machinery,Thailand,75.7,Valid,25,Tier 2,contact886@vendor886.com,2012
+VND00123,Vendor_0123,Electronics,Bangladesh,52.3,Valid,43,Tier 3,contact122@vendor122.com,2018
+VND00083,Vendor_0083,Packaging,China,53.2,Valid,18,Tier 3,contact82@vendor82.com,2020
+VND00573,Vendor_0573,Chemicals,India,57.8,Valid,22,Tier 3,contact572@vendor572.com,2017
+VND00045,Vendor_0045,Machinery,Malaysia,48.1,Valid,44,Tier 3,contact44@vendor44.com,
+VND00290,Vendor_0290,Machinery,China,71.4,Valid,13,Tier 2,Not Provided,2009
+VND00967,Vendor_0967,Unknown,India,80.3,Valid,21,Tier 1,contact966@vendor966.com,2017
+VND00851,Vendor_0851,Chemicals,Bangladesh,34.7,Valid,18,Tier 3,Not Provided,2011
+VND00771,Vendor_0771,Chemicals,Germany,37.7,Valid,9,Tier 3,contact770@vendor770.com,2005
+VND00584,Vendor_0584,Packaging,USA,53.0,Valid,7,Tier 3,contact583@vendor583.com,2018
+VND00355,Vendor_0355,Textiles,South Korea,34.9,Valid,32,Tier 3,contact354@vendor354.com,2012
+VND00075,Vendor_0075,Raw Material,Bangladesh,79.5,Valid,15,Tier 2,contact74@vendor74.com,2013
+VND00358,Vendor_0358,IT Services,Thailand,71.0,Valid,24,Tier 2,contact357@vendor357.com,2020
+VND00260,Vendor_0260,Textiles,China,36.8,Valid,28,Tier 3,contact259@vendor259.com,2021
+VND00384,Vendor_0384,Packaging,Malaysia,91.4,Valid,35,Tier 1,contact383@vendor383.com,2006
+VND00802,Vendor_0802,Chemicals,Bangladesh,40.7,Valid,38,Tier 3,contact801@vendor801.com,2020
+VND00265,Vendor_0265,Raw Material,India,91.4,Valid,38,Tier 1,contact264@vendor264.com,2014
+VND00535,Vendor_0535,Unknown,Vietnam,83.8,Valid,10,Tier 1,contact534@vendor534.com,2014
+VND00989,Vendor_0989,Chemicals,India,47.2,Valid,41,Tier 3,Not Provided,2016
+VND00703,Vendor_0703,Chemicals,USA,53.6,Valid,18,Tier 3,contact702@vendor702.com,2011
+VND00880,Vendor_0880,Unknown,USA,45.5,Valid,23,Tier 3,contact879@vendor879.com,2021
+VND00877,Vendor_0877,Machinery,India,80.1,Valid,25,Tier 1,contact876@vendor876.com,2015
+VND00676,Vendor_0676,Textiles,USA,98.8,Valid,39,Tier 1,contact675@vendor675.com,2011
+VND00257,Vendor_0257,Machinery,India,95.5,Valid,12,Tier 1,contact256@vendor256.com,2006
+VND00127,Vendor_0127,Logistics,USA,87.3,Valid,7,Tier 1,contact126@vendor126.com,2020
+VND00201,Vendor_0201,Electronics,Vietnam,74.9,Valid,38,Tier 2,contact200@vendor200.com,2013
+VND00128,Vendor_0128,Machinery,Vietnam,90.3,Valid,25,Tier 1,contact127@vendor127.com,2012
+VND00188,Vendor_0188,Raw Material,India,68.9,Valid,15,Tier 2,contact187@vendor187.com,2016
+VND00648,Vendor_0648,Textiles,Vietnam,77.5,Valid,21,Tier 2,contact647@vendor647.com,2006
+VND00744,Vendor_0744,IT Services,Vietnam,65.2,Valid,18,Tier 2,contact743@vendor743.com,2006
+VND00141,Vendor_0141,Textiles,Malaysia,97.4,Valid,15,Tier 1,contact140@vendor140.com,2022
+VND00857,Vendor_0857,Logistics,South Korea,32.6,Valid,22,Tier 3,contact856@vendor856.com,
+VND00001,Vendor_0001,Unknown,South Korea,56.2,Valid,14,Tier 3,contact0@vendor0.com,2019
+VND00549,Vendor_0549,Chemicals,China,66.4,Valid,4,Tier 2,contact548@vendor548.com,2014
+VND00025,Vendor_0025,Packaging,China,61.9,Valid,9,Tier 2,contact24@vendor24.com,2005
+VND00292,Vendor_0292,Electronics,USA,32.6,Valid,4,Tier 3,contact291@vendor291.com,2008
+VND00065,Vendor_0065,Machinery,China,49.7,Valid,20,Tier 3,contact64@vendor64.com,2017
+VND00579,Vendor_0579,Logistics,India,64.4,Valid,22,Tier 2,contact578@vendor578.com,2009
+VND00647,Vendor_0647,Raw Material,India,71.6,Valid,23,Tier 2,contact646@vendor646.com,2015
+VND00542,Vendor_0542,IT Services,Malaysia,72.4,Valid,14,Tier 2,contact541@vendor541.com,2005
+VND00327,Vendor_0327,Machinery,Thailand,68.8,Valid,17,Tier 2,contact326@vendor326.com,2006
+VND00488,Vendor_0488,Logistics,Bangladesh,49.7,Valid,28,Tier 3,contact487@vendor487.com,2005
+VND00113,Vendor_0113,Logistics,USA,95.1,Valid,36,Tier 1,contact112@vendor112.com,2013
+VND00794,Vendor_0794,IT Services,Japan,72.8,Valid,40,Tier 2,contact793@vendor793.com,2022
+VND00264,Vendor_0264,Packaging,India,66.3,Valid,14,Tier 2,contact263@vendor263.com,2008
+VND00370,Vendor_0370,Logistics,Vietnam,34.9,Valid,19,Tier 3,contact369@vendor369.com,2020
+VND00019,Vendor_0019,Chemicals,Malaysia,60.2,Valid,28,Tier 2,contact18@vendor18.com,2017
+VND00916,Vendor_0916,Chemicals,Vietnam,60.5,Valid,37,Tier 2,contact915@vendor915.com,2012
+VND00303,Vendor_0303,Raw Material,Japan,67.8,Valid,18,Tier 2,contact302@vendor302.com,2008
+VND00734,Vendor_0734,Electronics,USA,66.6,Valid,30,Tier 2,contact733@vendor733.com,2012
+VND00057,Vendor_0057,Electronics,Vietnam,36.2,Valid,25,Tier 3,contact56@vendor56.com,2018
+VND00286,Vendor_0286,Packaging,India,32.5,Valid,41,Tier 3,Not Provided,2009
+VND00696,Vendor_0696,Textiles,Unknown,72.7,Valid,16,Tier 2,contact695@vendor695.com,2015
+VND00547,Vendor_0547,Chemicals,China,37.9,Valid,22,Tier 3,contact546@vendor546.com,2009
+VND00986,Vendor_0986,Raw Material,Thailand,64.7,Valid,35,Tier 2,contact985@vendor985.com,2018
+VND00681,Vendor_0681,Raw Material,China,87.2,Valid,8,Tier 1,contact680@vendor680.com,2015
+VND00194,Vendor_0194,Raw Material,Thailand,74.3,Valid,42,Tier 2,contact193@vendor193.com,2013
+VND00204,Vendor_0204,Electronics,Malaysia,92.9,Valid,28,Tier 1,contact203@vendor203.com,2019
+VND00277,Vendor_0277,Electronics,India,85.9,Valid,28,Tier 1,contact276@vendor276.com,2010
+VND00126,Vendor_0126,Electronics,Unknown,59.9,Valid,7,Tier 3,Not Provided,2018
+VND00320,Vendor_0320,Textiles,China,47.5,Valid,18,Tier 3,contact319@vendor319.com,2007
+VND00810,Vendor_0810,Electronics,Vietnam,37.9,Valid,6,Tier 3,contact809@vendor809.com,2010
+VND00566,Vendor_0566,Textiles,Vietnam,71.3,Valid,36,Tier 2,contact565@vendor565.com,2015
+VND00835,Vendor_0835,Electronics,India,64.9,Valid,38,Tier 2,contact834@vendor834.com,2017
+VND00683,Vendor_0683,Chemicals,USA,42.0,Valid,25,Tier 3,contact682@vendor682.com,2022
+VND00726,Vendor_0726,IT Services,Japan,88.9,Valid,6,Tier 1,contact725@vendor725.com,2013
+VND00349,Vendor_0349,Machinery,Unknown,56.2,Valid,24,Tier 3,contact348@vendor348.com,2020
+VND00022,Vendor_0022,Electronics,Vietnam,39.8,Valid,34,Tier 3,contact21@vendor21.com,2021
+VND00480,Vendor_0480,Logistics,Vietnam,66.6,Valid,14,Tier 2,contact479@vendor479.com,2009
+VND00114,Vendor_0114,Electronics,USA,86.6,Valid,27,Tier 1,contact113@vendor113.com,2022
+VND00720,Vendor_0720,IT Services,Bangladesh,81.2,Valid,33,Tier 1,contact719@vendor719.com,2008
+VND00701,Vendor_0701,Textiles,China,67.3,Valid,37,Tier 2,contact700@vendor700.com,2011
+VND00494,Vendor_0494,Machinery,India,43.2,Valid,16,Tier 3,Not Provided,2014
+VND00013,Vendor_0013,Textiles,India,88.3,Valid,10,Tier 1,contact12@vendor12.com,2020
+VND00837,Vendor_0837,Logistics,India,94.0,Valid,15,Tier 1,contact836@vendor836.com,2013
+VND00443,Vendor_0443,IT Services,Germany,56.2,Valid,20,Tier 3,contact442@vendor442.com,2013
+VND00323,Vendor_0323,Textiles,Vietnam,76.2,Valid,27,Tier 2,contact322@vendor322.com,2019
+VND00806,Vendor_0806,Textiles,India,81.6,Valid,35,Tier 1,contact805@vendor805.com,2012
+VND00575,Vendor_0575,IT Services,Bangladesh,90.4,Valid,18,Tier 1,contact574@vendor574.com,2016
+VND00949,Vendor_0949,Logistics,Japan,91.2,Valid,14,Tier 1,contact948@vendor948.com,2019
+VND00912,Vendor_0912,IT Services,Malaysia,48.8,Valid,16,Tier 3,Not Provided,2013
+VND00737,Vendor_0737,Packaging,Malaysia,57.5,Valid,11,Tier 3,contact736@vendor736.com,2017
+VND00881,Vendor_0881,Machinery,South Korea,46.2,Valid,4,Tier 3,contact880@vendor880.com,2014
+VND00337,Vendor_0337,Electronics,South Korea,89.9,Valid,32,Tier 1,contact336@vendor336.com,2015
+VND00849,Vendor_0849,Electronics,Vietnam,65.2,Valid,22,Tier 2,contact848@vendor848.com,2014
+VND00116,Vendor_0116,Raw Material,Bangladesh,91.0,Valid,19,Tier 1,contact115@vendor115.com,2016
+VND00840,Vendor_0840,Logistics,Malaysia,74.3,Valid,18,Tier 2,contact839@vendor839.com,2019
+VND00329,Vendor_0329,Unknown,Japan,59.4,Valid,9,Tier 3,contact328@vendor328.com,2020
+VND00511,Vendor_0511,Raw Material,USA,72.9,Valid,4,Tier 2,contact510@vendor510.com,2010
+VND00048,Vendor_0048,Machinery,Vietnam,66.4,Valid,16,Tier 2,contact47@vendor47.com,2015
+VND00163,Vendor_0163,Raw Material,India,74.3,Valid,7,Tier 2,contact162@vendor162.com,2020
+VND00365,Vendor_0365,Chemicals,Thailand,95.9,Valid,10,Tier 1,Not Provided,2022
+VND00903,Vendor_0903,Packaging,South Korea,42.7,Valid,32,Tier 3,contact902@vendor902.com,2013
+VND00772,Vendor_0772,Chemicals,USA,89.3,Valid,34,Tier 1,contact771@vendor771.com,2012
+VND00751,Vendor_0751,IT Services,China,38.2,Valid,38,Tier 3,Not Provided,2018
+VND00687,Vendor_0687,Logistics,Vietnam,70.0,Valid,38,Tier 2,contact686@vendor686.com,2019
+VND00082,Vendor_0082,Chemicals,Vietnam,73.6,Valid,31,Tier 2,contact81@vendor81.com,2017
+VND00731,Vendor_0731,Machinery,Malaysia,41.5,Valid,24,Tier 3,contact730@vendor730.com,2016
+VND00691,Vendor_0691,Packaging,Japan,52.7,Valid,23,Tier 3,contact690@vendor690.com,2012
+VND00465,Vendor_0465,Textiles,South Korea,97.4,Valid,30,Tier 1,contact464@vendor464.com,2022
+VND00754,Vendor_0754,IT Services,Malaysia,53.4,Valid,27,Tier 3,contact753@vendor753.com,2014
+VND00987,Vendor_0987,Chemicals,Germany,78.2,Valid,6,Tier 2,contact986@vendor986.com,2007
+VND00704,Vendor_0704,Electronics,Thailand,39.4,Valid,44,Tier 3,contact703@vendor703.com,2012
+VND00715,Vendor_0715,Machinery,India,54.4,Valid,9,Tier 3,contact714@vendor714.com,2009
+VND00923,Vendor_0923,Electronics,South Korea,92.6,Valid,22,Tier 1,contact922@vendor922.com,2018
+VND00399,Vendor_0399,Textiles,South Korea,82.6,Valid,36,Tier 1,contact398@vendor398.com,2019
+VND00407,Vendor_0407,IT Services,Malaysia,57.2,Valid,11,Tier 3,contact406@vendor406.com,2010
+VND00216,Vendor_0216,Chemicals,Japan,46.6,Valid,4,Tier 3,contact215@vendor215.com,2006
+VND00417,Vendor_0417,Electronics,India,50.5,Valid,9,Tier 3,contact416@vendor416.com,2013
+VND00587,Vendor_0587,IT Services,Vietnam,35.3,Valid,3,Tier 3,contact586@vendor586.com,2010
+VND00102,Vendor_0102,Machinery,South Korea,74.5,Valid,17,Tier 2,contact101@vendor101.com,2008
+VND00228,Vendor_0228,Chemicals,Vietnam,57.5,Valid,42,Tier 3,contact227@vendor227.com,2022
+VND00985,Vendor_0985,Packaging,China,81.0,Valid,18,Tier 1,contact984@vendor984.com,2007
+VND00695,Vendor_0695,Packaging,South Korea,38.0,Valid,36,Tier 3,contact694@vendor694.com,2007
+VND00952,Vendor_0952,Logistics,Germany,76.6,Valid,30,Tier 2,contact951@vendor951.com,2014
+VND00864,Vendor_0864,Machinery,Vietnam,60.9,Valid,24,Tier 2,contact863@vendor863.com,2009
+VND00820,Vendor_0820,Machinery,Thailand,53.5,Valid,5,Tier 3,contact819@vendor819.com,2019
+VND00748,Vendor_0748,Machinery,Vietnam,68.0,Valid,6,Tier 2,contact747@vendor747.com,2015
+VND00620,Vendor_0620,Electronics,Japan,82.4,Valid,33,Tier 1,contact619@vendor619.com,2017
+VND00304,Vendor_0304,Logistics,Bangladesh,74.6,Valid,39,Tier 2,contact303@vendor303.com,2020
+VND00666,Vendor_0666,Packaging,USA,40.7,Valid,10,Tier 3,contact665@vendor665.com,2005
+VND00147,Vendor_0147,Textiles,Japan,72.7,Valid,36,Tier 2,contact146@vendor146.com,2009
+VND00883,Vendor_0883,Raw Material,Unknown,31.4,Valid,11,Tier 3,contact882@vendor882.com,2005
+VND00529,Vendor_0529,IT Services,Japan,33.9,Valid,14,Tier 3,contact528@vendor528.com,2015
+VND00582,Vendor_0582,Chemicals,Malaysia,98.6,Valid,34,Tier 1,contact581@vendor581.com,2010
+VND00524,Vendor_0524,Packaging,South Korea,88.9,Valid,16,Tier 1,contact523@vendor523.com,2015
+VND00558,Vendor_0558,Logistics,Vietnam,32.0,Valid,39,Tier 3,contact557@vendor557.com,2006
+VND00937,Vendor_0937,Textiles,Thailand,31.3,Valid,43,Tier 3,contact936@vendor936.com,2019
+VND00020,Vendor_0020,Logistics,China,50.4,Valid,43,Tier 3,contact19@vendor19.com,2016
+VND00184,Vendor_0184,Logistics,China,91.4,Valid,42,Tier 1,contact183@vendor183.com,2008
+VND00979,Vendor_0979,Packaging,Malaysia,64.7,Valid,22,Tier 2,contact978@vendor978.com,2021
+VND00476,Vendor_0476,IT Services,Bangladesh,99.5,Valid,38,Tier 1,contact475@vendor475.com,2018
+VND00487,Vendor_0487,Packaging,India,33.2,Valid,37,Tier 3,Not Provided,2017
+VND00395,Vendor_0395,Packaging,Japan,53.9,Valid,40,Tier 3,contact394@vendor394.com,2015
+VND00758,Vendor_0758,Packaging,Germany,67.3,Valid,12,Tier 2,contact757@vendor757.com,2019
+VND00661,Vendor_0661,Textiles,South Korea,54.9,Valid,4,Tier 3,contact660@vendor660.com,2021
+VND00246,Vendor_0246,Machinery,Thailand,95.0,Valid,24,Tier 1,contact245@vendor245.com,2010
+VND00140,Vendor_0140,Chemicals,Japan,98.0,Valid,40,Tier 1,contact139@vendor139.com,2007
+VND00559,Vendor_0559,IT Services,Japan,,Out of Range (0-100),7,Unclassified,contact558@vendor558.com,2020
+VND00685,Vendor_0685,Raw Material,USA,95.1,Valid,17,Tier 1,contact684@vendor684.com,2017
+VND00822,Vendor_0822,Raw Material,USA,30.3,Valid,24,Tier 3,contact821@vendor821.com,2020
+VND00267,Vendor_0267,Packaging,Japan,78.8,Valid,14,Tier 2,Not Provided,2014
+VND00997,Vendor_0997,Electronics,Japan,94.2,Valid,41,Tier 1,contact996@vendor996.com,2007
+VND00117,Vendor_0117,Logistics,China,86.3,Valid,10,Tier 1,contact116@vendor116.com,2006
+VND00091,Vendor_0091,Logistics,Vietnam,38.4,Valid,32,Tier 3,contact90@vendor90.com,2022
+VND00064,Vendor_0064,IT Services,Bangladesh,55.0,Valid,15,Tier 3,contact63@vendor63.com,2005
+VND00659,Vendor_0659,Machinery,Bangladesh,75.2,Valid,16,Tier 2,contact658@vendor658.com,2019
+VND00886,Vendor_0886,Unknown,India,42.5,Valid,5,Tier 3,contact885@vendor885.com,2016
+VND00164,Vendor_0164,Raw Material,India,67.5,Valid,13,Tier 2,contact163@vendor163.com,2008
+VND00613,Vendor_0613,Raw Material,South Korea,74.0,Valid,11,Tier 2,contact612@vendor612.com,2008
+VND00657,Vendor_0657,Electronics,China,49.9,Valid,37,Tier 3,contact656@vendor656.com,2006
+VND00517,Vendor_0517,Raw Material,India,56.4,Valid,14,Tier 3,contact516@vendor516.com,2007
+VND00284,Vendor_0284,Textiles,South Korea,36.6,Valid,15,Tier 3,Not Provided,2017
+VND00520,Vendor_0520,Electronics,Vietnam,40.5,Valid,33,Tier 3,contact519@vendor519.com,2016
+VND00853,Vendor_0853,Textiles,Japan,44.7,Valid,25,Tier 3,contact852@vendor852.com,2015
+VND00165,Vendor_0165,Electronics,Germany,36.3,Valid,36,Tier 3,contact164@vendor164.com,2012
+VND00787,Vendor_0787,IT Services,Vietnam,70.8,Valid,24,Tier 2,contact786@vendor786.com,2015
+VND00762,Vendor_0762,Chemicals,Japan,51.8,Valid,36,Tier 3,contact761@vendor761.com,2007
+VND00664,Vendor_0664,Packaging,Thailand,46.6,Valid,23,Tier 3,contact663@vendor663.com,2012
+VND00214,Vendor_0214,Machinery,China,45.7,Valid,20,Tier 3,Not Provided,2014
+VND00104,Vendor_0104,Logistics,Thailand,65.6,Valid,6,Tier 2,contact103@vendor103.com,2009
+VND00850,Vendor_0850,IT Services,USA,71.7,Valid,5,Tier 2,contact849@vendor849.com,2006
+VND00764,Vendor_0764,Raw Material,Thailand,82.1,Valid,23,Tier 1,contact763@vendor763.com,2015
+VND00099,Vendor_0099,Unknown,South Korea,31.8,Valid,3,Tier 3,contact98@vendor98.com,2022
+VND00273,Vendor_0273,Raw Material,Bangladesh,90.7,Valid,17,Tier 1,contact272@vendor272.com,2017
+VND00509,Vendor_0509,Machinery,Malaysia,96.5,Valid,27,Tier 1,contact508@vendor508.com,2016
+VND00435,Vendor_0435,Textiles,USA,35.9,Valid,27,Tier 3,contact434@vendor434.com,2011
+VND00866,Vendor_0866,Raw Material,China,69.2,Valid,10,Tier 2,contact865@vendor865.com,2012
+VND00111,Vendor_0111,Electronics,Vietnam,50.3,Valid,13,Tier 3,contact110@vendor110.com,2014
+VND00909,Vendor_0909,Raw Material,Bangladesh,48.2,Valid,5,Tier 3,contact908@vendor908.com,2006
+VND00483,Vendor_0483,Raw Material,South Korea,61.8,Valid,42,Tier 2,contact482@vendor482.com,2006
+VND00637,Vendor_0637,Electronics,USA,67.3,Valid,3,Tier 2,contact636@vendor636.com,2018
+VND00280,Vendor_0280,Packaging,Germany,85.7,Valid,31,Tier 1,contact279@vendor279.com,2006
+VND00959,Vendor_0959,Machinery,Thailand,41.6,Valid,8,Tier 3,contact958@vendor958.com,
+VND00604,Vendor_0604,IT Services,Vietnam,36.2,Valid,33,Tier 3,contact603@vendor603.com,2015
+VND00385,Vendor_0385,Raw Material,Malaysia,81.5,Valid,35,Tier 1,Not Provided,2008
+VND00499,Vendor_0499,Machinery,China,98.2,Valid,40,Tier 1,contact498@vendor498.com,2017
+VND00836,Vendor_0836,Textiles,India,59.3,Valid,7,Tier 3,contact835@vendor835.com,2020
+VND00359,Vendor_0359,IT Services,USA,95.8,Valid,24,Tier 1,contact358@vendor358.com,2008
+VND00139,Vendor_0139,Textiles,China,55.5,Valid,37,Tier 3,contact138@vendor138.com,2013
+VND00300,Vendor_0300,Machinery,USA,36.0,Valid,30,Tier 3,contact299@vendor299.com,2020
+VND00533,Vendor_0533,Logistics,Japan,99.8,Valid,7,Tier 1,contact532@vendor532.com,2015
+VND00383,Vendor_0383,Logistics,Thailand,74.0,Valid,4,Tier 2,contact382@vendor382.com,2008
+VND00942,Vendor_0942,Textiles,USA,68.8,Valid,10,Tier 2,contact941@vendor941.com,2014
+VND00341,Vendor_0341,Chemicals,Japan,64.4,Valid,22,Tier 2,contact340@vendor340.com,2015

@@ -1,0 +1,172 @@
+{
+  "q1_ontime_rate_pct": 44.29,
+  "q1_delivered_orders": 46848,
+  "q1_benchmark": 85,
+  "q2_worst_vendor": {
+    "Vendor_ID": "VND00936",
+    "Vendor_Name": "Vendor_0936",
+    "Late_Rate_Pct": 80.43,
+    "Orders": 47
+  },
+  "q3_tier": {
+    "Tier 1": {
+      "Late_Rate_Pct": 56.13,
+      "Avg_Delay_Days": 6.56
+    },
+    "Tier 2": {
+      "Late_Rate_Pct": 55.69,
+      "Avg_Delay_Days": 6.63
+    },
+    "Tier 3": {
+      "Late_Rate_Pct": 55.38,
+      "Avg_Delay_Days": 6.56
+    },
+    "Unclassified": {
+      "Late_Rate_Pct": 57.22,
+      "Avg_Delay_Days": 6.89
+    }
+  },
+  "total_procurement_spend": 315672885370.0,
+  "q4_top10_share_pct": 1.52,
+  "q5_top_category": {
+    "Product_Category": "Chemicals",
+    "Procurement_Spend": 41166699071.15,
+    "Spend_Share_Pct": 13.04
+  },
+  "q6_stockout_lines_latest": 498,
+  "q6_latest_snapshot": "2024-11-01",
+  "stockout_rate_latest_pct": 9.96,
+  "q7_slow_categories": [],
+  "avg_turnover_all": 16.56,
+  "total_freight": 2491729482.98,
+  "avg_freight": 124898.72,
+  "q8_costliest_mode": {
+    "Shipment_Mode": "Road",
+    "Avg_Freight": 126536.81,
+    "Total_Freight": 633190202.35
+  },
+  "q9_first_last": {
+    "first": "2021-01-01",
+    "last": "2024-12-01",
+    "first_ship": 431,
+    "last_ship": 453
+  },
+  "overall_damage_rate_pct": 17.69,
+  "q10_worst_carrier": {
+    "Carrier_Name": "DTDC",
+    "Damage_Rate_Pct": 18.71
+  },
+  "total_return_value": 3152388974.01,
+  "total_return_lines": 4970,
+  "q11_top_return_vendor": {
+    "Vendor_ID": "VND00640",
+    "Vendor_Name": "Vendor_0640",
+    "Return_Value": 10136388.35,
+    "Return_Lines": 10
+  },
+  "q12_top_reason": {
+    "Return_Reason": "Damaged Packaging",
+    "Return_Lines": 704,
+    "Line_Share_Pct": 14.16
+  },
+  "q13_last_q": {
+    "Order_Quarter": "2024Q4",
+    "Procurement_Spend": 19797151098.5,
+    "Orders": 3123,
+    "QoQ_Growth_Pct": -0.75
+  },
+  "q13_first_q": {
+    "Order_Quarter": "2021Q1",
+    "Procurement_Spend": 19550467428.16,
+    "Orders": 3150,
+    "QoQ_Growth_Pct": NaN
+  },
+  "q14_worst_wh": {
+    "Warehouse_ID": "WH06",
+    "Warehouse_Location": "Kolkata",
+    "Stockout_Rate_Pct": 11.87
+  },
+  "q15_high_risk_count": 319,
+  "q15_top5": [
+    {
+      "Vendor_ID": "VND00936",
+      "Vendor_Name": "Vendor_0936",
+      "Reliability_Score": 49.1,
+      "Late_Rate_Pct": 80.43,
+      "Return_Rate_Pct": 10.64,
+      "Risk_Band": "High Risk"
+    },
+    {
+      "Vendor_ID": "VND00623",
+      "Vendor_Name": "Vendor_0623",
+      "Reliability_Score": 55.9,
+      "Late_Rate_Pct": 73.91,
+      "Return_Rate_Pct": 12.77,
+      "Risk_Band": "High Risk"
+    },
+    {
+      "Vendor_ID": "VND00146",
+      "Vendor_Name": "Vendor_0146",
+      "Reliability_Score": 32.6,
+      "Late_Rate_Pct": 71.11,
+      "Return_Rate_Pct": 17.02,
+      "Risk_Band": "High Risk"
+    },
+    {
+      "Vendor_ID": "VND00946",
+      "Vendor_Name": "Vendor_0946",
+      "Reliability_Score": 30.8,
+      "Late_Rate_Pct": 70.73,
+      "Return_Rate_Pct": 13.64,
+      "Risk_Band": "High Risk"
+    },
+    {
+      "Vendor_ID": "VND00905",
+      "Vendor_Name": "Vendor_0905",
+      "Reliability_Score": 59.5,
+      "Late_Rate_Pct": 70.27,
+      "Return_Rate_Pct": 12.82,
+      "Risk_Band": "High Risk"
+    }
+  ],
+  "ontime_rate_pct": 44.29,
+  "late_rate_pct": 55.71,
+  "stockout_count_all_snapshots": 3110,
+  "overstock_count_all_snapshots": 7134,
+  "vendor_count": 1000,
+  "po_count": 49914,
+  "return_rate_vs_po_pct": 9.96,
+  "corr_reliability_delay_vendor": 0.004,
+  "corr_reliability_delay_order": 0.0005,
+  "corr_freight_transit": 0.0001,
+  "corr_freight_weight": -0.0039,
+  "overstock_rate_latest_pct": 24.74,
+  "tier_pct": {
+    "Tier 3": 43.9,
+    "Tier 2": 27.2,
+    "Tier 1": 26.9,
+    "Unclassified": 2.0
+  },
+  "q7_min_category_turnover": {
+    "Product_Category": "Electronics",
+    "Avg_Turnover": 16.09
+  },
+  "mode_freight_spread_pct": 6.42,
+  "carrier_damage_spread_pts": 1.93,
+  "avg_delivery_delay_days": 6.59,
+  "high_value_return_lines": 497,
+  "high_value_return_value": 894970591.77,
+  "tier_counts": {
+    "Tier 3": 439,
+    "Tier 2": 272,
+    "Tier 1": 269,
+    "Unclassified": 20
+  },
+  "clean_rows": {
+    "vendor_master": 1000,
+    "purchase_orders": 49914,
+    "inventory": 30000,
+    "shipments": 19950,
+    "returns": 4970
+  }
+}

@@ -1,0 +1,28 @@
+Table,Issue,Cleaning_Action,Rows_Affected
+vendor_master,Duplicate Vendor_IDs (primary key),"Removed exact duplicate rows, kept first occurrence",15
+vendor_master,Inconsistent Vendor_Category labels (44 variants),Standardized to 8 canonical categories via mapping table (e.g. 'raw mat'->'Raw Material'),965
+vendor_master,Null Vendor_Category,Filled with 'Unknown' (no reliable basis to impute category),35
+vendor_master,"Country typos / case issues (30 variants: 'IND','Chian','U.S.A'...)",Standardized to 10 canonical country names,972
+vendor_master,Null Country,Filled with 'Unknown',28
+vendor_master,"Reliability_Score outside 0-100 (11 negative, 9 >100 incl. 999)",Flagged in Reliability_Score_Flag; out-of-range values set NULL for tiering,20
+vendor_master,Lead_Time_Days: 7 negative + 29 null,"Negatives set NULL, then all nulls filled with Vendor_Category MEDIAN (fallback = overall median)",43
+vendor_master,Active_Since_Year null (38),Left NULL (not used in KPIs; no basis to impute a founding year),36
+vendor_master,Contact_Email blank (45),Filled with 'Not Provided',45
+purchase_orders,100 duplicate PO_IDs,"Removed exact duplicate rows, kept first",100
+purchase_orders,"Dirty Order_Status labels (27 variants) + 1,503 blank",Standardized to 5 canonical statuses; blanks -> 'Unknown',48500
+purchase_orders,Negative Ordered_Quantity (46) / negative Unit_Price_INR (40),Deleted rows with any negative quantity or price,86
+purchase_orders,Actual_Delivery_Date precedes Order_Date (80),Set the invalid Actual_Delivery_Date to NULL (kept the order row),80
+purchase_orders,Order_Date null (51),Left NULL (cannot be reconstructed); excluded from date-based trend queries,50
+inventory,Negative Stock_On_Hand (60),Set negatives to NULL then imputed with Product_Category MEDIAN,60
+inventory,"Null Stock_On_Hand (80), Units_Sold_Last_Month (200), Supplier_Lead_Time_Days (150)",Filled with Product_Category MEDIAN,430
+inventory,Product_SKU consistency vs purchase_orders,Validated: 500/500 stocked SKUs found in Purchase Orders (0 orphans). Flag col SKU_In_Purchase_Orders added,0
+shipments,"Dirty Shipment_Mode (27 variants: 'AIRFRIEGHT','ocean','By Road'...) + 637 blank",Standardized to 4 canonical modes (Road/Rail/Air/Sea); blanks -> 'Unknown',19363
+shipments,Negative Freight_Cost_INR (50),Deleted rows with negative freight cost,50
+shipments,Delivered_Date precedes Dispatch_Date (59),Set invalid Delivered_Date to NULL,58
+shipments,Delivered_Date missing (~400 in-transit + nulled),Left NULL; excluded from Transit_Days / on-time calcs,456
+shipments,"Damage_Flag mixed ('Yes','Y','yes','NO','N') + 401 blank",Standardized to Yes/No; blanks -> 'No' (no damage report on file = not damaged),19550
+returns,80 duplicate Return_IDs / full-row duplicates,Removed exact duplicates then any remaining duplicate Return_ID,80
+returns,"Dirty Return_Reason (38 variants: 'defect','Dmg Packaging','WRONG QTY'...) + 206 blank",Standardized to 7 canonical reasons; blanks -> 'Unknown',4796
+returns,"Refund_Status mixed ('pend','PROCESSED','reject') + 107 blank",Standardized to Processed/Pending/Rejected; blanks -> 'Unknown',4897
+returns,Zero / negative Return_Qty (~30),Deleted rows with Return_Qty <= 0,30
+returns,"Approved_By blank (1,222)",Filled with 'Unassigned',1193

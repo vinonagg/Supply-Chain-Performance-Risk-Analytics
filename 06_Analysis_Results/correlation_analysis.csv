@@ -1,0 +1,6 @@
+Pair,Pearson_r,Interpretation
+Vendor Reliability_Score  vs  Avg Delivery_Delay_Days (vendor-level),0.004,positive / negligible
+Vendor Reliability_Score  vs  Late_Delivery Rate (vendor-level),0.0357,positive / negligible
+Reliability_Score  vs  Delivery_Delay_Days (order-level),0.0005,positive / negligible
+Freight_Cost_INR  vs  Transit_Days (shipment-level),0.0001,positive / negligible
+Freight_Cost_INR  vs  Shipment_Weight_KG (shipment-level),-0.0039,negative / negligible

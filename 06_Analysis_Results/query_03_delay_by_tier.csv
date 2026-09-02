@@ -1,0 +1,5 @@
+Vendor_Tier,Orders,Late_Orders,Late_Rate_Pct,Avg_Delay_Days,Std_Delay,Median_Delay
+Tier 1,13487,7108.0,56.13,6.56,9.84,2.0
+Tier 2,13544,7088.0,55.69,6.63,9.95,2.0
+Tier 3,21848,11346.0,55.38,6.56,9.87,2.0
+Unclassified,1035,555.0,57.22,6.89,10.14,2.0

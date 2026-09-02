@@ -1,0 +1,26 @@
+{
+  "rowcounts": {
+    "vendor_master": [
+      1015,
+      1000
+    ],
+    "purchase_orders": [
+      50100,
+      49914
+    ],
+    "inventory": [
+      30000,
+      30000
+    ],
+    "shipments": [
+      20000,
+      19950
+    ],
+    "returns": [
+      5080,
+      4970
+    ]
+  },
+  "hv_threshold": 1472213.06,
+  "asof": "2024-12-31"
+}

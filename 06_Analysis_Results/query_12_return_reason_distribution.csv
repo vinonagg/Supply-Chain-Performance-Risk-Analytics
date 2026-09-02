@@ -1,0 +1,9 @@
+Return_Reason,Return_Lines,Return_Qty,Return_Value,Line_Share_Pct
+Damaged Packaging,704,170477,449270122.2,14.16
+Defective Item,704,179479,455669120.4,14.16
+Quality Failure,699,178182,459064895.36,14.06
+Expired Product,688,175483,441213068.65,13.84
+Overshipment,680,171781,425498702.15,13.68
+Wrong Item Delivered,661,161847,393569270.5,13.3
+Wrong Quantity,631,156290,395940104.89,12.7
+Unknown,203,53607,132163689.86,4.08

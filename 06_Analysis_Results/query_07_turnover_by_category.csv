@@ -1,0 +1,9 @@
+Product_Category,Avg_Turnover,Avg_Months_Supply,SKU_Lines,Slow_Moving_Flag
+Electronics,16.09,3.36,3820,OK
+Textiles,16.32,3.2,3835,OK
+Chemicals,16.34,3.16,3791,OK
+IT Equipment,16.58,3.1,3708,OK
+Machinery,16.66,3.2,3682,OK
+Packaging,16.73,2.94,3688,OK
+Raw Material,16.75,3.15,3752,OK
+Spare Parts,17.0,3.08,3724,OK

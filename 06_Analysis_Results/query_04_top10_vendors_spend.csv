@@ -1,0 +1,11 @@
+Vendor_ID,Total_Spend,Orders,Vendor_Name,Vendor_Category,Country,Vendor_Tier,Spend_Share_Pct
+VND00187,498548300.41,55,Vendor_0187,Raw Material,Bangladesh,Tier 1,0.16
+VND00354,497285341.07,66,Vendor_0354,Logistics,South Korea,Tier 3,0.16
+VND00990,495073897.98,66,Vendor_0990,Raw Material,USA,Tier 1,0.16
+VND00062,485129180.78,57,Vendor_0062,Textiles,China,Tier 3,0.15
+VND00297,483567378.34,72,Vendor_0297,Logistics,South Korea,Tier 1,0.15
+VND00967,480756595.92,75,Vendor_0967,Unknown,India,Tier 1,0.15
+VND00854,476814606.33,67,Vendor_0854,Machinery,Thailand,Tier 1,0.15
+VND00540,467093347.33,55,Vendor_0540,Chemicals,Vietnam,Tier 3,0.15
+VND00384,461667199.26,62,Vendor_0384,Packaging,Malaysia,Tier 1,0.15
+VND00635,456248859.95,60,Vendor_0635,Machinery,Japan,Tier 3,0.14

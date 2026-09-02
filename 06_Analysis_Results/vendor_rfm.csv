@@ -1,0 +1,1001 @@
+Vendor_ID,Vendor_Name,Vendor_Category,Country,Vendor_Tier,Reliability_Score,Recency_Months,Frequency,Monetary,R,F,M,RFM_Score,RFM_Segment
+VND00119,Vendor_0119,Raw Material,India,Tier 1,92.5,0.1,63,389727051.32,5,5,5,15,Strategic Partner
+VND00500,Vendor_0500,Electronics,Thailand,Tier 1,99.0,0.1,62,443087103.38,5,5,5,15,Strategic Partner
+VND00243,Vendor_0243,Logistics,Thailand,Tier 1,94.0,0.2,57,435653587.42,5,5,5,15,Strategic Partner
+VND00633,Vendor_0633,Machinery,South Korea,Tier 2,65.8,0.0,62,396161742.45,5,5,5,15,Strategic Partner
+VND00835,Vendor_0835,Electronics,India,Tier 2,64.9,0.1,58,431882819.47,5,5,5,15,Strategic Partner
+VND00363,Vendor_0363,Unknown,USA,Tier 2,62.1,0.2,65,416312507.45,5,5,5,15,Strategic Partner
+VND00448,Vendor_0448,Raw Material,Bangladesh,Tier 1,82.7,0.2,67,422165457.47,5,5,5,15,Strategic Partner
+VND00384,Vendor_0384,Packaging,Malaysia,Tier 1,91.4,0.1,62,461667199.26,5,5,5,15,Strategic Partner
+VND00772,Vendor_0772,Chemicals,USA,Tier 1,89.3,0.1,56,426922598.76,5,5,5,15,Strategic Partner
+VND00956,Vendor_0956,Chemicals,Japan,Tier 3,56.8,0.1,64,373751708.45,5,5,5,15,Strategic Partner
+VND00381,Vendor_0381,IT Services,Germany,Tier 3,38.3,0.2,61,393558058.85,5,5,5,15,Strategic Partner
+VND00485,Vendor_0485,Logistics,South Korea,Tier 2,70.9,0.1,65,371987859.92,5,5,5,15,Strategic Partner
+VND00224,Vendor_0224,Packaging,Unknown,Tier 3,55.7,0.0,57,416767793.97,5,5,5,15,Strategic Partner
+VND00909,Vendor_0909,Raw Material,Bangladesh,Tier 3,48.2,0.1,63,367387302.51,5,5,5,15,Strategic Partner
+VND00572,Vendor_0572,Textiles,Japan,Tier 1,84.9,0.2,57,400239846.57,5,5,5,15,Strategic Partner
+VND00372,Vendor_0372,Raw Material,Unknown,Tier 3,31.3,0.2,59,364111143.21,5,5,5,15,Strategic Partner
+VND00554,Vendor_0554,Electronics,Japan,Tier 2,69.3,0.1,62,437851104.66,5,5,5,15,Strategic Partner
+VND00798,Vendor_0798,Packaging,Bangladesh,Tier 2,69.6,0.1,63,435861385.99,5,5,5,15,Strategic Partner
+VND00354,Vendor_0354,Logistics,South Korea,Tier 3,41.4,0.0,66,497285341.07,5,5,5,15,Strategic Partner
+VND00196,Vendor_0196,Packaging,Bangladesh,Tier 3,54.4,0.0,62,368362695.88,5,5,5,15,Strategic Partner
+VND00061,Vendor_0061,Electronics,China,Tier 3,57.2,0.1,58,368645062.46,5,5,5,15,Strategic Partner
+VND00851,Vendor_0851,Chemicals,Bangladesh,Tier 3,34.7,0.0,61,447694907.54,5,5,5,15,Strategic Partner
+VND00386,Vendor_0386,Electronics,Japan,Tier 1,86.2,0.0,56,373735563.18,5,5,5,15,Strategic Partner
+VND00190,Vendor_0190,Raw Material,China,Tier 3,46.9,0.1,61,394030965.88,5,5,5,15,Strategic Partner
+VND00249,Vendor_0249,Raw Material,USA,Tier 1,97.5,0.1,62,367323687.88,5,5,5,15,Strategic Partner
+VND00505,Vendor_0505,Logistics,South Korea,Tier 2,77.9,0.0,57,428728069.27,5,5,5,15,Strategic Partner
+VND00868,Vendor_0868,Machinery,Thailand,Tier 3,42.7,0.0,64,409156310.93,5,5,5,15,Strategic Partner
+VND00297,Vendor_0297,Logistics,South Korea,Tier 1,83.9,0.2,72,483567378.34,5,5,5,15,Strategic Partner
+VND00144,Vendor_0144,Raw Material,Thailand,Tier 3,51.1,0.2,60,370920207.34,5,5,5,15,Strategic Partner
+VND00303,Vendor_0303,Raw Material,Japan,Tier 2,67.8,0.1,60,387304893.98,5,5,5,15,Strategic Partner
+VND00005,Vendor_0005,Logistics,South Korea,Tier 3,40.9,0.1,61,374425191.36,5,5,5,15,Strategic Partner
+VND00502,Vendor_0502,Machinery,USA,Tier 2,67.5,0.1,58,396044372.21,5,5,5,15,Strategic Partner
+VND00625,Vendor_0625,Electronics,China,Tier 2,73.3,0.0,61,393201223.36,5,5,5,15,Strategic Partner
+VND00127,Vendor_0127,Logistics,USA,Tier 1,87.3,0.2,62,449922523.72,5,5,5,15,Strategic Partner
+VND00123,Vendor_0123,Electronics,Bangladesh,Tier 3,52.3,0.0,60,448783507.07,5,5,5,15,Strategic Partner
+VND00470,Vendor_0470,Chemicals,Bangladesh,Tier 1,97.4,0.3,56,379622805.01,4,5,5,14,Strategic Partner
+VND00863,Vendor_0863,Chemicals,India,Tier 2,66.7,0.0,62,363546245.89,5,5,4,14,Strategic Partner
+VND00186,Vendor_0186,Logistics,India,Tier 2,76.2,0.5,58,375017337.55,4,5,5,14,Strategic Partner
+VND00187,Vendor_0187,Raw Material,Bangladesh,Tier 1,87.2,0.1,55,498548300.41,5,4,5,14,Strategic Partner
+VND00879,Vendor_0879,Electronics,Malaysia,Tier 3,31.9,0.0,57,346840800.91,5,5,4,14,Strategic Partner
+VND00068,Vendor_0068,Machinery,South Korea,Tier 1,86.2,0.4,61,393044607.06,4,5,5,14,Strategic Partner
+VND00555,Vendor_0555,Logistics,Vietnam,Tier 1,91.4,0.1,60,357137624.69,5,5,4,14,Strategic Partner
+VND00181,Vendor_0181,Textiles,South Korea,Tier 3,53.9,0.0,55,391680770.46,5,4,5,14,Strategic Partner
+VND00464,Vendor_0464,Machinery,India,Tier 2,70.8,0.0,65,338800917.33,5,5,4,14,Strategic Partner
+VND00094,Vendor_0094,Electronics,China,Tier 2,69.3,0.4,60,395425230.2,4,5,5,14,Strategic Partner
+VND00817,Vendor_0817,Electronics,South Korea,Tier 2,71.4,0.1,57,339465537.58,5,5,4,14,Strategic Partner
+VND00176,Vendor_0176,Raw Material,Unknown,Tier 3,42.2,0.2,54,371426145.53,5,4,5,14,Strategic Partner
+VND00626,Vendor_0626,Logistics,Malaysia,Tier 3,55.8,0.3,66,437441885.42,4,5,5,14,Strategic Partner
+VND00855,Vendor_0855,IT Services,Unknown,Tier 3,44.4,0.3,57,390960678.95,4,5,5,14,Strategic Partner
+VND00171,Vendor_0171,Logistics,Vietnam,Tier 2,77.4,0.4,56,374417805.73,4,5,5,14,Strategic Partner
+VND00854,Vendor_0854,Machinery,Thailand,Tier 1,92.9,0.4,67,476814606.33,4,5,5,14,Strategic Partner
+VND00573,Vendor_0573,Chemicals,India,Tier 3,57.8,0.4,57,436656818.91,4,5,5,14,Strategic Partner
+VND00624,Vendor_0624,Machinery,USA,Tier 2,63.9,0.1,55,379453420.36,5,4,5,14,Strategic Partner
+VND00635,Vendor_0635,Machinery,Japan,Tier 3,37.5,0.2,60,456248859.95,4,5,5,14,Strategic Partner
+VND00587,Vendor_0587,IT Services,Vietnam,Tier 3,35.3,0.3,61,412047956.11,4,5,5,14,Strategic Partner
+VND00442,Vendor_0442,Logistics,Japan,Tier 1,99.1,0.4,58,390126967.7,4,5,5,14,Strategic Partner
+VND00848,Vendor_0848,Packaging,Thailand,Tier 1,99.8,0.4,64,390719567.03,4,5,5,14,Strategic Partner
+VND00409,Vendor_0409,Machinery,USA,Tier 1,93.4,0.2,60,332047979.66,5,5,4,14,Strategic Partner
+VND00282,Vendor_0282,Packaging,Thailand,Unclassified,,0.5,57,401571405.71,4,5,5,14,Strategic Partner
+VND00540,Vendor_0540,Chemicals,Vietnam,Tier 3,39.0,0.1,55,467093347.33,5,4,5,14,Strategic Partner
+VND00341,Vendor_0341,Chemicals,Japan,Tier 2,64.4,0.5,60,425280114.92,4,5,5,14,Strategic Partner
+VND00309,Vendor_0309,Machinery,Vietnam,Tier 1,85.7,0.4,57,383668764.99,4,5,5,14,Strategic Partner
+VND00928,Vendor_0928,Packaging,Germany,Tier 2,67.9,0.3,60,376794349.43,4,5,5,14,Strategic Partner
+VND00494,Vendor_0494,Machinery,India,Tier 3,43.2,0.1,54,400432297.26,5,4,5,14,Strategic Partner
+VND00299,Vendor_0299,Chemicals,Thailand,Tier 2,73.6,0.1,54,399192754.15,5,4,5,14,Strategic Partner
+VND00677,Vendor_0677,Machinery,USA,Tier 3,37.8,0.5,56,379932784.2,4,5,5,14,Strategic Partner
+VND00775,Vendor_0775,Chemicals,Malaysia,Tier 1,85.8,0.4,59,397680972.42,4,5,5,14,Strategic Partner
+VND00339,Vendor_0339,Machinery,India,Tier 2,63.2,0.5,57,401633583.31,4,5,5,14,Strategic Partner
+VND00719,Vendor_0719,Raw Material,Thailand,Tier 3,38.7,0.1,54,370992362.18,5,4,5,14,Strategic Partner
+VND00048,Vendor_0048,Machinery,Vietnam,Tier 2,66.4,0.4,60,407909987.55,4,5,5,14,Strategic Partner
+VND00348,Vendor_0348,Packaging,USA,Tier 3,33.2,0.5,57,398177795.23,4,5,5,14,Strategic Partner
+VND00193,Vendor_0193,Unknown,Bangladesh,Tier 1,93.0,0.5,58,382239536.31,4,5,5,14,Strategic Partner
+VND00199,Vendor_0199,Logistics,Bangladesh,Tier 1,92.1,0.1,59,361365628.91,5,5,4,14,Strategic Partner
+VND00975,Vendor_0975,Chemicals,South Korea,Tier 3,32.2,0.1,52,384939870.92,5,4,5,14,Strategic Partner
+VND00723,Vendor_0723,Logistics,Malaysia,Tier 3,34.7,0.2,61,438617704.96,4,5,5,14,Strategic Partner
+VND00720,Vendor_0720,IT Services,Bangladesh,Tier 1,81.2,0.2,54,388928961.97,4,4,5,13,Strategic Partner
+VND00756,Vendor_0756,Textiles,Japan,Tier 1,85.6,0.2,52,380795795.02,4,4,5,13,Strategic Partner
+VND00694,Vendor_0694,Machinery,Germany,Tier 3,47.0,0.7,59,391600077.39,3,5,5,13,Strategic Partner
+VND00248,Vendor_0248,Machinery,Vietnam,Tier 1,97.7,0.7,59,391900432.27,3,5,5,13,Strategic Partner
+VND00150,Vendor_0150,Logistics,China,Tier 3,49.5,0.4,54,379364170.62,4,4,5,13,Strategic Partner
+VND00742,Vendor_0742,Logistics,USA,Tier 3,51.1,0.6,67,377581394.39,3,5,5,13,Strategic Partner
+VND00853,Vendor_0853,Textiles,Japan,Tier 3,44.7,0.5,59,410061219.82,3,5,5,13,Strategic Partner
+VND00130,Vendor_0130,Logistics,Vietnam,Tier 2,65.8,0.7,57,402286897.67,3,5,5,13,Strategic Partner
+VND00872,Vendor_0872,Machinery,Malaysia,Tier 3,49.0,0.5,60,396149890.52,3,5,5,13,Strategic Partner
+VND00862,Vendor_0862,Textiles,Malaysia,Tier 2,61.7,0.2,53,386916131.09,4,4,5,13,Strategic Partner
+VND00609,Vendor_0609,IT Services,USA,Tier 2,65.2,0.9,61,368783917.25,3,5,5,13,Strategic Partner
+VND00735,Vendor_0735,Raw Material,Malaysia,Tier 3,55.1,0.2,57,348740872.67,4,5,4,13,Strategic Partner
+VND00274,Vendor_0274,Chemicals,Malaysia,Tier 1,93.9,0.7,62,432720212.85,3,5,5,13,Strategic Partner
+VND00712,Vendor_0712,IT Services,India,Tier 2,71.7,0.6,62,369116024.06,3,5,5,13,Strategic Partner
+VND00292,Vendor_0292,Electronics,USA,Tier 3,32.6,0.1,63,327166198.94,5,5,3,13,Strategic Partner
+VND00137,Vendor_0137,Electronics,Thailand,Tier 2,66.3,0.7,57,432118832.3,3,5,5,13,Strategic Partner
+VND00244,Vendor_0244,Chemicals,Malaysia,Tier 3,55.9,0.6,58,409328834.17,3,5,5,13,Strategic Partner
+VND00142,Vendor_0142,Textiles,Bangladesh,Tier 3,47.6,0.3,52,380408222.28,4,4,5,13,Strategic Partner
+VND00117,Vendor_0117,Logistics,China,Tier 1,86.3,0.3,56,351733302.32,4,5,4,13,Strategic Partner
+VND00242,Vendor_0242,Machinery,Thailand,Tier 1,96.8,0.4,56,331514048.46,4,5,4,13,Strategic Partner
+VND00632,Vendor_0632,IT Services,China,Tier 1,92.7,0.1,57,308160998.47,5,5,3,13,Strategic Partner
+VND00364,Vendor_0364,Machinery,USA,Tier 2,68.2,0.0,53,360599418.19,5,4,4,13,Strategic Partner
+VND00342,Vendor_0342,Textiles,USA,Tier 2,63.1,0.6,58,440080225.76,3,5,5,13,Strategic Partner
+VND00370,Vendor_0370,Logistics,Vietnam,Tier 3,34.9,0.0,52,333956393.81,5,4,4,13,Strategic Partner
+VND00796,Vendor_0796,Packaging,India,Tier 1,91.0,0.3,62,344242725.7,4,5,4,13,Strategic Partner
+VND00794,Vendor_0794,IT Services,Japan,Tier 2,72.8,0.2,58,335166838.79,4,5,4,13,Strategic Partner
+VND00791,Vendor_0791,Unknown,Malaysia,Tier 3,40.7,0.1,54,361919698.41,5,4,4,13,Strategic Partner
+VND00671,Vendor_0671,Machinery,South Korea,Tier 3,42.1,0.2,53,370723681.88,4,4,5,13,Strategic Partner
+VND00175,Vendor_0175,Textiles,Bangladesh,Tier 2,75.2,0.1,55,347733901.0,5,4,4,13,Strategic Partner
+VND00374,Vendor_0374,Logistics,Unknown,Tier 2,77.8,0.6,63,402466597.17,3,5,5,13,Strategic Partner
+VND00783,Vendor_0783,IT Services,Malaysia,Tier 3,47.6,0.0,52,342384742.83,5,4,4,13,Strategic Partner
+VND00329,Vendor_0329,Unknown,Japan,Tier 3,59.4,0.2,55,330584020.95,5,4,4,13,Strategic Partner
+VND00225,Vendor_0225,Chemicals,South Korea,Tier 3,48.6,0.2,59,300180133.32,5,5,3,13,Strategic Partner
+VND00326,Vendor_0326,Logistics,USA,Tier 1,81.7,0.3,54,373674457.15,4,4,5,13,Strategic Partner
+VND00636,Vendor_0636,Raw Material,Japan,Tier 2,61.3,0.0,52,356635177.01,5,4,4,13,Strategic Partner
+VND00769,Vendor_0769,IT Services,Thailand,Tier 3,53.9,0.3,59,352412934.77,4,5,4,13,Strategic Partner
+VND00233,Vendor_0233,Raw Material,Japan,Tier 2,70.4,0.2,54,344931682.14,5,4,4,13,Strategic Partner
+VND00239,Vendor_0239,Electronics,USA,Tier 2,75.2,0.1,55,340052516.25,5,4,4,13,Strategic Partner
+VND00157,Vendor_0157,Machinery,South Korea,Tier 2,77.0,0.1,53,363685669.18,5,4,4,13,Strategic Partner
+VND00692,Vendor_0692,IT Services,China,Tier 3,59.8,0.2,53,386100427.93,4,4,5,13,Strategic Partner
+VND00314,Vendor_0314,Electronics,Bangladesh,Tier 1,97.4,0.1,60,310515096.35,5,5,3,13,Strategic Partner
+VND00618,Vendor_0618,Textiles,Germany,Tier 3,49.4,0.3,55,400675706.17,4,4,5,13,Strategic Partner
+VND00931,Vendor_0931,Machinery,Malaysia,Tier 3,39.8,0.6,56,375355195.35,3,5,5,13,Strategic Partner
+VND00007,Vendor_0007,Raw Material,Thailand,Tier 3,34.1,0.2,53,357885564.64,5,4,4,13,Strategic Partner
+VND00939,Vendor_0939,Chemicals,Bangladesh,Tier 3,38.2,0.8,61,395432319.26,3,5,5,13,Strategic Partner
+VND00480,Vendor_0480,Logistics,Vietnam,Tier 2,66.6,0.1,56,329180180.58,5,5,3,13,Strategic Partner
+VND00008,Vendor_0008,Logistics,India,Tier 1,90.6,0.4,55,378363779.48,4,4,5,13,Strategic Partner
+VND00432,Vendor_0432,Textiles,India,Tier 1,83.3,0.5,54,380320996.86,4,4,5,13,Strategic Partner
+VND00067,Vendor_0067,Electronics,USA,Tier 3,39.9,0.3,56,339894137.1,4,5,4,13,Strategic Partner
+VND00435,Vendor_0435,Textiles,USA,Tier 3,35.9,0.9,60,404283358.11,3,5,5,13,Strategic Partner
+VND00585,Vendor_0585,Logistics,China,Tier 2,74.3,0.2,62,326202339.56,5,5,3,13,Strategic Partner
+VND00933,Vendor_0933,Electronics,South Korea,Tier 1,98.9,0.1,55,347888653.77,5,4,4,13,Strategic Partner
+VND00443,Vendor_0443,IT Services,Germany,Tier 3,56.2,0.5,57,337516565.31,4,5,4,13,Strategic Partner
+VND00474,Vendor_0474,Machinery,Germany,Tier 1,92.4,0.6,57,378765203.11,3,5,5,13,Strategic Partner
+VND00929,Vendor_0929,Raw Material,Malaysia,Tier 2,74.3,0.4,68,353613015.41,4,5,4,13,Strategic Partner
+VND00056,Vendor_0056,Unknown,Japan,Tier 1,94.5,0.7,58,432430561.09,3,5,5,13,Strategic Partner
+VND00986,Vendor_0986,Raw Material,Thailand,Tier 2,64.7,0.2,52,393605456.63,4,4,5,13,Strategic Partner
+VND00058,Vendor_0058,Packaging,USA,Tier 3,43.7,0.0,63,308753598.39,5,5,3,13,Strategic Partner
+VND00060,Vendor_0060,Textiles,Unknown,Tier 3,52.8,0.4,59,348745286.77,4,5,4,13,Strategic Partner
+VND00542,Vendor_0542,IT Services,Malaysia,Tier 2,72.4,0.1,55,350406084.27,5,4,4,13,Strategic Partner
+VND00014,Vendor_0014,Machinery,Malaysia,Tier 3,44.9,0.2,58,316280369.19,5,5,3,13,Strategic Partner
+VND00458,Vendor_0458,Electronics,Malaysia,Tier 2,62.8,0.3,55,416071622.32,4,4,5,13,Strategic Partner
+VND00553,Vendor_0553,Logistics,South Korea,Tier 2,68.6,0.6,59,434566138.39,3,5,5,13,Strategic Partner
+VND00102,Vendor_0102,Machinery,South Korea,Tier 2,74.5,0.9,59,447350693.88,3,5,5,13,Strategic Partner
+VND00991,Vendor_0991,Packaging,Bangladesh,Tier 1,86.0,0.5,66,447988760.13,3,5,5,13,Strategic Partner
+VND00982,Vendor_0982,Packaging,Vietnam,Tier 1,84.0,0.4,61,331169518.37,4,5,4,13,Strategic Partner
+VND00596,Vendor_0596,Machinery,Vietnam,Tier 2,63.2,0.7,58,415580060.02,3,5,5,13,Strategic Partner
+VND00103,Vendor_0103,Textiles,India,Tier 3,52.0,0.7,57,398412042.41,3,5,5,13,Strategic Partner
+VND00950,Vendor_0950,IT Services,Malaysia,Tier 2,71.8,0.0,54,336099543.5,5,4,4,13,Strategic Partner
+VND00508,Vendor_0508,Electronics,Malaysia,Tier 1,87.6,0.8,56,434069985.65,3,5,5,13,Strategic Partner
+VND00108,Vendor_0108,Chemicals,Japan,Tier 1,82.9,0.7,56,409806607.82,3,5,5,13,Strategic Partner
+VND00944,Vendor_0944,IT Services,India,Tier 1,88.1,0.5,65,378998000.07,3,5,5,13,Strategic Partner
+VND00490,Vendor_0490,IT Services,India,Tier 1,92.3,0.6,71,398663973.86,3,5,5,13,Strategic Partner
+VND00526,Vendor_0526,Packaging,Japan,Tier 2,62.8,0.3,55,383240195.34,4,4,5,13,Strategic Partner
+VND00534,Vendor_0534,Electronics,China,Tier 2,68.9,0.0,55,354280857.89,5,4,4,13,Strategic Partner
+VND00967,Vendor_0967,Unknown,India,Tier 1,80.3,0.7,75,480756595.92,3,5,5,13,Strategic Partner
+VND00945,Vendor_0945,Textiles,Japan,Tier 3,44.4,0.5,57,373739066.48,3,5,5,13,Strategic Partner
+VND00958,Vendor_0958,Textiles,China,Tier 3,33.3,0.3,58,313670511.87,4,5,3,12,Key Vendor
+VND00805,Vendor_0805,Chemicals,Bangladesh,Tier 3,59.7,0.1,52,315550267.68,5,4,3,12,Key Vendor
+VND00191,Vendor_0191,Raw Material,Vietnam,Tier 3,36.5,1.5,65,392031885.36,2,5,5,12,Key Vendor
+VND00319,Vendor_0319,Electronics,Vietnam,Tier 3,41.0,0.6,58,362984046.1,3,5,4,12,Key Vendor
+VND00653,Vendor_0653,Logistics,South Korea,Tier 2,71.1,1.4,67,403330211.75,2,5,5,12,Key Vendor
+VND00016,Vendor_0016,Chemicals,Bangladesh,Tier 3,42.8,0.1,50,350464395.56,5,3,4,12,Key Vendor
+VND00522,Vendor_0522,Chemicals,South Korea,Tier 3,56.7,1.4,62,392916420.36,2,5,5,12,Key Vendor
+VND00530,Vendor_0530,Textiles,Vietnam,Tier 1,90.5,0.3,55,346825712.58,4,4,4,12,Key Vendor
+VND00655,Vendor_0655,Machinery,Thailand,Unclassified,,0.6,64,331053019.58,3,5,4,12,Key Vendor
+VND00253,Vendor_0253,Raw Material,Malaysia,Tier 1,89.6,0.7,52,411441344.58,3,4,5,12,Key Vendor
+VND00806,Vendor_0806,Textiles,India,Tier 1,81.6,0.0,50,347153111.41,5,3,4,12,Key Vendor
+VND00044,Vendor_0044,Packaging,Bangladesh,Tier 1,93.7,0.1,50,341639440.72,5,3,4,12,Key Vendor
+VND00804,Vendor_0804,Electronics,India,Tier 2,72.5,0.3,50,424015893.32,4,3,5,12,Key Vendor
+VND00699,Vendor_0699,IT Services,Thailand,Tier 3,40.8,0.4,60,328067625.77,4,5,3,12,Key Vendor
+VND00201,Vendor_0201,Electronics,Vietnam,Tier 2,74.9,1.0,61,407925861.38,2,5,5,12,Key Vendor
+VND00352,Vendor_0352,Unknown,China,Tier 1,90.0,0.1,52,326446371.84,5,4,3,12,Key Vendor
+VND00800,Vendor_0800,IT Services,Japan,Tier 1,94.6,0.2,54,346287979.9,4,4,4,12,Key Vendor
+VND00346,Vendor_0346,Textiles,Germany,Tier 2,73.1,1.5,61,410611491.06,2,5,5,12,Key Vendor
+VND00344,Vendor_0344,Packaging,Vietnam,Tier 2,60.4,0.0,48,363369788.38,5,3,4,12,Key Vendor
+VND00050,Vendor_0050,Textiles,Bangladesh,Tier 3,42.9,0.8,57,337760752.23,3,5,4,12,Key Vendor
+VND00531,Vendor_0531,Machinery,India,Tier 1,86.9,0.8,59,351044508.6,3,5,4,12,Key Vendor
+VND00049,Vendor_0049,Textiles,Malaysia,Tier 2,68.3,0.6,56,358740839.26,3,5,4,12,Key Vendor
+VND00210,Vendor_0210,Logistics,Bangladesh,Tier 3,41.3,0.2,52,313568609.85,5,4,3,12,Key Vendor
+VND00019,Vendor_0019,Chemicals,Malaysia,Tier 2,60.2,1.1,65,448967866.56,2,5,5,12,Key Vendor
+VND00021,Vendor_0021,Machinery,China,Tier 2,72.8,0.7,53,370256236.35,3,4,5,12,Key Vendor
+VND00020,Vendor_0020,Logistics,China,Tier 3,50.4,0.3,53,361325775.81,4,4,4,12,Key Vendor
+VND00789,Vendor_0789,Packaging,India,Tier 2,62.3,1.0,61,423967143.51,2,5,5,12,Key Vendor
+VND00674,Vendor_0674,IT Services,South Korea,Tier 2,66.7,0.3,55,342914417.57,4,4,4,12,Key Vendor
+VND00915,Vendor_0915,Textiles,South Korea,Tier 2,68.6,0.0,49,348232155.85,5,3,4,12,Key Vendor
+VND00921,Vendor_0921,Chemicals,Germany,Tier 1,90.8,0.9,56,424536378.2,2,5,5,12,Key Vendor
+VND00270,Vendor_0270,Raw Material,Thailand,Tier 3,50.6,1.1,56,389090205.07,2,5,5,12,Key Vendor
+VND00439,Vendor_0439,Machinery,India,Tier 2,79.4,0.3,55,331172843.39,4,4,4,12,Key Vendor
+VND00892,Vendor_0892,Packaging,Vietnam,Tier 1,89.9,1.0,58,368211280.83,2,5,5,12,Key Vendor
+VND00504,Vendor_0504,Textiles,Vietnam,Tier 1,87.0,0.3,52,345597453.27,4,4,4,12,Key Vendor
+VND00743,Vendor_0743,Electronics,Vietnam,Tier 1,82.3,1.2,62,417901489.39,2,5,5,12,Key Vendor
+VND00143,Vendor_0143,IT Services,Malaysia,Unclassified,,0.0,54,322662878.65,5,4,3,12,Key Vendor
+VND00739,Vendor_0739,Raw Material,Germany,Tier 2,60.7,0.4,51,382871722.44,4,3,5,12,Key Vendor
+VND00593,Vendor_0593,Logistics,USA,Tier 3,42.7,0.3,48,383916711.81,4,3,5,12,Key Vendor
+VND00136,Vendor_0136,Logistics,USA,Tier 3,52.6,0.0,53,311771362.48,5,4,3,12,Key Vendor
+VND00410,Vendor_0410,IT Services,Bangladesh,Tier 3,36.4,1.1,58,413148245.33,2,5,5,12,Key Vendor
+VND00709,Vendor_0709,Machinery,Thailand,Tier 3,47.8,1.4,65,387548378.1,2,5,5,12,Key Vendor
+VND00725,Vendor_0725,IT Services,Japan,Tier 2,70.2,0.3,56,321797177.64,4,5,3,12,Key Vendor
+VND00112,Vendor_0112,Logistics,India,Tier 3,41.3,1.5,66,390424266.69,2,5,5,12,Key Vendor
+VND00275,Vendor_0275,Logistics,Thailand,Tier 2,65.8,0.2,55,327908068.64,5,4,3,12,Key Vendor
+VND00125,Vendor_0125,Chemicals,Malaysia,Tier 3,46.0,0.9,60,345273715.79,3,5,4,12,Key Vendor
+VND00870,Vendor_0870,Raw Material,India,Tier 1,96.2,0.0,50,359959397.15,5,3,4,12,Key Vendor
+VND00878,Vendor_0878,Packaging,Thailand,Tier 2,76.1,0.2,55,357864223.93,4,4,4,12,Key Vendor
+VND00731,Vendor_0731,Machinery,Malaysia,Tier 3,41.5,0.9,53,366304128.28,3,4,5,12,Key Vendor
+VND00728,Vendor_0728,Logistics,Germany,Tier 1,85.7,0.6,52,406385263.47,3,4,5,12,Key Vendor
+VND00990,Vendor_0990,Raw Material,USA,Tier 1,87.3,1.3,66,495073897.98,2,5,5,12,Key Vendor
+VND00588,Vendor_0588,Machinery,Vietnam,Tier 3,39.0,1.1,63,369482169.62,2,5,5,12,Key Vendor
+VND00389,Vendor_0389,Packaging,South Korea,Tier 1,82.5,1.2,58,431390029.4,2,5,5,12,Key Vendor
+VND00083,Vendor_0083,Packaging,China,Tier 3,53.2,1.2,56,378043817.82,2,5,5,12,Key Vendor
+VND00178,Vendor_0178,Machinery,Bangladesh,Tier 3,57.1,0.9,52,392610730.95,3,4,5,12,Key Vendor
+VND00818,Vendor_0818,IT Services,Japan,Tier 3,57.9,0.1,55,323196301.75,5,4,3,12,Key Vendor
+VND00819,Vendor_0819,Packaging,Thailand,Tier 3,33.8,0.7,58,361455383.83,3,5,4,12,Key Vendor
+VND00571,Vendor_0571,Chemicals,Bangladesh,Tier 2,66.0,1.1,65,378647335.5,2,5,5,12,Key Vendor
+VND00079,Vendor_0079,Machinery,Japan,Tier 3,55.1,0.5,52,356691688.79,4,4,4,12,Key Vendor
+VND00170,Vendor_0170,IT Services,Japan,Tier 2,71.4,0.0,52,325756166.46,5,4,3,12,Key Vendor
+VND00638,Vendor_0638,Logistics,USA,Tier 3,47.0,0.0,51,343739987.28,5,3,4,12,Key Vendor
+VND00578,Vendor_0578,Machinery,USA,Tier 1,94.9,1.4,63,396331569.95,2,5,5,12,Key Vendor
+VND00450,Vendor_0450,Chemicals,Japan,Tier 3,35.8,1.4,63,442983777.94,2,5,5,12,Key Vendor
+VND00238,Vendor_0238,Electronics,China,Tier 3,31.7,0.8,56,361963543.13,3,5,4,12,Key Vendor
+VND00446,Vendor_0446,Textiles,Thailand,Tier 1,96.3,0.3,53,339511976.1,4,4,4,12,Key Vendor
+VND00445,Vendor_0445,Machinery,South Korea,Tier 1,86.9,1.2,60,397491349.27,2,5,5,12,Key Vendor
+VND00087,Vendor_0087,Raw Material,USA,Tier 1,81.1,1.3,71,432854375.3,2,5,5,12,Key Vendor
+VND00444,Vendor_0444,Logistics,USA,Tier 3,55.9,0.2,49,343695089.58,5,3,4,12,Key Vendor
+VND00836,Vendor_0836,Textiles,India,Tier 3,59.3,0.9,65,453850040.96,2,5,5,12,Key Vendor
+VND00287,Vendor_0287,Chemicals,Malaysia,Tier 2,62.6,0.4,50,335539408.87,4,3,4,11,Key Vendor
+VND00315,Vendor_0315,Machinery,Japan,Tier 1,88.5,0.8,53,351897524.5,3,4,4,11,Key Vendor
+VND00495,Vendor_0495,Chemicals,Vietnam,Tier 2,62.5,0.5,49,346180654.0,4,3,4,11,Key Vendor
+VND00523,Vendor_0523,IT Services,Bangladesh,Tier 1,97.9,0.7,56,328724027.32,3,5,3,11,Key Vendor
+VND00704,Vendor_0704,Electronics,Thailand,Tier 3,39.4,0.7,55,347839250.43,3,4,4,11,Key Vendor
+VND00283,Vendor_0283,Packaging,Malaysia,Tier 3,56.3,2.2,61,388797941.46,1,5,5,11,Key Vendor
+VND00519,Vendor_0519,IT Services,India,Tier 1,99.1,0.8,53,347069247.63,3,4,4,11,Key Vendor
+VND00304,Vendor_0304,Logistics,Bangladesh,Tier 2,74.6,1.4,55,422115537.49,2,4,5,11,Key Vendor
+VND00714,Vendor_0714,Chemicals,China,Tier 3,58.8,0.4,52,311420640.9,4,4,3,11,Key Vendor
+VND00698,Vendor_0698,Electronics,Japan,Tier 2,70.7,0.0,48,319910724.16,5,3,3,11,Key Vendor
+VND00702,Vendor_0702,Chemicals,South Korea,Tier 3,33.6,0.0,52,291904470.71,5,4,2,11,Key Vendor
+VND00512,Vendor_0512,Chemicals,China,Tier 3,59.3,1.1,57,361045410.07,2,5,4,11,Key Vendor
+VND00290,Vendor_0290,Machinery,China,Tier 2,71.4,1.1,57,338959146.52,2,5,4,11,Key Vendor
+VND00514,Vendor_0514,Chemicals,India,Tier 1,90.6,1.4,53,396607868.38,2,4,5,11,Key Vendor
+VND00515,Vendor_0515,Electronics,Japan,Tier 3,33.2,0.1,51,317115521.73,5,3,3,11,Key Vendor
+VND00002,Vendor_0002,Electronics,Thailand,Tier 1,96.6,0.6,53,353010678.76,3,4,4,11,Key Vendor
+VND00420,Vendor_0420,Logistics,Vietnam,Tier 1,82.7,0.0,45,341275196.17,5,2,4,11,Key Vendor
+VND00689,Vendor_0689,Machinery,Vietnam,Tier 1,83.9,0.9,52,350477860.75,3,4,4,11,Key Vendor
+VND00592,Vendor_0592,Machinery,Thailand,Tier 2,74.9,0.3,53,311789882.83,4,4,3,11,Key Vendor
+VND00628,Vendor_0628,Textiles,Malaysia,Tier 1,82.3,2.4,61,366691132.95,1,5,5,11,Key Vendor
+VND00589,Vendor_0589,Machinery,Bangladesh,Tier 3,39.0,1.0,60,361206363.82,2,5,4,11,Key Vendor
+VND00400,Vendor_0400,IT Services,China,Tier 1,82.8,0.0,46,348229427.09,5,2,4,11,Key Vendor
+VND00622,Vendor_0622,Unknown,Germany,Tier 3,44.7,0.2,50,338736335.98,4,3,4,11,Key Vendor
+VND00619,Vendor_0619,IT Services,Thailand,Tier 1,86.4,1.1,53,394293054.18,2,4,5,11,Key Vendor
+VND00591,Vendor_0591,Logistics,India,Tier 3,39.7,0.1,53,288706826.22,5,4,2,11,Key Vendor
+VND00405,Vendor_0405,Logistics,USA,Tier 3,52.4,0.9,54,357414032.94,3,4,4,11,Key Vendor
+VND00280,Vendor_0280,Packaging,Germany,Tier 1,85.7,0.0,51,301843210.97,5,3,3,11,Key Vendor
+VND00614,Vendor_0614,Machinery,China,Tier 3,35.7,0.0,51,310166015.97,5,3,3,11,Key Vendor
+VND00688,Vendor_0688,Raw Material,Germany,Tier 3,49.6,1.3,55,375694317.36,2,4,5,11,Key Vendor
+VND00597,Vendor_0597,Raw Material,Malaysia,Tier 2,76.7,0.1,50,327120194.38,5,3,3,11,Key Vendor
+VND00600,Vendor_0600,Raw Material,USA,Tier 3,32.9,0.5,54,314772815.69,4,4,3,11,Key Vendor
+VND00425,Vendor_0425,Textiles,Germany,Tier 3,34.0,0.0,50,325934868.8,5,3,3,11,Key Vendor
+VND00411,Vendor_0411,Electronics,China,Tier 3,52.4,0.4,51,333279122.13,4,3,4,11,Key Vendor
+VND00611,Vendor_0611,Chemicals,South Korea,Tier 3,32.8,1.7,59,384489752.22,1,5,5,11,Key Vendor
+VND00416,Vendor_0416,Chemicals,Bangladesh,Tier 2,61.4,0.8,52,337093321.55,3,4,4,11,Key Vendor
+VND00602,Vendor_0602,Machinery,Vietnam,Tier 3,49.5,0.3,52,320325718.2,4,4,3,11,Key Vendor
+VND00603,Vendor_0603,Packaging,Bangladesh,Tier 3,42.4,1.2,54,371769232.32,2,4,5,11,Key Vendor
+VND00440,Vendor_0440,Textiles,China,Tier 3,35.7,2.4,65,370400803.5,1,5,5,11,Key Vendor
+VND00390,Vendor_0390,IT Services,Bangladesh,Tier 1,86.5,0.7,51,376565313.41,3,3,5,11,Key Vendor
+VND00639,Vendor_0639,Logistics,Vietnam,Tier 3,48.8,0.3,64,290785901.61,4,5,2,11,Key Vendor
+VND00457,Vendor_0457,Raw Material,Thailand,Tier 3,30.8,0.5,50,363442851.54,4,3,4,11,Key Vendor
+VND00318,Vendor_0318,Raw Material,USA,Tier 3,42.1,0.1,51,330063993.04,5,3,3,11,Key Vendor
+VND00524,Vendor_0524,Packaging,South Korea,Tier 1,88.9,2.3,58,390194651.46,1,5,5,11,Key Vendor
+VND00492,Vendor_0492,Logistics,Vietnam,Tier 2,73.4,0.5,51,350761802.97,4,3,4,11,Key Vendor
+VND00685,Vendor_0685,Raw Material,USA,Tier 1,95.1,0.3,49,333556938.37,4,3,4,11,Key Vendor
+VND00330,Vendor_0330,Raw Material,South Korea,Tier 3,47.3,0.1,51,325830132.51,5,3,3,11,Key Vendor
+VND00334,Vendor_0334,Electronics,South Korea,Tier 3,38.1,0.1,50,323579322.46,5,3,3,11,Key Vendor
+VND00335,Vendor_0335,Chemicals,China,Tier 3,33.2,0.2,55,269008103.69,5,4,2,11,Key Vendor
+VND00337,Vendor_0337,Electronics,South Korea,Tier 1,89.9,0.8,53,331316354.39,3,4,4,11,Key Vendor
+VND00537,Vendor_0537,Logistics,Bangladesh,Tier 1,89.5,0.3,48,332260230.74,4,3,4,11,Key Vendor
+VND00476,Vendor_0476,IT Services,Bangladesh,Tier 1,99.5,0.2,49,305758052.3,5,3,3,11,Key Vendor
+VND00605,Vendor_0605,Electronics,Japan,Unclassified,,0.3,54,326513701.44,4,4,3,11,Key Vendor
+VND00651,Vendor_0651,Machinery,Vietnam,Tier 3,36.1,1.0,57,357754973.26,2,5,4,11,Key Vendor
+VND00551,Vendor_0551,Machinery,Thailand,Tier 2,66.4,0.9,64,304603891.52,3,5,3,11,Key Vendor
+VND00647,Vendor_0647,Raw Material,India,Tier 2,71.6,0.3,51,337065887.38,4,3,4,11,Key Vendor
+VND00646,Vendor_0646,Packaging,Malaysia,Tier 1,92.3,0.8,51,368780585.16,3,3,5,11,Key Vendor
+VND00559,Vendor_0559,IT Services,Japan,Unclassified,,1.2,57,355003759.64,2,5,4,11,Key Vendor
+VND00643,Vendor_0643,Logistics,Germany,Tier 3,44.8,2.7,62,422535683.19,1,5,5,11,Key Vendor
+VND00755,Vendor_0755,Packaging,China,Unclassified,,0.9,52,370784115.5,2,4,5,11,Key Vendor
+VND00510,Vendor_0510,Electronics,USA,Tier 1,80.8,0.0,51,300786694.16,5,3,3,11,Key Vendor
+VND00152,Vendor_0152,Logistics,Bangladesh,Tier 3,46.8,0.4,52,314140102.13,4,4,3,11,Key Vendor
+VND00208,Vendor_0208,Logistics,China,Tier 2,76.4,0.7,53,334132039.48,3,4,4,11,Key Vendor
+VND00098,Vendor_0098,Packaging,Bangladesh,Tier 3,59.9,1.4,53,373724722.74,2,4,5,11,Key Vendor
+VND00097,Vendor_0097,Electronics,Germany,Tier 2,66.6,1.3,59,361418287.84,2,5,4,11,Key Vendor
+VND00891,Vendor_0891,Unknown,Malaysia,Tier 1,80.6,0.7,55,347382701.46,3,4,4,11,Key Vendor
+VND00204,Vendor_0204,Electronics,Malaysia,Tier 1,92.9,0.4,51,353859606.78,4,3,4,11,Key Vendor
+VND00899,Vendor_0899,Chemicals,Thailand,Tier 3,30.9,0.0,50,303904402.42,5,3,3,11,Key Vendor
+VND00207,Vendor_0207,Machinery,Bangladesh,Tier 3,37.1,0.1,47,343328195.65,5,2,4,11,Key Vendor
+VND00089,Vendor_0089,Chemicals,Germany,Tier 1,92.1,1.1,60,355826981.78,2,5,4,11,Key Vendor
+VND00795,Vendor_0795,Raw Material,South Korea,Tier 3,31.3,0.3,55,321171368.29,4,4,3,11,Key Vendor
+VND00101,Vendor_0101,Packaging,Thailand,Tier 3,32.2,0.1,50,314929035.77,5,3,3,11,Key Vendor
+VND00902,Vendor_0902,Electronics,USA,Tier 3,31.9,2.2,56,391258305.88,1,5,5,11,Key Vendor
+VND00912,Vendor_0912,IT Services,Malaysia,Tier 3,48.8,1.4,52,376476722.09,2,4,5,11,Key Vendor
+VND00788,Vendor_0788,Raw Material,India,Tier 3,58.1,1.0,52,365278616.04,2,4,5,11,Key Vendor
+VND00074,Vendor_0074,IT Services,China,Tier 1,87.1,0.2,55,284198576.13,5,4,2,11,Key Vendor
+VND00223,Vendor_0223,Machinery,China,Tier 3,36.6,2.3,63,392878605.75,1,5,5,11,Key Vendor
+VND00066,Vendor_0066,Raw Material,Vietnam,Tier 2,68.0,0.3,55,304993321.03,4,4,3,11,Key Vendor
+VND00924,Vendor_0924,IT Services,Japan,Tier 1,86.0,0.0,46,338430840.98,5,2,4,11,Key Vendor
+VND00889,Vendor_0889,Textiles,Germany,Tier 3,37.0,1.4,52,373160983.63,2,4,5,11,Key Vendor
+VND00189,Vendor_0189,Chemicals,Malaysia,Tier 2,67.1,0.5,51,342521057.78,4,3,4,11,Key Vendor
+VND00063,Vendor_0063,Textiles,China,Tier 1,88.0,1.1,54,410697481.04,2,4,5,11,Key Vendor
+VND00821,Vendor_0821,Raw Material,China,Tier 1,86.2,0.8,55,341238365.75,3,4,4,11,Key Vendor
+VND00146,Vendor_0146,Raw Material,Bangladesh,Tier 3,32.6,0.2,47,340804512.35,5,2,4,11,Key Vendor
+VND00156,Vendor_0156,Packaging,Malaysia,Tier 3,46.9,0.8,55,342677950.04,3,4,4,11,Key Vendor
+VND00834,Vendor_0834,Packaging,South Korea,Tier 3,42.3,0.8,48,374332791.92,3,3,5,11,Key Vendor
+VND00856,Vendor_0856,Machinery,South Korea,Tier 3,43.3,0.0,52,291038529.88,5,4,2,11,Key Vendor
+VND00858,Vendor_0858,Textiles,South Korea,Tier 2,63.0,0.5,56,311027504.24,3,5,3,11,Key Vendor
+VND00827,Vendor_0827,Chemicals,South Korea,Tier 3,54.2,0.4,47,379479919.6,4,2,5,11,Key Vendor
+VND00869,Vendor_0869,Raw Material,Japan,Tier 1,90.3,0.4,50,356043848.79,4,3,4,11,Key Vendor
+VND00126,Vendor_0126,Electronics,Unknown,Tier 3,59.9,1.3,59,337115493.02,2,5,4,11,Key Vendor
+VND00883,Vendor_0883,Raw Material,Unknown,Tier 3,31.4,0.3,54,321484854.81,4,4,3,11,Key Vendor
+VND00172,Vendor_0172,Textiles,China,Tier 3,31.2,0.3,49,338953274.55,4,3,4,11,Key Vendor
+VND00813,Vendor_0813,Logistics,China,Tier 3,38.7,1.1,55,406482755.15,2,4,5,11,Key Vendor
+VND00180,Vendor_0180,Machinery,Germany,Tier 3,39.6,1.2,53,377687644.25,2,4,5,11,Key Vendor
+VND00121,Vendor_0121,Raw Material,South Korea,Tier 1,86.5,0.6,54,351443859.26,3,4,4,11,Key Vendor
+VND00810,Vendor_0810,Electronics,Vietnam,Tier 3,37.9,0.3,55,315583864.72,4,4,3,11,Key Vendor
+VND00185,Vendor_0185,Machinery,Unknown,Tier 3,48.1,1.4,55,407558961.85,2,4,5,11,Key Vendor
+VND00111,Vendor_0111,Electronics,Vietnam,Tier 3,50.3,0.1,49,300534788.31,5,3,3,11,Key Vendor
+VND00230,Vendor_0230,Packaging,Germany,Tier 2,74.2,1.9,59,400140747.05,1,5,5,11,Key Vendor
+VND00082,Vendor_0082,Chemicals,Vietnam,Tier 2,73.6,2.8,62,417398768.8,1,5,5,11,Key Vendor
+VND00062,Vendor_0062,Textiles,China,Tier 3,49.0,1.7,57,485129180.78,1,5,5,11,Key Vendor
+VND00272,Vendor_0272,Chemicals,South Korea,Tier 1,86.7,1.8,56,412185615.15,1,5,5,11,Key Vendor
+VND00511,Vendor_0511,Raw Material,USA,Tier 2,72.9,0.7,53,351250853.45,3,4,4,11,Key Vendor
+VND00029,Vendor_0029,Logistics,Thailand,Tier 2,71.5,0.7,52,339052921.0,3,4,4,11,Key Vendor
+VND00952,Vendor_0952,Logistics,Germany,Tier 2,76.6,1.6,57,377961621.71,1,5,5,11,Key Vendor
+VND00747,Vendor_0747,IT Services,USA,Tier 3,56.9,2.0,58,370481501.39,1,5,5,11,Key Vendor
+VND00023,Vendor_0023,Packaging,Thailand,Tier 3,50.5,0.1,50,317326149.14,5,3,3,11,Key Vendor
+VND00250,Vendor_0250,Electronics,Malaysia,Tier 1,89.7,0.2,55,277102361.95,5,4,2,11,Key Vendor
+VND00039,Vendor_0039,Chemicals,Bangladesh,Tier 2,77.9,1.8,58,369921683.27,1,5,5,11,Key Vendor
+VND00245,Vendor_0245,Logistics,Thailand,Tier 3,31.1,1.0,60,334020401.01,2,5,4,11,Key Vendor
+VND00978,Vendor_0978,Machinery,Malaysia,Tier 3,33.6,0.0,49,307022761.9,5,3,3,11,Key Vendor
+VND00937,Vendor_0937,Textiles,Thailand,Tier 3,31.3,1.5,59,417360794.44,1,5,5,11,Key Vendor
+VND00264,Vendor_0264,Packaging,India,Tier 2,66.3,1.1,53,385389920.09,2,4,5,11,Key Vendor
+VND00006,Vendor_0006,Electronics,Germany,Tier 3,40.9,0.6,53,342909070.48,3,4,4,11,Key Vendor
+VND00235,Vendor_0235,Electronics,USA,Tier 3,43.7,0.0,51,301486453.05,5,3,3,11,Key Vendor
+VND00932,Vendor_0932,IT Services,Vietnam,Tier 1,88.4,0.4,57,282709080.15,4,5,2,11,Key Vendor
+VND00520,Vendor_0520,Electronics,Vietnam,Tier 3,40.5,0.8,49,347206687.18,3,3,4,10,Key Vendor
+VND00961,Vendor_0961,Electronics,Germany,Tier 3,35.8,1.1,52,354069786.81,2,4,4,10,Key Vendor
+VND00147,Vendor_0147,Textiles,Japan,Tier 2,72.7,2.4,59,355191914.32,1,5,4,10,Key Vendor
+VND00115,Vendor_0115,Chemicals,Thailand,Unclassified,,1.5,59,313890802.98,2,5,3,10,Key Vendor
+VND00998,Vendor_0998,IT Services,India,Tier 3,39.6,0.1,50,293807501.58,5,3,2,10,Key Vendor
+VND00116,Vendor_0116,Raw Material,Bangladesh,Tier 1,91.0,0.2,46,316200240.69,5,2,3,10,Key Vendor
+VND00875,Vendor_0875,Logistics,Thailand,Tier 3,31.8,0.2,48,315152729.16,4,3,3,10,Key Vendor
+VND00608,Vendor_0608,IT Services,India,Tier 3,55.5,1.1,52,344224887.46,2,4,4,10,Key Vendor
+VND00962,Vendor_0962,IT Services,Germany,Tier 2,72.2,1.6,57,349964547.18,1,5,4,10,Key Vendor
+VND00871,Vendor_0871,IT Services,Thailand,Tier 3,56.1,2.0,60,345905475.94,1,5,4,10,Key Vendor
+VND00027,Vendor_0027,Textiles,Japan,Tier 3,44.0,3.0,53,368033779.86,1,4,5,10,Key Vendor
+VND00140,Vendor_0140,Chemicals,Japan,Tier 1,98.0,0.0,47,312000622.79,5,2,3,10,Key Vendor
+VND00993,Vendor_0993,Raw Material,India,Tier 3,49.1,0.6,48,332178611.59,3,3,4,10,Key Vendor
+VND00610,Vendor_0610,IT Services,Malaysia,Tier 2,78.3,0.8,52,298474936.18,3,4,3,10,Key Vendor
+VND00621,Vendor_0621,Unknown,Malaysia,Tier 3,42.9,0.0,52,253541428.03,5,4,1,10,Key Vendor
+VND00976,Vendor_0976,Packaging,USA,Tier 3,48.4,1.5,52,367939573.79,1,4,5,10,Key Vendor
+VND00403,Vendor_0403,IT Services,Japan,Tier 2,65.4,0.8,46,396528469.94,3,2,5,10,Key Vendor
+VND00412,Vendor_0412,Machinery,Germany,Tier 1,96.5,0.1,46,304057998.36,5,2,3,10,Key Vendor
+VND00031,Vendor_0031,Raw Material,Vietnam,Unclassified,,0.5,50,329044523.79,4,3,3,10,Key Vendor
+VND00859,Vendor_0859,Unknown,Malaysia,Tier 2,69.5,1.2,55,358259171.26,2,4,4,10,Key Vendor
+VND00145,Vendor_0145,Electronics,Malaysia,Tier 3,49.9,2.3,61,341677391.61,1,5,4,10,Key Vendor
+VND00141,Vendor_0141,Textiles,Malaysia,Tier 1,97.4,2.2,58,349166362.05,1,5,4,10,Key Vendor
+VND00981,Vendor_0981,Machinery,Japan,Tier 3,53.4,0.0,48,292324982.34,5,3,2,10,Key Vendor
+VND00613,Vendor_0613,Raw Material,South Korea,Tier 2,74.0,1.7,62,362234718.69,1,5,4,10,Key Vendor
+VND00114,Vendor_0114,Electronics,USA,Tier 1,86.6,0.1,45,306922579.74,5,2,3,10,Key Vendor
+VND00885,Vendor_0885,Packaging,Germany,Tier 1,86.0,0.0,47,305103438.37,5,2,3,10,Key Vendor
+VND00107,Vendor_0107,Textiles,USA,Tier 3,58.7,1.3,55,346364389.97,2,4,4,10,Key Vendor
+VND00959,Vendor_0959,Machinery,Thailand,Tier 3,41.6,0.8,59,277247995.68,3,5,2,10,Key Vendor
+VND00059,Vendor_0059,Packaging,Malaysia,Tier 3,33.2,0.0,47,308896135.06,5,2,3,10,Key Vendor
+VND00065,Vendor_0065,Machinery,China,Tier 3,49.7,0.3,49,311590284.42,4,3,3,10,Key Vendor
+VND00069,Vendor_0069,Chemicals,India,Tier 3,35.2,1.5,51,368733441.65,2,3,5,10,Key Vendor
+VND00071,Vendor_0071,Machinery,South Korea,Tier 1,84.1,0.7,51,332991884.05,3,3,4,10,Key Vendor
+VND00917,Vendor_0917,Electronics,Japan,Tier 3,50.6,0.3,54,284831786.17,4,4,2,10,Key Vendor
+VND00462,Vendor_0462,Packaging,Thailand,Tier 2,75.4,0.2,47,306456434.53,5,2,3,10,Key Vendor
+VND00562,Vendor_0562,Raw Material,Thailand,Tier 3,44.9,1.1,52,338615309.05,2,4,4,10,Key Vendor
+VND00570,Vendor_0570,IT Services,Thailand,Tier 3,54.4,0.3,46,332108824.76,4,2,4,10,Key Vendor
+VND00539,Vendor_0539,Textiles,Bangladesh,Tier 2,61.5,1.3,53,348608867.49,2,4,4,10,Key Vendor
+VND00914,Vendor_0914,Machinery,Vietnam,Unclassified,,0.3,53,286635730.47,4,4,2,10,Key Vendor
+VND00479,Vendor_0479,Chemicals,South Korea,Tier 1,97.9,0.7,48,336940327.67,3,3,4,10,Key Vendor
+VND00451,Vendor_0451,Unknown,Germany,Tier 1,84.4,0.1,47,311352833.67,5,2,3,10,Key Vendor
+VND00397,Vendor_0397,Chemicals,Malaysia,Tier 1,90.1,0.9,52,310065712.22,3,4,3,10,Key Vendor
+VND00088,Vendor_0088,Electronics,Malaysia,Tier 2,74.6,0.1,48,310676069.55,5,2,3,10,Key Vendor
+VND00046,Vendor_0046,Packaging,Germany,Tier 2,76.4,0.0,49,284719283.74,5,3,2,10,Key Vendor
+VND00942,Vendor_0942,Textiles,USA,Tier 2,68.8,0.3,55,297245825.82,4,4,2,10,Key Vendor
+VND00529,Vendor_0529,IT Services,Japan,Tier 3,33.9,1.2,52,331506519.27,2,4,4,10,Key Vendor
+VND00584,Vendor_0584,Packaging,USA,Tier 3,53.0,3.2,53,369565426.39,1,4,5,10,Key Vendor
+VND00091,Vendor_0091,Logistics,Vietnam,Tier 3,38.4,0.7,50,338081463.94,3,3,4,10,Key Vendor
+VND00038,Vendor_0038,Logistics,Thailand,Tier 3,36.8,0.9,49,353462505.46,3,3,4,10,Key Vendor
+VND00898,Vendor_0898,Machinery,South Korea,Tier 1,92.7,0.6,56,284459991.47,3,5,2,10,Key Vendor
+VND00895,Vendor_0895,Packaging,Bangladesh,Tier 2,76.8,0.5,48,343721389.21,3,3,4,10,Key Vendor
+VND00486,Vendor_0486,Raw Material,South Korea,Tier 1,93.1,0.3,51,323555261.04,4,3,3,10,Key Vendor
+VND00436,Vendor_0436,IT Services,Malaysia,Tier 2,79.1,3.3,58,345312188.93,1,5,4,10,Key Vendor
+VND00488,Vendor_0488,Logistics,Bangladesh,Tier 3,49.7,0.6,54,309208617.2,3,4,3,10,Key Vendor
+VND00033,Vendor_0033,Raw Material,Thailand,Unclassified,,0.3,53,297814123.86,4,4,2,10,Key Vendor
+VND00886,Vendor_0886,Unknown,India,Tier 3,42.5,0.2,47,330622963.91,4,2,4,10,Key Vendor
+VND00525,Vendor_0525,Textiles,Malaysia,Tier 1,88.7,0.1,50,291104452.14,5,3,2,10,Key Vendor
+VND00541,Vendor_0541,Raw Material,USA,Tier 1,96.8,0.0,52,246392277.05,5,4,1,10,Key Vendor
+VND00148,Vendor_0148,Chemicals,Germany,Tier 2,65.2,0.4,49,307484394.15,4,3,3,10,Key Vendor
+VND01000,Vendor_1000,Chemicals,Japan,Tier 2,61.2,1.1,52,342860110.13,2,4,4,10,Key Vendor
+VND00753,Vendor_0753,Logistics,Germany,Tier 2,73.9,0.4,51,327216152.55,4,3,3,10,Key Vendor
+VND00707,Vendor_0707,Textiles,USA,Tier 3,52.6,0.9,56,296952075.62,3,5,2,10,Key Vendor
+VND00757,Vendor_0757,Logistics,Malaysia,Tier 2,73.4,0.7,50,340606357.62,3,3,4,10,Key Vendor
+VND00252,Vendor_0252,Machinery,Malaysia,Tier 3,57.0,0.1,41,337230114.04,5,1,4,10,Key Vendor
+VND00666,Vendor_0666,Packaging,USA,Tier 3,40.7,0.5,50,313019118.66,4,3,3,10,Key Vendor
+VND00254,Vendor_0254,Raw Material,Japan,Tier 3,52.2,1.3,55,350866493.87,2,4,4,10,Key Vendor
+VND00345,Vendor_0345,Unknown,Malaysia,Tier 3,57.9,0.1,51,272283798.15,5,3,2,10,Key Vendor
+VND00257,Vendor_0257,Machinery,India,Tier 1,95.5,0.4,50,300939586.77,4,3,3,10,Key Vendor
+VND00662,Vendor_0662,Electronics,Bangladesh,Tier 1,99.1,1.0,55,361371627.38,2,4,4,10,Key Vendor
+VND00700,Vendor_0700,Chemicals,South Korea,Tier 2,63.7,0.3,50,314830343.38,4,3,3,10,Key Vendor
+VND00661,Vendor_0661,Textiles,South Korea,Tier 3,54.9,0.5,48,314455183.6,4,3,3,10,Key Vendor
+VND00258,Vendor_0258,Packaging,Vietnam,Tier 2,78.7,1.5,49,365058956.05,2,3,5,10,Key Vendor
+VND00754,Vendor_0754,IT Services,Malaysia,Tier 3,53.4,0.2,54,280345157.98,4,4,2,10,Key Vendor
+VND00237,Vendor_0237,Machinery,USA,Tier 3,49.7,0.6,53,315134886.61,3,4,3,10,Key Vendor
+VND00200,Vendor_0200,Textiles,India,Tier 1,84.6,0.9,49,330901315.54,3,3,4,10,Key Vendor
+VND00657,Vendor_0657,Electronics,China,Tier 3,49.9,1.0,54,343953282.92,2,4,4,10,Key Vendor
+VND00792,Vendor_0792,IT Services,Thailand,Tier 2,71.0,1.1,52,351775103.69,2,4,4,10,Key Vendor
+VND00214,Vendor_0214,Machinery,China,Tier 3,45.7,0.3,48,346701631.49,4,2,4,10,Key Vendor
+VND00752,Vendor_0752,IT Services,Vietnam,Tier 1,95.8,0.4,49,311776970.68,4,3,3,10,Key Vendor
+VND00226,Vendor_0226,Electronics,Germany,Tier 3,47.1,0.3,48,350565297.31,4,2,4,10,Key Vendor
+VND00770,Vendor_0770,IT Services,Vietnam,Tier 1,87.5,0.0,47,316288339.56,5,2,3,10,Key Vendor
+VND00763,Vendor_0763,Machinery,Bangladesh,Tier 3,47.4,0.5,50,343912626.93,3,3,4,10,Key Vendor
+VND00321,Vendor_0321,Chemicals,Thailand,Tier 2,68.4,0.1,47,318014154.99,5,2,3,10,Key Vendor
+VND00683,Vendor_0683,Chemicals,USA,Tier 3,42.0,0.2,45,343938717.15,4,2,4,10,Key Vendor
+VND00678,Vendor_0678,IT Services,Bangladesh,Tier 3,57.8,0.0,48,298129688.57,5,3,2,10,Key Vendor
+VND00229,Vendor_0229,Machinery,USA,Unclassified,,0.9,52,327336022.46,3,4,3,10,Key Vendor
+VND00697,Vendor_0697,IT Services,USA,Tier 3,50.2,0.2,53,265904727.75,4,4,2,10,Key Vendor
+VND00306,Vendor_0306,Chemicals,Vietnam,Tier 1,98.3,0.1,53,261001802.15,5,4,1,10,Key Vendor
+VND00786,Vendor_0786,Packaging,Thailand,Tier 1,93.6,1.0,53,341912563.65,2,4,4,10,Key Vendor
+VND00670,Vendor_0670,Machinery,Malaysia,Tier 3,50.0,1.9,56,348777166.02,1,5,4,10,Key Vendor
+VND00787,Vendor_0787,IT Services,Vietnam,Tier 2,70.8,0.1,49,290298674.61,5,3,2,10,Key Vendor
+VND00759,Vendor_0759,Electronics,USA,Unclassified,,0.4,51,307555098.55,4,3,3,10,Key Vendor
+VND00336,Vendor_0336,Chemicals,Bangladesh,Tier 3,32.9,0.7,50,340885889.45,3,3,4,10,Key Vendor
+VND00153,Vendor_0153,IT Services,China,Tier 3,40.1,0.1,49,271306927.12,5,3,2,10,Key Vendor
+VND00713,Vendor_0713,Electronics,India,Tier 2,63.0,1.0,54,343627968.3,2,4,4,10,Key Vendor
+VND00234,Vendor_0234,Machinery,Germany,Tier 2,64.5,0.7,53,326005442.82,3,4,3,10,Key Vendor
+VND00809,Vendor_0809,Raw Material,Germany,Tier 2,61.6,0.2,50,330583148.98,4,3,3,10,Key Vendor
+VND00644,Vendor_0644,Packaging,USA,Tier 3,52.9,1.4,55,349343903.52,2,4,4,10,Key Vendor
+VND00392,Vendor_0392,Logistics,Germany,Tier 3,58.9,2.5,52,397119675.5,1,4,5,10,Key Vendor
+VND00158,Vendor_0158,IT Services,Japan,Tier 1,83.3,0.1,41,357255914.54,5,1,4,10,Key Vendor
+VND00847,Vendor_0847,Machinery,Vietnam,Tier 3,36.0,0.3,48,328462019.81,4,3,3,10,Key Vendor
+VND00843,Vendor_0843,IT Services,Unknown,Tier 3,42.5,2.3,56,343999324.21,1,5,4,10,Key Vendor
+VND00634,Vendor_0634,Textiles,South Korea,Tier 2,67.2,0.2,48,328097116.05,4,3,3,10,Key Vendor
+VND00831,Vendor_0831,Textiles,Thailand,Tier 3,45.7,2.2,58,349934109.33,1,5,4,10,Key Vendor
+VND00829,Vendor_0829,Packaging,USA,Tier 1,81.6,0.9,51,384454370.49,2,3,5,10,Key Vendor
+VND00383,Vendor_0383,Logistics,Thailand,Tier 2,74.0,0.7,52,318534513.02,3,4,3,10,Key Vendor
+VND00828,Vendor_0828,Textiles,Vietnam,Tier 3,54.3,0.1,48,292860842.47,5,3,2,10,Key Vendor
+VND00732,Vendor_0732,IT Services,China,Tier 1,87.0,0.7,49,333373894.26,3,3,4,10,Key Vendor
+VND00826,Vendor_0826,Chemicals,Vietnam,Tier 1,94.4,0.1,50,273748332.15,5,3,2,10,Key Vendor
+VND00641,Vendor_0641,Electronics,Germany,Tier 3,31.4,0.6,51,335493216.8,3,3,4,10,Key Vendor
+VND00379,Vendor_0379,Logistics,Japan,Tier 1,87.0,0.9,52,317731140.45,3,4,3,10,Key Vendor
+VND00737,Vendor_0737,Packaging,Malaysia,Tier 3,57.5,0.8,52,325552774.5,3,4,3,10,Key Vendor
+VND00368,Vendor_0368,Machinery,India,Tier 1,93.4,7.3,52,364750885.77,1,4,5,10,Key Vendor
+VND00650,Vendor_0650,IT Services,Thailand,Tier 2,64.9,0.4,45,359294005.3,4,2,4,10,Key Vendor
+VND00649,Vendor_0649,IT Services,South Korea,Tier 1,85.2,2.1,53,400403266.57,1,4,5,10,Key Vendor
+VND00717,Vendor_0717,Electronics,Unknown,Tier 1,88.1,0.0,54,246096636.92,5,4,1,10,Key Vendor
+VND00648,Vendor_0648,Textiles,Vietnam,Tier 2,77.5,1.1,50,381056401.88,2,3,5,10,Key Vendor
+VND00365,Vendor_0365,Chemicals,Thailand,Tier 1,95.9,0.4,50,324564998.32,4,3,3,10,Key Vendor
+VND00745,Vendor_0745,Electronics,Vietnam,Tier 3,46.3,1.1,54,331829278.38,2,4,4,10,Key Vendor
+VND00811,Vendor_0811,Logistics,South Korea,Tier 1,98.9,2.0,58,342604323.45,1,5,4,10,Key Vendor
+VND00188,Vendor_0188,Raw Material,India,Tier 2,68.9,0.8,49,361386462.84,3,3,4,10,Key Vendor
+VND00645,Vendor_0645,Electronics,Germany,Tier 3,38.4,3.4,56,354156937.59,1,5,4,10,Key Vendor
+VND00724,Vendor_0724,Chemicals,South Korea,Tier 1,81.9,1.4,51,340912417.45,2,3,4,9,Transactional
+VND00729,Vendor_0729,Machinery,Bangladesh,Tier 3,44.1,0.2,46,302761969.8,4,2,3,9,Transactional
+VND00997,Vendor_0997,Electronics,Japan,Tier 1,94.2,2.4,55,356159701.57,1,4,4,9,Transactional
+VND00513,Vendor_0513,Textiles,Malaysia,Tier 1,95.3,2.7,58,312987072.3,1,5,3,9,Transactional
+VND00938,Vendor_0938,IT Services,South Korea,Tier 1,94.0,0.3,42,338672333.04,4,1,4,9,Transactional
+VND00527,Vendor_0527,Machinery,India,Tier 3,59.0,1.6,53,352733209.65,1,4,4,9,Transactional
+VND00701,Vendor_0701,Textiles,China,Tier 2,67.3,1.3,52,311034622.25,2,4,3,9,Transactional
+VND00744,Vendor_0744,IT Services,Vietnam,Tier 2,65.2,2.9,53,363144491.19,1,4,4,9,Transactional
+VND00758,Vendor_0758,Packaging,Germany,Tier 2,67.3,0.4,45,322204865.28,4,2,3,9,Transactional
+VND00536,Vendor_0536,IT Services,Bangladesh,Tier 1,96.1,1.8,52,346500602.69,1,4,4,9,Transactional
+VND00760,Vendor_0760,Machinery,China,Unclassified,,0.7,45,356379504.34,3,2,4,9,Transactional
+VND00696,Vendor_0696,Textiles,Unknown,Tier 2,72.7,0.5,48,278391240.52,4,3,2,9,Transactional
+VND00940,Vendor_0940,Textiles,Bangladesh,Tier 2,70.4,0.4,49,273816969.69,4,3,2,9,Transactional
+VND00992,Vendor_0992,Machinery,USA,Tier 2,78.6,1.6,54,347631555.9,1,4,4,9,Transactional
+VND00971,Vendor_0971,Electronics,Malaysia,Tier 2,76.5,0.2,49,296180635.83,4,3,2,9,Transactional
+VND00727,Vendor_0727,Raw Material,Malaysia,Tier 3,39.8,0.6,47,354164725.35,3,2,4,9,Transactional
+VND00574,Vendor_0574,Chemicals,China,Tier 2,73.5,0.0,43,301365478.69,5,1,3,9,Transactional
+VND00766,Vendor_0766,Machinery,Germany,Tier 2,69.9,0.6,45,331155721.31,3,2,4,9,Transactional
+VND00686,Vendor_0686,Unknown,USA,Tier 2,69.0,0.4,51,294751008.12,4,3,2,9,Transactional
+VND00803,Vendor_0803,Textiles,Vietnam,Tier 2,70.3,0.5,53,291530696.09,3,4,2,9,Transactional
+VND00658,Vendor_0658,Logistics,Japan,Tier 3,55.4,0.0,46,265787000.66,5,2,2,9,Transactional
+VND00656,Vendor_0656,IT Services,China,Tier 3,38.9,0.4,44,341312814.4,4,1,4,9,Transactional
+VND00807,Vendor_0807,Chemicals,Thailand,Tier 1,95.4,1.1,49,351992598.41,2,3,4,9,Transactional
+VND00884,Vendor_0884,Chemicals,USA,Tier 3,37.3,0.4,45,317374834.0,4,2,3,9,Transactional
+VND00881,Vendor_0881,Machinery,South Korea,Tier 3,46.2,0.3,44,306422314.14,4,2,3,9,Transactional
+VND00604,Vendor_0604,IT Services,Vietnam,Tier 3,36.2,0.0,44,309895011.41,5,1,3,9,Transactional
+VND00607,Vendor_0607,Machinery,China,Tier 3,44.4,1.9,55,336589148.65,1,4,4,9,Transactional
+VND00812,Vendor_0812,Machinery,Unknown,Tier 1,88.7,0.1,45,281896157.12,5,2,2,9,Transactional
+VND00642,Vendor_0642,Packaging,China,Tier 3,52.5,1.7,50,373332157.45,1,3,5,9,Transactional
+VND00612,Vendor_0612,Packaging,Bangladesh,Tier 1,86.0,1.2,49,335482810.61,2,3,4,9,Transactional
+VND00637,Vendor_0637,Electronics,USA,Tier 2,67.3,0.2,49,268526035.74,4,3,2,9,Transactional
+VND00630,Vendor_0630,Textiles,Vietnam,Tier 3,47.7,1.5,53,325542921.65,2,4,3,9,Transactional
+VND00629,Vendor_0629,Logistics,China,Tier 3,32.6,2.7,51,377587753.94,1,3,5,9,Transactional
+VND00852,Vendor_0852,Machinery,Thailand,Tier 1,82.5,0.0,45,279281453.98,5,2,2,9,Transactional
+VND00660,Vendor_0660,Logistics,Malaysia,Tier 2,70.0,1.1,54,324814640.51,2,4,3,9,Transactional
+VND00664,Vendor_0664,Packaging,Thailand,Tier 3,46.6,0.7,48,311054785.57,3,3,3,9,Transactional
+VND00797,Vendor_0797,Textiles,China,Tier 1,95.2,0.4,49,296650424.94,4,3,2,9,Transactional
+VND00913,Vendor_0913,Chemicals,South Korea,Tier 2,73.7,0.1,47,273658360.68,5,2,2,9,Transactional
+VND00544,Vendor_0544,Packaging,Vietnam,Tier 2,77.0,1.6,54,360405419.98,1,4,4,9,Transactional
+VND00675,Vendor_0675,Machinery,Thailand,Tier 3,58.7,1.0,49,333923807.01,2,3,4,9,Transactional
+VND00781,Vendor_0781,Raw Material,Bangladesh,Tier 2,78.6,1.0,55,312782583.4,2,4,3,9,Transactional
+VND00785,Vendor_0785,Textiles,Germany,Tier 3,42.7,0.9,51,349087533.11,2,3,4,9,Transactional
+VND00673,Vendor_0673,Electronics,USA,Tier 3,35.6,0.3,42,363462058.58,4,1,4,9,Transactional
+VND00568,Vendor_0568,Machinery,India,Tier 2,60.6,0.2,45,290460495.53,5,2,2,9,Transactional
+VND00908,Vendor_0908,Textiles,South Korea,Tier 3,53.9,1.3,57,295304312.24,2,5,2,9,Transactional
+VND00665,Vendor_0665,Machinery,China,Tier 3,37.1,1.1,60,295375991.09,2,5,2,9,Transactional
+VND00904,Vendor_0904,Logistics,Germany,Tier 2,70.8,0.1,44,279183566.05,5,2,2,9,Transactional
+VND00669,Vendor_0669,Unknown,Malaysia,Tier 3,43.1,1.1,53,309886708.5,2,4,3,9,Transactional
+VND00580,Vendor_0580,Electronics,USA,Tier 3,48.1,1.8,60,299544306.01,1,5,3,9,Transactional
+VND00583,Vendor_0583,Electronics,India,Tier 2,64.5,0.0,49,250545949.34,5,3,1,9,Transactional
+VND00901,Vendor_0901,IT Services,India,Tier 3,44.6,3.8,50,399725072.64,1,3,5,9,Transactional
+VND00900,Vendor_0900,Electronics,Malaysia,Tier 3,36.0,1.3,52,330084873.85,2,4,3,9,Transactional
+VND00726,Vendor_0726,IT Services,Japan,Tier 1,88.9,2.0,52,333457434.84,1,4,4,9,Transactional
+VND00001,Vendor_0001,Unknown,South Korea,Tier 3,56.2,0.9,49,301657666.88,3,3,3,9,Transactional
+VND00255,Vendor_0255,Chemicals,Japan,Tier 3,41.9,1.1,47,369879673.07,2,2,5,9,Transactional
+VND00163,Vendor_0163,Raw Material,India,Tier 2,74.3,2.2,52,337744085.02,1,4,4,9,Transactional
+VND00376,Vendor_0376,Electronics,Germany,Tier 3,52.3,1.1,53,325859830.59,2,4,3,9,Transactional
+VND00375,Vendor_0375,IT Services,Malaysia,Tier 3,35.0,0.6,51,319184541.41,3,3,3,9,Transactional
+VND00160,Vendor_0160,Electronics,Germany,Tier 1,81.0,1.5,50,340793112.26,2,3,4,9,Transactional
+VND00454,Vendor_0454,Packaging,India,Tier 1,93.4,2.0,55,356850440.71,1,4,4,9,Transactional
+VND00054,Vendor_0054,IT Services,Bangladesh,Tier 1,92.6,0.6,49,306275799.23,3,3,3,9,Transactional
+VND00361,Vendor_0361,IT Services,Bangladesh,Tier 3,57.2,3.2,52,348504824.37,1,4,4,9,Transactional
+VND00460,Vendor_0460,Packaging,China,Tier 3,38.3,1.1,48,350575734.73,2,3,4,9,Transactional
+VND00047,Vendor_0047,Logistics,Bangladesh,Tier 3,51.8,1.5,45,368764039.32,2,2,5,9,Transactional
+VND00468,Vendor_0468,IT Services,USA,Tier 1,90.8,0.5,50,268931542.43,4,3,2,9,Transactional
+VND00164,Vendor_0164,Raw Material,India,Tier 2,67.5,0.2,48,278016188.5,5,2,2,9,Transactional
+VND00357,Vendor_0357,IT Services,Vietnam,Tier 3,31.9,0.2,46,272781177.68,5,2,2,9,Transactional
+VND00461,Vendor_0461,IT Services,Malaysia,Tier 3,38.2,2.3,52,338974843.69,1,4,4,9,Transactional
+VND00040,Vendor_0040,Unknown,China,Tier 2,60.8,0.9,47,340742669.57,3,2,4,9,Transactional
+VND00168,Vendor_0168,Textiles,USA,Tier 3,43.1,0.3,51,297796750.5,4,3,2,9,Transactional
+VND00349,Vendor_0349,Machinery,Unknown,Tier 3,56.2,0.7,49,319226593.68,3,3,3,9,Transactional
+VND00347,Vendor_0347,Textiles,Germany,Tier 2,74.5,0.2,45,292560420.49,5,2,2,9,Transactional
+VND00378,Vendor_0378,Textiles,Germany,Tier 3,31.6,0.6,48,308587655.84,3,3,3,9,Transactional
+VND00387,Vendor_0387,Textiles,Bangladesh,Tier 3,49.7,0.1,46,265331609.97,5,2,2,9,Transactional
+VND00391,Vendor_0391,Raw Material,USA,Tier 1,99.3,0.7,54,295995639.05,3,4,2,9,Transactional
+VND00134,Vendor_0134,IT Services,India,Tier 3,53.6,0.0,46,295211585.49,5,2,2,9,Transactional
+VND00421,Vendor_0421,Textiles,Germany,Tier 1,85.4,0.2,45,294795353.01,5,2,2,9,Transactional
+VND00100,Vendor_0100,IT Services,Thailand,Tier 3,37.6,1.9,53,343039649.31,1,4,4,9,Transactional
+VND00423,Vendor_0423,Logistics,China,Tier 3,36.4,0.1,45,285619182.34,5,2,2,9,Transactional
+VND00104,Vendor_0104,Logistics,Thailand,Tier 2,65.6,0.3,51,268507406.13,4,3,2,9,Transactional
+VND00105,Vendor_0105,Logistics,Japan,Unclassified,,1.0,53,313859628.98,2,4,3,9,Transactional
+VND00085,Vendor_0085,Chemicals,Unknown,Tier 3,51.8,1.3,52,309116274.81,2,4,3,9,Transactional
+VND00081,Vendor_0081,Packaging,Japan,Tier 1,90.4,0.9,48,361773011.6,3,2,4,9,Transactional
+VND00406,Vendor_0406,Machinery,Japan,Tier 1,92.7,1.0,52,328399918.33,2,4,3,9,Transactional
+VND00404,Vendor_0404,Machinery,China,Tier 1,87.9,0.9,50,303921693.94,3,3,3,9,Transactional
+VND00402,Vendor_0402,IT Services,China,Tier 1,93.2,1.6,54,331354358.63,1,4,4,9,Transactional
+VND00122,Vendor_0122,Logistics,Germany,Tier 1,92.7,0.8,50,321914752.85,3,3,3,9,Transactional
+VND00131,Vendor_0131,Packaging,Thailand,Tier 3,59.2,1.2,52,313193023.3,2,4,3,9,Transactional
+VND00433,Vendor_0433,Textiles,Japan,Unclassified,,0.8,54,295563618.38,3,4,2,9,Transactional
+VND00132,Vendor_0132,IT Services,Thailand,Tier 3,45.5,1.9,51,366486976.23,1,3,5,9,Transactional
+VND00072,Vendor_0072,Textiles,South Korea,Tier 3,43.9,1.9,50,390623710.08,1,3,5,9,Transactional
+VND00467,Vendor_0467,Logistics,Germany,Tier 3,50.0,0.1,46,267988638.29,5,2,2,9,Transactional
+VND00463,Vendor_0463,Raw Material,South Korea,Tier 1,82.2,2.6,55,357235344.6,1,4,4,9,Transactional
+VND00099,Vendor_0099,Unknown,South Korea,Tier 3,31.8,0.9,51,310713844.34,3,3,3,9,Transactional
+VND00211,Vendor_0211,Machinery,Thailand,Tier 2,68.4,0.1,44,322392058.34,5,1,3,9,Transactional
+VND00310,Vendor_0310,Chemicals,China,Tier 3,49.0,0.6,51,307828384.9,3,3,3,9,Transactional
+VND00482,Vendor_0482,Raw Material,South Korea,Tier 2,78.7,0.1,49,255454344.73,5,3,1,9,Transactional
+VND00241,Vendor_0241,Machinery,Malaysia,Tier 1,95.8,0.1,44,309107354.06,5,1,3,9,Transactional
+VND00232,Vendor_0232,Machinery,USA,Tier 2,65.2,1.1,51,331595272.97,2,3,4,9,Transactional
+VND00247,Vendor_0247,IT Services,Vietnam,Tier 2,60.0,1.1,55,314240234.57,2,4,3,9,Transactional
+VND00493,Vendor_0493,IT Services,Japan,Tier 3,49.4,0.6,47,359283092.04,3,2,4,9,Transactional
+VND00262,Vendor_0262,Electronics,Malaysia,Tier 1,99.3,0.7,51,328356998.02,3,3,3,9,Transactional
+VND00266,Vendor_0266,Chemicals,Vietnam,Tier 1,81.9,0.2,42,302317165.37,5,1,3,9,Transactional
+VND00212,Vendor_0212,Textiles,Bangladesh,Tier 2,78.4,0.2,51,248708938.73,5,3,1,9,Transactional
+VND00217,Vendor_0217,Electronics,Vietnam,Tier 3,52.8,0.0,49,263655065.82,5,3,1,9,Transactional
+VND00469,Vendor_0469,Chemicals,Japan,Tier 3,45.7,0.8,47,339473797.75,3,2,4,9,Transactional
+VND00273,Vendor_0273,Raw Material,Bangladesh,Tier 1,90.7,1.3,46,391366031.66,2,2,5,9,Transactional
+VND00338,Vendor_0338,Machinery,Vietnam,Tier 2,79.3,0.4,50,269839514.72,4,3,2,9,Transactional
+VND00197,Vendor_0197,Electronics,Japan,Tier 1,80.8,0.0,45,275908890.21,5,2,2,9,Transactional
+VND00331,Vendor_0331,Logistics,Bangladesh,Tier 3,54.9,1.8,50,364434366.72,1,3,5,9,Transactional
+VND00276,Vendor_0276,Unknown,South Korea,Tier 2,65.1,1.0,46,376749451.2,2,2,5,9,Transactional
+VND00327,Vendor_0327,Machinery,Thailand,Tier 2,68.8,0.5,46,307393434.57,4,2,3,9,Transactional
+VND00484,Vendor_0484,Logistics,South Korea,Tier 2,73.9,0.4,49,275388386.83,4,3,2,9,Transactional
+VND00296,Vendor_0296,Logistics,Malaysia,Tier 2,66.6,0.3,42,310796541.5,4,1,3,8,Transactional
+VND00294,Vendor_0294,Raw Material,Germany,Tier 3,55.2,0.8,45,310145934.23,3,2,3,8,Transactional
+VND00298,Vendor_0298,IT Services,South Korea,Tier 3,45.1,0.9,47,311829578.65,3,2,3,8,Transactional
+VND00267,Vendor_0267,Packaging,Japan,Tier 2,78.8,0.9,48,324280138.56,3,2,3,8,Transactional
+VND00738,Vendor_0738,Machinery,Malaysia,Tier 1,87.2,0.1,45,223290729.27,5,2,1,8,Transactional
+VND00623,Vendor_0623,Packaging,China,Tier 3,55.9,0.5,47,277835198.51,4,2,2,8,Transactional
+VND00240,Vendor_0240,Packaging,Malaysia,Tier 3,42.4,0.7,45,301327574.3,3,2,3,8,Transactional
+VND00246,Vendor_0246,Machinery,Thailand,Tier 1,95.0,0.7,48,323028099.7,3,2,3,8,Transactional
+VND00730,Vendor_0730,Packaging,Japan,Tier 3,41.5,0.4,47,265625348.61,4,2,2,8,Transactional
+VND00616,Vendor_0616,Electronics,Japan,Tier 1,94.5,0.3,47,292488604.17,4,2,2,8,Transactional
+VND00860,Vendor_0860,Electronics,Thailand,Tier 3,34.6,0.3,49,264966632.43,4,3,1,8,Transactional
+VND00394,Vendor_0394,IT Services,USA,Tier 1,84.3,0.6,52,253826413.5,3,4,1,8,Transactional
+VND00110,Vendor_0110,IT Services,Vietnam,Tier 3,35.4,0.9,50,293399999.58,3,3,2,8,Transactional
+VND00106,Vendor_0106,Unknown,India,Tier 3,47.5,0.3,50,254828691.79,4,3,1,8,Transactional
+VND00816,Vendor_0816,Electronics,Malaysia,Tier 2,66.3,2.1,50,346559599.5,1,3,4,8,Transactional
+VND00385,Vendor_0385,Raw Material,Malaysia,Tier 1,81.5,0.3,47,271789048.58,4,2,2,8,Transactional
+VND00684,Vendor_0684,Machinery,Japan,Tier 2,76.8,1.8,46,367584276.86,1,2,5,8,Transactional
+VND00659,Vendor_0659,Machinery,Bangladesh,Tier 2,75.2,1.4,49,322623095.98,2,3,3,8,Transactional
+VND00353,Vendor_0353,Machinery,Unknown,Tier 2,76.1,0.1,45,251440350.91,5,2,1,8,Transactional
+VND00893,Vendor_0893,Chemicals,Bangladesh,Tier 1,88.1,0.6,49,275444873.66,3,3,2,8,Transactional
+VND00325,Vendor_0325,Textiles,Bangladesh,Tier 1,96.8,1.1,49,328326336.19,2,3,3,8,Transactional
+VND00830,Vendor_0830,Logistics,Germany,Tier 2,61.7,0.4,45,278227647.76,4,2,2,8,Transactional
+VND00681,Vendor_0681,Raw Material,China,Tier 1,87.2,0.0,42,290950447.34,5,1,2,8,Transactional
+VND00682,Vendor_0682,Textiles,South Korea,Tier 3,48.1,1.0,51,330516448.51,2,3,3,8,Transactional
+VND00360,Vendor_0360,Logistics,Thailand,Tier 2,70.3,4.0,53,299999014.56,1,4,3,8,Transactional
+VND00838,Vendor_0838,IT Services,USA,Tier 3,55.4,0.5,54,250858434.79,3,4,1,8,Transactional
+VND00151,Vendor_0151,Logistics,Vietnam,Tier 1,93.6,0.7,48,298298054.67,3,2,3,8,Transactional
+VND00367,Vendor_0367,Logistics,Malaysia,Tier 1,97.3,0.5,43,315078461.08,4,1,3,8,Transactional
+VND00220,Vendor_0220,Electronics,USA,Tier 1,89.4,0.2,41,284340545.52,5,1,2,8,Transactional
+VND00320,Vendor_0320,Textiles,China,Tier 3,47.5,2.4,48,347254887.04,1,3,4,8,Transactional
+VND00841,Vendor_0841,IT Services,South Korea,Tier 3,30.9,0.8,49,281708201.46,3,3,2,8,Transactional
+VND00780,Vendor_0780,Textiles,China,Tier 2,74.9,0.2,48,251325957.53,4,3,1,8,Transactional
+VND00773,Vendor_0773,Textiles,Malaysia,Tier 3,38.9,0.9,55,281095892.01,2,4,2,8,Transactional
+VND00771,Vendor_0771,Chemicals,Germany,Tier 3,37.7,0.7,48,296784013.17,3,3,2,8,Transactional
+VND00177,Vendor_0177,Textiles,USA,Tier 2,78.4,0.1,48,202062199.63,5,2,1,8,Transactional
+VND00849,Vendor_0849,Electronics,Vietnam,Tier 2,65.2,0.3,42,318111183.36,4,1,3,8,Transactional
+VND00873,Vendor_0873,Logistics,Japan,Tier 2,75.1,0.2,44,269062348.75,4,2,2,8,Transactional
+VND00552,Vendor_0552,Unknown,USA,Tier 1,89.7,1.6,52,317778856.27,1,4,3,8,Transactional
+VND00925,Vendor_0925,Machinery,Germany,Tier 3,59.8,1.4,48,303004442.51,2,3,3,8,Transactional
+VND00927,Vendor_0927,Electronics,Japan,Tier 3,48.8,0.2,43,314955288.64,4,1,3,8,Transactional
+VND00475,Vendor_0475,Electronics,Thailand,Tier 2,66.9,1.5,52,275282146.07,2,4,2,8,Transactional
+VND00052,Vendor_0052,Logistics,China,Tier 1,84.3,2.3,50,359795565.85,1,3,4,8,Transactional
+VND00012,Vendor_0012,Electronics,Unknown,Tier 1,97.9,0.0,47,247352616.18,5,2,1,8,Transactional
+VND00459,Vendor_0459,Textiles,China,Tier 3,33.9,0.7,48,285357143.4,3,3,2,8,Transactional
+VND00936,Vendor_0936,Packaging,China,Tier 3,49.1,0.2,47,297167396.21,4,2,2,8,Transactional
+VND00013,Vendor_0013,Textiles,India,Tier 1,88.3,2.1,52,324208641.32,1,4,3,8,Transactional
+VND00566,Vendor_0566,Textiles,Vietnam,Tier 2,71.3,0.9,51,266047354.58,3,3,2,8,Transactional
+VND00528,Vendor_0528,IT Services,Germany,Tier 3,49.1,1.1,53,297517958.1,2,4,2,8,Transactional
+VND00045,Vendor_0045,Machinery,Malaysia,Tier 3,48.1,0.2,40,267171408.4,5,1,2,8,Transactional
+VND00563,Vendor_0563,Electronics,Bangladesh,Tier 3,39.5,1.7,50,352448681.87,1,3,4,8,Transactional
+VND00483,Vendor_0483,Raw Material,South Korea,Tier 2,61.8,0.0,42,274049676.95,5,1,2,8,Transactional
+VND00947,Vendor_0947,Raw Material,Vietnam,Tier 3,39.6,0.3,47,297287674.0,4,2,2,8,Transactional
+VND00954,Vendor_0954,Electronics,Japan,Tier 1,94.0,0.6,50,296893928.95,3,3,2,8,Transactional
+VND00955,Vendor_0955,Chemicals,South Korea,Tier 3,59.3,0.5,48,291688012.34,3,3,2,8,Transactional
+VND00985,Vendor_0985,Packaging,China,Tier 1,81.0,0.6,48,289222548.05,3,3,2,8,Transactional
+VND00035,Vendor_0035,Textiles,Japan,Tier 1,97.6,1.1,50,307964301.95,2,3,3,8,Transactional
+VND00963,Vendor_0963,Electronics,India,Tier 3,47.2,0.9,51,305513785.87,2,3,3,8,Transactional
+VND00964,Vendor_0964,Logistics,South Korea,Tier 3,57.3,0.6,48,271989684.84,3,3,2,8,Transactional
+VND00970,Vendor_0970,Logistics,Vietnam,Tier 2,63.3,0.3,46,298124191.12,4,2,2,8,Transactional
+VND00025,Vendor_0025,Packaging,China,Tier 2,61.9,0.9,49,285679587.54,3,3,2,8,Transactional
+VND00546,Vendor_0546,Logistics,Japan,Tier 3,55.1,1.4,50,308276601.4,2,3,3,8,Transactional
+VND00979,Vendor_0979,Packaging,Malaysia,Tier 2,64.7,1.9,53,325909767.7,1,4,3,8,Transactional
+VND00018,Vendor_0018,Chemicals,Malaysia,Tier 2,66.7,0.0,45,231804593.73,5,2,1,8,Transactional
+VND00977,Vendor_0977,Raw Material,Bangladesh,Tier 2,71.7,4.2,54,312565367.05,1,4,3,8,Transactional
+VND00974,Vendor_0974,Logistics,India,Tier 3,45.0,0.7,47,307660062.7,3,2,3,8,Transactional
+VND00471,Vendor_0471,Textiles,India,Tier 3,30.9,1.3,49,328866104.95,2,3,3,8,Transactional
+VND00576,Vendor_0576,Machinery,Vietnam,Tier 1,96.5,0.9,54,264384448.83,3,4,1,8,Transactional
+VND00057,Vendor_0057,Electronics,Vietnam,Tier 3,36.2,0.1,48,260717496.87,5,2,1,8,Transactional
+VND00024,Vendor_0024,Logistics,USA,Tier 3,55.6,0.1,41,283865454.13,5,1,2,8,Transactional
+VND00918,Vendor_0918,Logistics,Thailand,Tier 1,96.4,0.7,52,257143126.96,3,4,1,8,Transactional
+VND00906,Vendor_0906,Chemicals,Vietnam,Tier 1,92.5,0.5,47,307848948.07,3,2,3,8,Transactional
+VND00517,Vendor_0517,Raw Material,India,Tier 3,56.4,1.1,51,322330662.2,2,3,3,8,Transactional
+VND00430,Vendor_0430,Raw Material,USA,Tier 3,38.2,0.2,46,238412462.38,5,2,1,8,Transactional
+VND00077,Vendor_0077,Packaging,Bangladesh,Tier 1,84.0,0.9,45,324622613.88,3,2,3,8,Transactional
+VND00004,Vendor_0004,Chemicals,Malaysia,Tier 2,71.9,2.1,56,329536613.61,1,4,3,8,Transactional
+VND00598,Vendor_0598,Packaging,China,Tier 3,42.1,0.3,44,311072239.66,4,1,3,8,Transactional
+VND00086,Vendor_0086,IT Services,Germany,Tier 3,52.8,0.1,46,243852569.45,5,2,1,8,Transactional
+VND00437,Vendor_0437,Raw Material,Malaysia,Tier 3,35.1,0.2,42,273147793.0,5,1,2,8,Transactional
+VND00516,Vendor_0516,Chemicals,Germany,Tier 3,31.8,1.1,47,355206855.51,2,2,4,8,Transactional
+VND00586,Vendor_0586,Logistics,Germany,Tier 3,46.8,0.2,41,301112762.44,4,1,3,8,Transactional
+VND00426,Vendor_0426,Textiles,India,Tier 2,68.5,1.4,48,300565888.59,2,3,3,8,Transactional
+VND00447,Vendor_0447,IT Services,South Korea,Tier 1,99.0,1.6,48,360991127.61,1,3,4,8,Transactional
+VND00497,Vendor_0497,Electronics,Vietnam,Tier 2,70.9,2.6,48,343020915.73,1,3,4,8,Transactional
+VND00582,Vendor_0582,Chemicals,Malaysia,Tier 1,98.6,3.3,49,334957894.43,1,3,4,8,Transactional
+VND00920,Vendor_0920,Raw Material,Germany,Tier 3,39.8,0.2,44,282678718.85,4,2,2,8,Transactional
+VND00003,Vendor_0003,Machinery,China,Tier 1,81.2,0.7,44,334148936.64,3,1,4,8,Transactional
+VND00070,Vendor_0070,Electronics,Thailand,Tier 1,99.1,2.7,51,335115086.49,1,3,4,8,Transactional
+VND00506,Vendor_0506,Electronics,Vietnam,Tier 3,41.4,1.0,51,307248269.91,2,3,3,8,Transactional
+VND00983,Vendor_0983,Electronics,Japan,Tier 3,37.5,0.5,44,282889529.58,3,2,2,7,Transactional
+VND00980,Vendor_0980,Packaging,Unknown,Tier 2,71.8,0.0,42,263957499.76,5,1,1,7,Transactional
+VND00227,Vendor_0227,Logistics,Vietnam,Tier 1,98.1,0.3,42,270806075.38,4,1,2,7,Transactional
+VND00774,Vendor_0774,IT Services,South Korea,Tier 3,57.8,0.8,47,267113513.93,3,2,2,7,Transactional
+VND00733,Vendor_0733,IT Services,India,Tier 2,76.6,0.3,41,267338952.69,4,1,2,7,Transactional
+VND00278,Vendor_0278,Chemicals,Malaysia,Tier 2,75.5,1.5,49,293803439.1,2,3,2,7,Transactional
+VND00015,Vendor_0015,IT Services,Bangladesh,Tier 3,42.7,0.7,46,284589639.74,3,2,2,7,Transactional
+VND00750,Vendor_0750,Textiles,South Korea,Tier 2,73.7,0.3,45,223026322.97,4,2,1,7,Transactional
+VND00271,Vendor_0271,Machinery,Thailand,Tier 1,86.7,0.9,45,272500715.31,3,2,2,7,Transactional
+VND00231,Vendor_0231,IT Services,China,Tier 1,85.6,0.8,45,268788871.98,3,2,2,7,Transactional
+VND00736,Vendor_0736,Unknown,Bangladesh,Tier 1,91.4,0.5,46,256994673.82,4,2,1,7,Transactional
+VND00767,Vendor_0767,IT Services,USA,Tier 1,83.4,2.3,55,287411639.13,1,4,2,7,Transactional
+VND00751,Vendor_0751,IT Services,China,Tier 3,38.2,1.0,44,314546798.21,2,2,3,7,Transactional
+VND00765,Vendor_0765,Machinery,Bangladesh,Tier 3,32.3,0.7,48,249089167.84,3,3,1,7,Transactional
+VND00741,Vendor_0741,Unknown,Thailand,Tier 2,62.4,0.4,43,268020815.37,4,1,2,7,Transactional
+VND00996,Vendor_0996,Electronics,USA,Tier 3,36.4,1.0,46,328302351.86,2,2,3,7,Transactional
+VND00995,Vendor_0995,Textiles,Malaysia,Tier 3,55.3,0.8,48,237630350.59,3,3,1,7,Transactional
+VND00009,Vendor_0009,Machinery,South Korea,Tier 2,72.1,0.0,43,249111731.29,5,1,1,7,Transactional
+VND00988,Vendor_0988,Logistics,South Korea,Tier 2,60.4,0.2,41,273842236.81,4,1,2,7,Transactional
+VND00256,Vendor_0256,Packaging,Thailand,Tier 2,69.0,1.2,51,283743000.47,2,3,2,7,Transactional
+VND00010,Vendor_0010,Electronics,Japan,Tier 2,79.6,0.9,46,277170223.88,3,2,2,7,Transactional
+VND00261,Vendor_0261,Raw Material,Japan,Tier 2,73.1,0.3,46,253865373.41,4,2,1,7,Transactional
+VND00236,Vendor_0236,Packaging,Thailand,Tier 1,80.6,1.0,46,307059820.13,2,2,3,7,Transactional
+VND00095,Vendor_0095,Electronics,Japan,Tier 1,84.0,1.2,50,293700746.6,2,3,2,7,Transactional
+VND00022,Vendor_0022,Electronics,Vietnam,Tier 3,39.8,2.2,49,321652792.69,1,3,3,7,Transactional
+VND00124,Vendor_0124,Raw Material,Bangladesh,Tier 3,37.7,0.1,41,250993116.18,5,1,1,7,Transactional
+VND00155,Vendor_0155,Textiles,Unknown,Tier 1,99.0,0.9,40,316641065.79,3,1,3,7,Transactional
+VND00922,Vendor_0922,Logistics,Japan,Tier 2,64.1,0.1,42,229360039.53,5,1,1,7,Transactional
+VND00135,Vendor_0135,Textiles,USA,Tier 1,96.0,2.2,50,317070307.53,1,3,3,7,Transactional
+VND00133,Vendor_0133,Logistics,China,Tier 3,38.4,0.1,39,209479551.89,5,1,1,7,Transactional
+VND00916,Vendor_0916,Chemicals,Vietnam,Tier 2,60.5,1.8,49,311102774.22,1,3,3,7,Transactional
+VND00076,Vendor_0076,Machinery,Vietnam,Tier 1,81.0,0.4,42,280165040.06,4,1,2,7,Transactional
+VND00867,Vendor_0867,Textiles,Bangladesh,Tier 3,40.9,0.3,39,269369287.53,4,1,2,7,Transactional
+VND00911,Vendor_0911,Electronics,USA,Tier 2,71.3,0.8,47,295512426.53,3,2,2,7,Transactional
+VND00926,Vendor_0926,Textiles,Japan,Tier 3,31.6,2.4,44,345713433.82,1,2,4,7,Transactional
+VND00120,Vendor_0120,Electronics,China,Tier 2,67.8,0.6,49,248242325.52,3,3,1,7,Transactional
+VND00078,Vendor_0078,Electronics,India,Tier 3,35.2,1.2,50,298059257.44,2,3,2,7,Transactional
+VND00286,Vendor_0286,Packaging,India,Tier 3,32.5,2.0,47,352332948.63,1,2,4,7,Transactional
+VND00882,Vendor_0882,IT Services,Thailand,Tier 2,77.0,0.1,43,249768865.71,5,1,1,7,Transactional
+VND00090,Vendor_0090,Machinery,China,Unclassified,,1.6,47,360766754.27,1,2,4,7,Transactional
+VND00092,Vendor_0092,Raw Material,South Korea,Tier 2,79.9,0.4,46,252897469.85,4,2,1,7,Transactional
+VND00093,Vendor_0093,Logistics,Vietnam,Tier 1,83.3,0.1,44,218702594.14,5,1,1,7,Transactional
+VND00846,Vendor_0846,IT Services,USA,Tier 3,59.0,3.6,48,304003307.17,1,3,3,7,Transactional
+VND00842,Vendor_0842,Machinery,Malaysia,Tier 2,76.4,0.1,40,198663818.23,5,1,1,7,Transactional
+VND00206,Vendor_0206,Unknown,China,Tier 3,30.6,1.7,49,320730689.17,1,3,3,7,Transactional
+VND00894,Vendor_0894,Machinery,USA,Tier 3,57.8,0.6,47,266931331.83,3,2,2,7,Transactional
+VND00972,Vendor_0972,Logistics,China,Tier 1,95.6,0.6,46,292401433.49,3,2,2,7,Transactional
+VND00203,Vendor_0203,Raw Material,Thailand,Tier 3,41.3,1.1,47,302647318.24,2,2,3,7,Transactional
+VND00801,Vendor_0801,Machinery,Vietnam,Tier 2,79.5,1.0,48,274669890.49,2,3,2,7,Transactional
+VND00802,Vendor_0802,Chemicals,Bangladesh,Tier 3,40.7,1.8,50,325540937.61,1,3,3,7,Transactional
+VND00198,Vendor_0198,Electronics,China,Tier 1,92.8,0.0,42,233687716.27,5,1,1,7,Transactional
+VND00182,Vendor_0182,IT Services,South Korea,Tier 3,37.9,1.2,47,323734775.95,2,2,3,7,Transactional
+VND00179,Vendor_0179,IT Services,South Korea,Tier 1,95.6,2.3,50,303620436.53,1,3,3,7,Transactional
+VND00820,Vendor_0820,Machinery,Thailand,Tier 3,53.5,0.2,44,244299768.44,4,2,1,7,Transactional
+VND00840,Vendor_0840,Logistics,Malaysia,Tier 2,74.3,2.8,48,315461130.03,1,3,3,7,Transactional
+VND00169,Vendor_0169,IT Services,Japan,Tier 3,32.9,0.3,37,268118446.91,4,1,2,7,Transactional
+VND00822,Vendor_0822,Raw Material,USA,Tier 3,30.3,1.3,52,218222031.53,2,4,1,7,Transactional
+VND00946,Vendor_0946,Machinery,China,Tier 3,30.8,0.8,44,280116100.95,3,2,2,7,Transactional
+VND00042,Vendor_0042,Textiles,South Korea,Tier 2,64.7,0.1,38,264890976.62,5,1,1,7,Transactional
+VND00832,Vendor_0832,Packaging,South Korea,Tier 2,61.7,0.1,39,224552519.64,5,1,1,7,Transactional
+VND00837,Vendor_0837,Logistics,India,Tier 1,94.0,0.9,49,277952748.33,2,3,2,7,Transactional
+VND00934,Vendor_0934,Electronics,Japan,Tier 2,66.8,0.2,46,248440523.49,4,2,1,7,Transactional
+VND00281,Vendor_0281,Unknown,Vietnam,Tier 1,92.3,0.2,39,186795560.97,5,1,1,7,Transactional
+VND00509,Vendor_0509,Machinery,Malaysia,Tier 1,96.5,1.6,50,305740843.34,1,3,3,7,Transactional
+VND00311,Vendor_0311,Textiles,Vietnam,Tier 2,60.7,1.0,53,248779004.06,2,4,1,7,Transactional
+VND00705,Vendor_0705,Packaging,Thailand,Tier 3,34.4,0.5,42,288374971.46,4,1,2,7,Transactional
+VND00424,Vendor_0424,Electronics,Vietnam,Tier 2,64.6,1.0,51,289349788.96,2,3,2,7,Transactional
+VND00538,Vendor_0538,IT Services,Malaysia,Tier 3,47.3,0.6,45,278993315.72,3,2,2,7,Transactional
+VND00599,Vendor_0599,Machinery,Thailand,Tier 3,43.5,0.2,46,263483538.19,4,2,1,7,Transactional
+VND00545,Vendor_0545,IT Services,South Korea,Tier 2,73.3,0.2,41,236509148.71,5,1,1,7,Transactional
+VND00380,Vendor_0380,Textiles,Malaysia,Tier 3,49.7,2.3,47,334543419.02,1,2,4,7,Transactional
+VND00547,Vendor_0547,Chemicals,China,Tier 3,37.9,0.7,46,291943277.91,3,2,2,7,Transactional
+VND00548,Vendor_0548,Machinery,Bangladesh,Tier 2,77.0,0.5,46,222878606.01,4,2,1,7,Transactional
+VND00312,Vendor_0312,Chemicals,China,Tier 3,35.5,1.2,48,284902772.2,2,3,2,7,Transactional
+VND00373,Vendor_0373,Raw Material,Thailand,Tier 3,36.6,1.3,46,304689909.99,2,2,3,7,Transactional
+VND00690,Vendor_0690,Raw Material,South Korea,Tier 3,43.1,1.1,46,328485282.1,2,2,3,7,Transactional
+VND00550,Vendor_0550,Machinery,Unknown,Tier 1,84.1,0.6,46,282129244.06,3,2,2,7,Transactional
+VND00317,Vendor_0317,Machinery,Thailand,Tier 3,58.6,1.5,49,275934360.14,2,3,2,7,Transactional
+VND00438,Vendor_0438,Chemicals,Thailand,Tier 1,87.5,1.1,51,282226785.15,2,3,2,7,Transactional
+VND00556,Vendor_0556,Textiles,China,Tier 3,58.2,0.1,43,245758757.1,5,1,1,7,Transactional
+VND00581,Vendor_0581,Logistics,Thailand,Tier 2,62.1,1.9,53,285147444.5,1,4,2,7,Transactional
+VND00680,Vendor_0680,Electronics,India,Tier 1,90.6,0.3,46,264978066.92,4,2,1,7,Transactional
+VND00557,Vendor_0557,IT Services,China,Tier 3,39.4,0.8,46,297282283.17,3,2,2,7,Transactional
+VND00452,Vendor_0452,Packaging,Japan,Tier 2,69.1,0.1,43,258824338.36,5,1,1,7,Transactional
+VND00577,Vendor_0577,Machinery,South Korea,Tier 3,40.3,2.2,57,260470270.35,1,5,1,7,Transactional
+VND00561,Vendor_0561,IT Services,Malaysia,Tier 2,79.3,0.9,47,270394436.72,3,2,2,7,Transactional
+VND00672,Vendor_0672,Unknown,Vietnam,Tier 1,92.8,0.3,45,256814370.37,4,2,1,7,Transactional
+VND00668,Vendor_0668,Raw Material,China,Tier 3,41.2,1.6,53,283624910.42,1,4,2,7,Transactional
+VND00333,Vendor_0333,Textiles,USA,Tier 3,31.0,0.5,37,287962622.99,4,1,2,7,Transactional
+VND00388,Vendor_0388,Logistics,South Korea,Tier 3,42.4,0.7,49,251500934.99,3,3,1,7,Transactional
+VND00456,Vendor_0456,Textiles,Unknown,Tier 2,64.5,0.7,45,266075278.34,3,2,2,7,Transactional
+VND00617,Vendor_0617,Electronics,Malaysia,Tier 3,34.3,0.8,47,280378000.29,3,2,2,7,Transactional
+VND00288,Vendor_0288,Textiles,China,Tier 2,68.0,0.4,43,276829688.7,4,1,2,7,Transactional
+VND00418,Vendor_0418,Packaging,Bangladesh,Tier 3,53.0,1.1,45,324369913.35,2,2,3,7,Transactional
+VND00291,Vendor_0291,Packaging,South Korea,Tier 3,32.1,0.2,39,238610649.66,5,1,1,7,Transactional
+VND00419,Vendor_0419,Packaging,South Korea,Tier 2,77.1,3.0,53,275354107.32,1,4,2,7,Transactional
+VND00498,Vendor_0498,Packaging,Germany,Tier 3,35.4,1.4,45,319145758.87,2,2,3,7,Transactional
+VND00708,Vendor_0708,IT Services,Thailand,Tier 1,86.7,0.9,51,261754637.89,3,3,1,7,Transactional
+VND00398,Vendor_0398,IT Services,Vietnam,Tier 2,60.0,1.1,49,289779613.77,2,3,2,7,Transactional
+VND00293,Vendor_0293,Textiles,India,Tier 1,87.6,0.9,45,267046070.37,3,2,2,7,Transactional
+VND00401,Vendor_0401,Packaging,South Korea,Tier 3,37.2,1.9,50,309589465.78,1,3,3,7,Transactional
+VND00395,Vendor_0395,Packaging,Japan,Tier 3,53.9,0.1,40,248365715.48,5,1,1,7,Transactional
+VND00407,Vendor_0407,IT Services,Malaysia,Tier 3,57.2,2.2,49,301840606.28,1,3,3,7,Transactional
+VND00399,Vendor_0399,Textiles,South Korea,Tier 1,82.6,1.4,45,298565275.01,2,2,3,7,Transactional
+VND00166,Vendor_0166,Logistics,Japan,Tier 1,88.5,0.3,42,263751634.58,4,1,1,6,Low Value
+VND00919,Vendor_0919,IT Services,Malaysia,Tier 1,83.5,0.6,47,246321886.86,3,2,1,6,Low Value
+VND00888,Vendor_0888,Chemicals,China,Tier 3,46.7,1.0,45,279502155.54,2,2,2,6,Dormant / At-Risk
+VND00441,Vendor_0441,Textiles,India,Tier 3,35.9,1.3,45,274862308.8,2,2,2,6,Dormant / At-Risk
+VND00825,Vendor_0825,Machinery,Vietnam,Tier 2,67.6,4.3,44,305217684.41,1,2,3,6,Dormant / At-Risk
+VND00824,Vendor_0824,Raw Material,Bangladesh,Tier 3,57.9,5.9,47,307942605.07,1,2,3,6,Dormant / At-Risk
+VND00857,Vendor_0857,Logistics,South Korea,Tier 3,32.6,1.8,51,285105920.11,1,3,2,6,Dormant / At-Risk
+VND00923,Vendor_0923,Electronics,South Korea,Tier 1,92.6,0.5,45,257732282.86,3,2,1,6,Low Value
+VND00064,Vendor_0064,IT Services,Bangladesh,Tier 3,55.0,1.4,45,272855156.95,2,2,2,6,Dormant / At-Risk
+VND00833,Vendor_0833,Packaging,Unknown,Tier 3,39.9,0.4,40,227485871.83,4,1,1,6,Low Value
+VND00413,Vendor_0413,Logistics,Malaysia,Tier 1,96.5,0.4,35,188722992.32,4,1,1,6,Low Value
+VND00173,Vendor_0173,Raw Material,India,Tier 2,65.8,0.4,43,256242729.03,4,1,1,6,Low Value
+VND00575,Vendor_0575,IT Services,Bangladesh,Tier 1,90.4,0.6,39,291779540.41,3,1,2,6,Low Value
+VND00340,Vendor_0340,Textiles,Vietnam,Tier 3,36.8,1.5,47,285794276.53,2,2,2,6,Dormant / At-Risk
+VND00408,Vendor_0408,Logistics,South Korea,Tier 3,30.8,1.7,49,286024441.25,1,3,2,6,Dormant / At-Risk
+VND00667,Vendor_0667,Electronics,Vietnam,Tier 3,47.2,0.2,42,235545258.21,4,1,1,6,Low Value
+VND00877,Vendor_0877,Machinery,India,Tier 1,80.1,0.8,45,210802059.53,3,2,1,6,Low Value
+VND00075,Vendor_0075,Raw Material,Bangladesh,Tier 2,79.5,0.9,46,249562842.04,3,2,1,6,Low Value
+VND00910,Vendor_0910,Machinery,Vietnam,Tier 3,56.6,0.9,47,276596400.9,2,2,2,6,Dormant / At-Risk
+VND00429,Vendor_0429,Textiles,Vietnam,Tier 3,54.6,2.1,47,326267501.12,1,2,3,6,Dormant / At-Risk
+VND00808,Vendor_0808,IT Services,South Korea,Tier 1,94.8,1.9,47,299428901.39,1,2,3,6,Dormant / At-Risk
+VND00138,Vendor_0138,Electronics,India,Tier 2,79.2,1.0,47,289110111.55,2,2,2,6,Dormant / At-Risk
+VND00139,Vendor_0139,Textiles,China,Tier 3,55.5,0.9,45,238207102.18,3,2,1,6,Low Value
+VND00393,Vendor_0393,Electronics,Thailand,Tier 3,56.0,1.2,47,272550735.65,2,2,2,6,Dormant / At-Risk
+VND00601,Vendor_0601,Raw Material,South Korea,Tier 3,41.8,0.9,41,277419138.16,3,1,2,6,Low Value
+VND00861,Vendor_0861,Logistics,Japan,Tier 1,84.3,2.2,52,253709591.58,1,4,1,6,Dormant / At-Risk
+VND00427,Vendor_0427,Chemicals,Vietnam,Tier 2,60.9,0.4,41,265256952.04,4,1,1,6,Low Value
+VND00422,Vendor_0422,Packaging,Bangladesh,Tier 1,85.3,0.3,43,216553214.34,4,1,1,6,Low Value
+VND00377,Vendor_0377,IT Services,South Korea,Tier 1,89.1,2.5,47,316492554.88,1,2,3,6,Dormant / At-Risk
+VND00864,Vendor_0864,Machinery,Vietnam,Tier 2,60.9,0.9,45,284573984.51,2,2,2,6,Dormant / At-Risk
+VND00159,Vendor_0159,Logistics,India,Tier 3,46.6,0.5,43,252018816.91,4,1,1,6,Low Value
+VND00428,Vendor_0428,IT Services,China,Tier 1,92.1,1.7,43,341285339.36,1,1,4,6,Dormant / At-Risk
+VND00161,Vendor_0161,IT Services,Bangladesh,Tier 3,55.7,1.5,49,230439200.03,2,3,1,6,Dormant / At-Risk
+VND00845,Vendor_0845,Raw Material,South Korea,Tier 3,40.4,1.1,47,269644310.09,2,2,2,6,Dormant / At-Risk
+VND00844,Vendor_0844,Machinery,Thailand,Tier 1,97.3,0.3,40,252795576.5,4,1,1,6,Low Value
+VND00371,Vendor_0371,Packaging,Germany,Tier 3,37.1,1.2,50,253989697.45,2,3,1,6,Dormant / At-Risk
+VND00907,Vendor_0907,Electronics,Malaysia,Tier 1,87.2,0.6,41,267504135.13,3,1,2,6,Low Value
+VND00129,Vendor_0129,IT Services,Japan,Tier 3,30.5,0.9,43,274542013.95,3,1,2,6,Low Value
+VND00096,Vendor_0096,IT Services,Thailand,Unclassified,,0.6,48,218105641.04,3,2,1,6,Low Value
+VND00594,Vendor_0594,Chemicals,Malaysia,Tier 3,54.2,1.1,43,306102913.48,2,1,3,6,Dormant / At-Risk
+VND00839,Vendor_0839,Packaging,Vietnam,Tier 2,70.6,0.4,42,249041617.56,4,1,1,6,Low Value
+VND00896,Vendor_0896,Machinery,Germany,Tier 3,44.3,0.6,41,269050066.02,3,1,2,6,Low Value
+VND00359,Vendor_0359,IT Services,USA,Tier 1,95.8,1.3,45,275886862.66,2,2,2,6,Dormant / At-Risk
+VND00627,Vendor_0627,Electronics,USA,Tier 2,62.4,1.2,46,297733823.76,2,2,2,6,Dormant / At-Risk
+VND00113,Vendor_0113,Logistics,USA,Tier 1,95.1,1.8,46,329640444.04,1,2,3,6,Dormant / At-Risk
+VND00194,Vendor_0194,Raw Material,Thailand,Tier 2,74.3,0.3,35,173668045.6,4,1,1,6,Low Value
+VND00487,Vendor_0487,Packaging,India,Tier 3,33.2,0.5,44,251840799.99,4,1,1,6,Low Value
+VND00968,Vendor_0968,Logistics,China,Tier 3,50.8,3.1,51,285455837.97,1,3,2,6,Dormant / At-Risk
+VND00695,Vendor_0695,Packaging,South Korea,Tier 3,38.0,0.5,34,183610957.7,4,1,1,6,Low Value
+VND00308,Vendor_0308,Electronics,India,Tier 3,52.6,0.4,43,255009839.84,4,1,1,6,Low Value
+VND00761,Vendor_0761,Textiles,India,Tier 3,40.6,1.5,46,272354241.7,2,2,2,6,Dormant / At-Risk
+VND00307,Vendor_0307,Machinery,Unknown,Tier 2,66.1,3.0,45,322606104.62,1,2,3,6,Dormant / At-Risk
+VND00973,Vendor_0973,Logistics,USA,Tier 1,81.3,0.9,47,271630910.48,2,2,2,6,Dormant / At-Risk
+VND00472,Vendor_0472,Machinery,Thailand,Tier 1,97.9,1.3,44,327299418.54,2,1,3,6,Dormant / At-Risk
+VND00473,Vendor_0473,Unknown,Vietnam,Tier 3,33.0,0.9,40,287708467.6,3,1,2,6,Low Value
+VND00477,Vendor_0477,Raw Material,USA,Tier 3,35.2,0.3,42,233730385.1,4,1,1,6,Low Value
+VND00703,Vendor_0703,Chemicals,USA,Tier 3,53.6,0.6,43,279152538.82,3,1,2,6,Low Value
+VND00300,Vendor_0300,Machinery,USA,Tier 3,36.0,1.9,44,348754795.24,1,1,4,6,Dormant / At-Risk
+VND00481,Vendor_0481,Electronics,China,Tier 2,74.1,1.0,46,288896285.42,2,2,2,6,Dormant / At-Risk
+VND00984,Vendor_0984,Raw Material,India,Tier 3,35.3,1.8,48,286817763.76,1,3,2,6,Dormant / At-Risk
+VND00746,Vendor_0746,Packaging,Bangladesh,Tier 1,93.0,1.7,52,258463332.14,1,4,1,6,Dormant / At-Risk
+VND00777,Vendor_0777,Logistics,Japan,Tier 3,46.0,0.3,36,197104523.83,4,1,1,6,Low Value
+VND00263,Vendor_0263,Electronics,Malaysia,Tier 3,39.8,1.7,48,318549606.22,1,2,3,6,Dormant / At-Risk
+VND00265,Vendor_0265,Raw Material,India,Tier 1,91.4,0.9,44,266077258.51,3,1,2,6,Low Value
+VND00987,Vendor_0987,Chemicals,Germany,Tier 2,78.2,0.8,47,194614982.27,3,2,1,6,Low Value
+VND00989,Vendor_0989,Chemicals,India,Tier 3,47.2,0.3,39,208583279.73,4,1,1,6,Low Value
+VND00268,Vendor_0268,Textiles,China,Tier 2,79.2,1.7,51,295752523.5,1,3,2,6,Dormant / At-Risk
+VND00295,Vendor_0295,IT Services,Malaysia,Tier 3,38.9,0.8,45,233820754.07,3,2,1,6,Low Value
+VND00491,Vendor_0491,Electronics,Bangladesh,Tier 2,61.9,0.5,42,254171833.83,4,1,1,6,Low Value
+VND00715,Vendor_0715,Machinery,India,Tier 3,54.4,1.3,47,286727387.88,2,2,2,6,Dormant / At-Risk
+VND00011,Vendor_0011,Logistics,Malaysia,Tier 3,31.4,1.1,45,294435913.38,2,2,2,6,Dormant / At-Risk
+VND00521,Vendor_0521,Textiles,Japan,Tier 2,71.6,2.2,46,328033656.5,1,2,3,6,Dormant / At-Risk
+VND00718,Vendor_0718,Textiles,Germany,Tier 1,97.6,1.3,44,298296033.57,2,1,3,6,Dormant / At-Risk
+VND00279,Vendor_0279,Textiles,Thailand,Tier 2,79.1,1.0,45,286582416.39,2,2,2,6,Dormant / At-Risk
+VND00499,Vendor_0499,Machinery,China,Tier 1,98.2,3.4,45,310886938.86,1,2,3,6,Dormant / At-Risk
+VND00691,Vendor_0691,Packaging,Japan,Tier 3,52.7,3.4,45,305322732.26,1,2,3,6,Dormant / At-Risk
+VND00026,Vendor_0026,IT Services,USA,Unclassified,,6.1,45,303744461.96,1,2,3,6,Dormant / At-Risk
+VND00784,Vendor_0784,Textiles,Germany,Tier 3,54.2,1.4,47,274285188.57,2,2,2,6,Dormant / At-Risk
+VND00202,Vendor_0202,Logistics,USA,Tier 3,35.9,1.2,45,273078151.3,2,2,2,6,Dormant / At-Risk
+VND00560,Vendor_0560,IT Services,Japan,Tier 2,73.4,0.3,37,193693309.45,4,1,1,6,Low Value
+VND00793,Vendor_0793,Electronics,Malaysia,Tier 2,65.4,2.4,46,304176263.3,1,2,3,6,Dormant / At-Risk
+VND00948,Vendor_0948,Chemicals,Malaysia,Tier 1,93.0,0.2,39,259418776.23,4,1,1,6,Low Value
+VND00036,Vendor_0036,Machinery,Malaysia,Tier 1,86.6,4.1,49,274078647.37,1,3,2,6,Dormant / At-Risk
+VND00323,Vendor_0323,Textiles,Vietnam,Tier 2,76.2,2.7,47,313362609.76,1,2,3,6,Dormant / At-Risk
+VND00466,Vendor_0466,Chemicals,Thailand,Tier 3,56.2,0.4,41,215906366.12,4,1,1,6,Low Value
+VND00322,Vendor_0322,Chemicals,USA,Tier 1,80.0,0.7,47,264593837.07,3,2,1,6,Low Value
+VND00558,Vendor_0558,Logistics,Vietnam,Tier 3,32.0,0.5,36,247998600.66,4,1,1,6,Low Value
+VND00960,Vendor_0960,Logistics,Thailand,Tier 1,81.7,0.6,46,247623011.4,3,2,1,6,Low Value
+VND00687,Vendor_0687,Logistics,Vietnam,Tier 2,70.0,2.3,52,231976562.74,1,4,1,6,Dormant / At-Risk
+VND00195,Vendor_0195,Unknown,Bangladesh,Tier 3,53.7,0.5,38,207512391.05,4,1,1,6,Low Value
+VND00778,Vendor_0778,Textiles,Malaysia,Tier 1,80.6,0.3,41,204598691.0,4,1,1,6,Low Value
+VND00051,Vendor_0051,Chemicals,Bangladesh,Tier 1,97.9,1.7,48,267783562.34,1,2,2,5,Dormant / At-Risk
+VND00455,Vendor_0455,Raw Material,Germany,Tier 3,37.8,1.8,36,306280343.16,1,1,3,5,Dormant / At-Risk
+VND00489,Vendor_0489,Packaging,Malaysia,Tier 1,96.5,1.1,40,273572235.16,2,1,2,5,Dormant / At-Risk
+VND00994,Vendor_0994,Packaging,Bangladesh,Tier 2,71.3,0.7,42,240010728.63,3,1,1,5,Low Value
+VND00930,Vendor_0930,Raw Material,Vietnam,Tier 3,48.1,1.2,39,285764985.75,2,1,2,5,Dormant / At-Risk
+VND00615,Vendor_0615,IT Services,Japan,Tier 1,91.2,0.7,43,251963896.37,3,1,1,5,Low Value
+VND00943,Vendor_0943,Electronics,Japan,Tier 2,75.6,1.4,47,251561849.57,2,2,1,5,Dormant / At-Risk
+VND00041,Vendor_0041,IT Services,China,Tier 3,38.5,1.2,45,225982140.4,2,2,1,5,Dormant / At-Risk
+VND00569,Vendor_0569,Chemicals,Vietnam,Tier 1,93.3,2.0,40,299607795.55,1,1,3,5,Dormant / At-Risk
+VND00503,Vendor_0503,Textiles,India,Tier 3,51.7,3.9,51,261961380.14,1,3,1,5,Dormant / At-Risk
+VND00028,Vendor_0028,Machinery,Thailand,Tier 2,66.0,0.8,41,262038542.86,3,1,1,5,Low Value
+VND00037,Vendor_0037,Electronics,South Korea,Tier 3,51.3,2.0,49,263838538.99,1,3,1,5,Dormant / At-Risk
+VND00606,Vendor_0606,Raw Material,Germany,Tier 2,62.3,0.8,43,264912078.21,3,1,1,5,Low Value
+VND00449,Vendor_0449,Textiles,China,Tier 3,56.3,1.7,42,301714982.64,1,1,3,5,Dormant / At-Risk
+VND00966,Vendor_0966,Raw Material,Germany,Tier 3,54.9,1.9,44,286694162.89,1,2,2,5,Dormant / At-Risk
+VND00953,Vendor_0953,Chemicals,South Korea,Tier 3,42.3,1.8,42,320128383.82,1,1,3,5,Dormant / At-Risk
+VND00535,Vendor_0535,Unknown,Vietnam,Tier 1,83.8,1.5,41,289239953.09,2,1,2,5,Dormant / At-Risk
+VND00073,Vendor_0073,Packaging,Vietnam,Tier 3,30.4,3.2,46,277200065.08,1,2,2,5,Dormant / At-Risk
+VND00034,Vendor_0034,Chemicals,Unknown,Tier 1,96.4,1.6,45,293474435.33,1,2,2,5,Dormant / At-Risk
+VND00032,Vendor_0032,Logistics,Bangladesh,Tier 3,41.9,1.8,39,307543639.95,1,1,3,5,Dormant / At-Risk
+VND00431,Vendor_0431,Logistics,USA,Tier 3,40.0,0.9,39,248748968.72,3,1,1,5,Low Value
+VND00969,Vendor_0969,Unknown,Bangladesh,Tier 2,69.6,0.8,35,195703453.0,3,1,1,5,Low Value
+VND00030,Vendor_0030,Chemicals,South Korea,Tier 3,33.3,1.2,44,274905131.83,2,1,2,5,Dormant / At-Risk
+VND00567,Vendor_0567,Logistics,Malaysia,Tier 3,57.5,1.5,38,280787310.75,2,1,2,5,Dormant / At-Risk
+VND00564,Vendor_0564,Machinery,USA,Tier 3,31.0,1.5,47,264074756.69,2,2,1,5,Dormant / At-Risk
+VND00501,Vendor_0501,Raw Material,Vietnam,Tier 2,78.9,3.2,44,316706789.69,1,1,3,5,Dormant / At-Risk
+VND00369,Vendor_0369,Logistics,Bangladesh,Tier 3,43.7,0.6,43,247387098.29,3,1,1,5,Low Value
+VND00790,Vendor_0790,Chemicals,Unknown,Tier 1,96.3,1.1,44,219795277.4,2,2,1,5,Dormant / At-Risk
+VND00366,Vendor_0366,Electronics,USA,Tier 3,57.0,4.5,48,262336929.2,1,3,1,5,Dormant / At-Risk
+VND00734,Vendor_0734,Electronics,USA,Tier 2,66.6,2.6,45,269910929.28,1,2,2,5,Dormant / At-Risk
+VND00269,Vendor_0269,Unknown,China,Tier 3,55.2,0.8,42,258783217.39,3,1,1,5,Low Value
+VND00215,Vendor_0215,IT Services,Bangladesh,Tier 2,79.9,3.7,44,314141731.46,1,1,3,5,Dormant / At-Risk
+VND00259,Vendor_0259,IT Services,South Korea,Tier 2,69.9,1.1,45,231900337.43,2,2,1,5,Dormant / At-Risk
+VND00740,Vendor_0740,Textiles,Vietnam,Tier 3,56.4,2.4,45,285632428.22,1,2,2,5,Dormant / At-Risk
+VND00356,Vendor_0356,Chemicals,India,Tier 2,75.0,0.9,43,216347425.65,3,1,1,5,Low Value
+VND00165,Vendor_0165,Electronics,Germany,Tier 3,36.3,1.8,47,282829865.26,1,2,2,5,Dormant / At-Risk
+VND00167,Vendor_0167,Packaging,Germany,Tier 3,52.5,1.2,43,276257771.62,2,1,2,5,Dormant / At-Risk
+VND00710,Vendor_0710,Textiles,Vietnam,Tier 2,77.7,1.3,43,270751337.66,2,1,2,5,Dormant / At-Risk
+VND00324,Vendor_0324,Electronics,Japan,Tier 3,49.6,0.6,39,210308403.83,3,1,1,5,Low Value
+VND00205,Vendor_0205,Textiles,Unknown,Tier 2,72.5,1.0,46,236014194.19,2,2,1,5,Dormant / At-Risk
+VND00350,Vendor_0350,Textiles,China,Tier 2,73.8,2.0,45,297086405.81,1,2,2,5,Dormant / At-Risk
+VND00762,Vendor_0762,Chemicals,Japan,Tier 3,51.8,2.6,46,266705166.22,1,2,2,5,Dormant / At-Risk
+VND00174,Vendor_0174,Packaging,Malaysia,Tier 3,45.9,1.0,44,277149894.91,2,1,2,5,Dormant / At-Risk
+VND00676,Vendor_0676,Textiles,USA,Tier 1,98.8,0.9,38,253538031.24,3,1,1,5,Low Value
+VND00749,Vendor_0749,Machinery,South Korea,Tier 1,93.5,0.8,38,257621216.92,3,1,1,5,Low Value
+VND00706,Vendor_0706,Chemicals,USA,Tier 1,99.3,1.3,43,278693298.15,2,1,2,5,Dormant / At-Risk
+VND00328,Vendor_0328,Raw Material,China,Tier 2,72.8,0.8,40,253272020.23,3,1,1,5,Low Value
+VND00332,Vendor_0332,Chemicals,Vietnam,Tier 1,83.0,0.6,36,217907457.86,3,1,1,5,Low Value
+VND00183,Vendor_0183,Packaging,Vietnam,Tier 1,94.7,0.7,39,244832125.31,3,1,1,5,Low Value
+VND00192,Vendor_0192,IT Services,Thailand,Tier 1,92.8,1.2,39,269467645.97,2,1,2,5,Dormant / At-Risk
+VND00748,Vendor_0748,Machinery,Vietnam,Tier 2,68.0,2.3,47,291039272.28,1,2,2,5,Dormant / At-Risk
+VND00865,Vendor_0865,Machinery,Vietnam,Tier 3,58.1,1.9,45,286620821.16,1,2,2,5,Dormant / At-Risk
+VND00277,Vendor_0277,Electronics,India,Tier 1,85.9,0.6,39,216821349.87,3,1,1,5,Low Value
+VND00779,Vendor_0779,Logistics,India,Tier 1,80.4,0.6,42,246682162.49,3,1,1,5,Low Value
+VND00316,Vendor_0316,Packaging,Japan,Tier 2,78.7,2.4,48,244967059.81,1,3,1,5,Dormant / At-Risk
+VND00640,Vendor_0640,Machinery,Unknown,Tier 3,56.4,1.1,40,284066892.75,2,1,2,5,Dormant / At-Risk
+VND00284,Vendor_0284,Textiles,South Korea,Tier 3,36.6,4.1,48,286369506.75,1,2,2,5,Dormant / At-Risk
+VND00285,Vendor_0285,Raw Material,USA,Tier 2,70.5,0.9,39,238915681.68,3,1,1,5,Low Value
+VND00782,Vendor_0782,Chemicals,South Korea,Tier 2,68.0,0.7,37,176403169.47,3,1,1,5,Low Value
+VND00305,Vendor_0305,Textiles,Bangladesh,Tier 1,80.8,0.9,44,257569630.42,3,1,1,5,Low Value
+VND00313,Vendor_0313,Raw Material,South Korea,Tier 3,31.8,3.4,40,305080418.13,1,1,3,5,Dormant / At-Risk
+VND00874,Vendor_0874,Chemicals,Thailand,Tier 3,58.6,1.1,44,244417899.85,2,2,1,5,Dormant / At-Risk
+VND00218,Vendor_0218,Raw Material,Germany,Tier 1,82.3,0.7,43,231289965.77,3,1,1,5,Low Value
+VND00716,Vendor_0716,Chemicals,Thailand,Tier 1,95.1,2.0,46,273377152.89,1,2,2,5,Dormant / At-Risk
+VND00721,Vendor_0721,Unknown,Thailand,Tier 1,95.7,1.2,42,283278588.58,2,1,2,5,Dormant / At-Risk
+VND00543,Vendor_0543,Chemicals,Malaysia,Tier 3,46.0,2.3,45,215449131.09,1,2,1,4,Dormant / At-Risk
+VND00228,Vendor_0228,Chemicals,Vietnam,Tier 3,57.5,1.4,40,181008744.01,2,1,1,4,Dormant / At-Risk
+VND00799,Vendor_0799,Electronics,USA,Tier 2,78.8,1.1,38,259673747.3,2,1,1,4,Dormant / At-Risk
+VND00693,Vendor_0693,IT Services,Japan,Unclassified,,1.0,43,260548359.65,2,1,1,4,Dormant / At-Risk
+VND00768,Vendor_0768,Packaging,Vietnam,Tier 1,91.4,2.0,43,271827723.58,1,1,2,4,Dormant / At-Risk
+VND00216,Vendor_0216,Chemicals,Japan,Tier 3,46.6,1.0,36,207508104.47,2,1,1,4,Dormant / At-Risk
+VND00260,Vendor_0260,Textiles,China,Tier 3,36.8,1.2,36,160930092.39,2,1,1,4,Dormant / At-Risk
+VND00251,Vendor_0251,Textiles,China,Unclassified,,2.1,44,279447567.12,1,1,2,4,Dormant / At-Risk
+VND00478,Vendor_0478,Raw Material,China,Tier 2,68.8,1.5,44,252458018.34,2,1,1,4,Dormant / At-Risk
+VND00507,Vendor_0507,Logistics,USA,Tier 1,93.8,4.6,40,268589909.25,1,1,2,4,Dormant / At-Risk
+VND00949,Vendor_0949,Logistics,Japan,Tier 1,91.2,1.5,46,253282777.3,1,2,1,4,Dormant / At-Risk
+VND00957,Vendor_0957,Raw Material,USA,Tier 2,66.3,1.0,41,223613232.85,2,1,1,4,Dormant / At-Risk
+VND00219,Vendor_0219,IT Services,Vietnam,Tier 2,75.5,1.4,35,235443576.77,2,1,1,4,Dormant / At-Risk
+VND00465,Vendor_0465,Textiles,South Korea,Tier 1,97.4,1.8,46,187838639.3,1,2,1,4,Dormant / At-Risk
+VND00301,Vendor_0301,Logistics,Vietnam,Tier 3,33.6,2.8,42,281708723.18,1,1,2,4,Dormant / At-Risk
+VND00043,Vendor_0043,IT Services,Germany,Tier 3,32.4,2.7,46,248334124.3,1,2,1,4,Dormant / At-Risk
+VND00663,Vendor_0663,Logistics,Bangladesh,Tier 2,72.4,1.5,43,226600563.54,2,1,1,4,Dormant / At-Risk
+VND00935,Vendor_0935,Logistics,Japan,Tier 3,42.0,0.9,40,197594245.57,2,1,1,4,Dormant / At-Risk
+VND00866,Vendor_0866,Raw Material,China,Tier 2,69.2,1.3,32,213348764.94,2,1,1,4,Dormant / At-Risk
+VND00850,Vendor_0850,IT Services,USA,Tier 2,71.7,5.2,38,276919705.39,1,1,2,4,Dormant / At-Risk
+VND00154,Vendor_0154,Packaging,Japan,Tier 2,64.3,1.4,37,250063479.42,2,1,1,4,Dormant / At-Risk
+VND00382,Vendor_0382,Textiles,Vietnam,Tier 2,78.8,1.2,43,244100315.1,2,1,1,4,Dormant / At-Risk
+VND00289,Vendor_0289,Logistics,Vietnam,Tier 3,50.1,3.9,47,265053557.34,1,2,1,4,Dormant / At-Risk
+VND00631,Vendor_0631,IT Services,Vietnam,Tier 2,79.9,1.3,36,238899270.34,2,1,1,4,Dormant / At-Risk
+VND00396,Vendor_0396,IT Services,India,Tier 1,95.2,3.5,43,281293949.27,1,1,2,4,Dormant / At-Risk
+VND00518,Vendor_0518,Textiles,Germany,Tier 1,86.7,2.5,46,241419106.98,1,2,1,4,Dormant / At-Risk
+VND00053,Vendor_0053,Packaging,Vietnam,Tier 1,95.8,2.7,43,285997740.96,1,1,2,4,Dormant / At-Risk
+VND00417,Vendor_0417,Electronics,India,Tier 3,50.5,2.4,45,190000090.82,1,2,1,4,Dormant / At-Risk
+VND00887,Vendor_0887,Machinery,Thailand,Tier 2,75.7,3.9,45,258782447.21,1,2,1,4,Dormant / At-Risk
+VND00415,Vendor_0415,Chemicals,India,Tier 2,74.2,1.4,39,222505228.32,2,1,1,4,Dormant / At-Risk
+VND00414,Vendor_0414,Machinery,Vietnam,Tier 2,70.1,1.0,42,250021234.06,2,1,1,4,Dormant / At-Risk
+VND00999,Vendor_0999,IT Services,India,Tier 1,96.5,2.1,43,285880621.85,1,1,2,4,Dormant / At-Risk
+VND00876,Vendor_0876,Logistics,Germany,Tier 3,40.9,2.1,47,263090133.26,1,2,1,4,Dormant / At-Risk
+VND00084,Vendor_0084,Raw Material,Thailand,Tier 3,34.4,4.4,34,281547586.02,1,1,2,4,Dormant / At-Risk
+VND00764,Vendor_0764,Raw Material,Thailand,Tier 1,82.1,1.0,43,254741576.07,2,1,1,4,Dormant / At-Risk
+VND00595,Vendor_0595,Packaging,Vietnam,Tier 1,92.8,1.4,37,227630662.67,2,1,1,4,Dormant / At-Risk
+VND00579,Vendor_0579,Logistics,India,Tier 2,64.4,1.3,44,245841593.65,2,1,1,4,Dormant / At-Risk
+VND00055,Vendor_0055,Electronics,Vietnam,Tier 2,71.9,1.0,41,242146677.45,2,1,1,4,Dormant / At-Risk
+VND00453,Vendor_0453,IT Services,China,Tier 3,59.7,6.1,39,286446311.84,1,1,2,4,Dormant / At-Risk
+VND00343,Vendor_0343,Machinery,Germany,Tier 3,42.1,1.1,42,223553712.78,2,1,1,4,Dormant / At-Risk
+VND00080,Vendor_0080,Logistics,Thailand,Tier 3,38.1,1.1,43,250605166.68,2,1,1,4,Dormant / At-Risk
+VND00351,Vendor_0351,Raw Material,Japan,Tier 2,65.2,3.4,42,270527916.96,1,1,2,4,Dormant / At-Risk
+VND00823,Vendor_0823,Chemicals,China,Tier 3,53.3,2.7,46,260722849.12,1,2,1,4,Dormant / At-Risk
+VND00358,Vendor_0358,IT Services,Thailand,Tier 2,71.0,2.6,47,225824175.97,1,2,1,4,Dormant / At-Risk
+VND00590,Vendor_0590,Electronics,Thailand,Tier 3,40.6,1.3,43,244624677.26,2,1,1,4,Dormant / At-Risk
+VND00652,Vendor_0652,Raw Material,Malaysia,Tier 2,67.6,1.0,41,247268367.0,2,1,1,4,Dormant / At-Risk
+VND00711,Vendor_0711,Raw Material,Thailand,Tier 1,83.2,3.8,40,248911039.82,1,1,1,3,Dormant / At-Risk
+VND00302,Vendor_0302,Logistics,Vietnam,Tier 2,67.2,6.8,39,224420990.84,1,1,1,3,Dormant / At-Risk
+VND00017,Vendor_0017,Packaging,China,Tier 3,51.3,1.7,44,235315557.87,1,1,1,3,Dormant / At-Risk
+VND00532,Vendor_0532,Chemicals,Vietnam,Tier 1,100.0,1.8,43,260844830.74,1,1,1,3,Dormant / At-Risk
+VND00533,Vendor_0533,Logistics,Japan,Tier 1,99.8,1.8,43,220323685.4,1,1,1,3,Dormant / At-Risk
+VND00496,Vendor_0496,Packaging,China,Tier 3,54.7,2.5,41,253255935.77,1,1,1,3,Dormant / At-Risk
+VND00880,Vendor_0880,Unknown,USA,Tier 3,45.5,1.7,34,182815019.54,1,1,1,3,Dormant / At-Risk
+VND00965,Vendor_0965,Raw Material,Germany,Tier 3,50.2,1.6,43,244556136.43,1,1,1,3,Dormant / At-Risk
+VND00355,Vendor_0355,Textiles,South Korea,Tier 3,34.9,2.1,37,208721620.39,1,1,1,3,Dormant / At-Risk
+VND00118,Vendor_0118,Logistics,USA,Tier 3,43.1,5.8,36,223114441.64,1,1,1,3,Dormant / At-Risk
+VND00620,Vendor_0620,Electronics,Japan,Tier 1,82.4,2.1,44,265012374.88,1,1,1,3,Dormant / At-Risk
+VND00890,Vendor_0890,Packaging,India,Tier 3,47.0,4.7,37,220067895.14,1,1,1,3,Dormant / At-Risk
+VND00128,Vendor_0128,Machinery,Vietnam,Tier 1,90.3,8.3,35,251098786.33,1,1,1,3,Dormant / At-Risk
+VND00897,Vendor_0897,IT Services,Bangladesh,Tier 3,50.5,3.1,36,183279857.52,1,1,1,3,Dormant / At-Risk
+VND00149,Vendor_0149,Electronics,South Korea,Tier 3,33.6,3.1,44,215982674.48,1,1,1,3,Dormant / At-Risk
+VND00903,Vendor_0903,Packaging,South Korea,Tier 3,42.7,4.2,41,224712693.15,1,1,1,3,Dormant / At-Risk
+VND00905,Vendor_0905,Textiles,South Korea,Tier 3,59.5,2.3,39,212208576.33,1,1,1,3,Dormant / At-Risk
+VND00362,Vendor_0362,Packaging,USA,Tier 2,75.0,2.0,40,249116397.18,1,1,1,3,Dormant / At-Risk
+VND00162,Vendor_0162,Unknown,Thailand,Tier 2,74.3,1.7,42,250496238.55,1,1,1,3,Dormant / At-Risk
+VND00654,Vendor_0654,Machinery,USA,Tier 1,82.2,6.1,40,167192544.36,1,1,1,3,Dormant / At-Risk
+VND00434,Vendor_0434,Raw Material,Malaysia,Tier 3,37.1,1.8,39,246212819.7,1,1,1,3,Dormant / At-Risk
+VND00815,Vendor_0815,Textiles,South Korea,Tier 1,90.9,1.9,41,253642267.44,1,1,1,3,Dormant / At-Risk
+VND00549,Vendor_0549,Chemicals,China,Tier 2,66.4,2.3,42,241484526.9,1,1,1,3,Dormant / At-Risk
+VND00814,Vendor_0814,Electronics,Unknown,Tier 1,94.5,3.0,40,222251430.64,1,1,1,3,Dormant / At-Risk
+VND00184,Vendor_0184,Logistics,China,Tier 1,91.4,1.6,35,171429303.02,1,1,1,3,Dormant / At-Risk
+VND00565,Vendor_0565,Logistics,Malaysia,Tier 3,54.5,1.9,42,240617641.93,1,1,1,3,Dormant / At-Risk
+VND00109,Vendor_0109,IT Services,Japan,Tier 3,46.0,2.2,44,251699075.78,1,1,1,3,Dormant / At-Risk
+VND00941,Vendor_0941,Packaging,Vietnam,Tier 3,49.2,5.8,33,189056367.64,1,1,1,3,Dormant / At-Risk
+VND00209,Vendor_0209,Chemicals,Germany,Tier 3,30.4,2.6,38,234633560.34,1,1,1,3,Dormant / At-Risk
+VND00679,Vendor_0679,IT Services,South Korea,Tier 1,97.9,2.4,44,234225138.35,1,1,1,3,Dormant / At-Risk
+VND00213,Vendor_0213,Packaging,South Korea,Tier 2,75.6,2.2,33,189012214.34,1,1,1,3,Dormant / At-Risk
+VND00951,Vendor_0951,IT Services,Germany,Tier 2,72.0,3.7,42,239710195.12,1,1,1,3,Dormant / At-Risk
+VND00221,Vendor_0221,Electronics,China,Tier 2,76.0,2.2,44,227254185.02,1,1,1,3,Dormant / At-Risk
+VND00222,Vendor_0222,Logistics,South Korea,Tier 2,69.8,1.6,38,227078040.09,1,1,1,3,Dormant / At-Risk
+VND00776,Vendor_0776,Logistics,Malaysia,Tier 3,40.5,2.0,36,211147654.2,1,1,1,3,Dormant / At-Risk
+VND00722,Vendor_0722,Raw Material,India,Tier 3,42.7,2.0,31,193330332.13,1,1,1,3,Dormant / At-Risk
