@@ -37,6 +37,34 @@ The solution processes approximately **1.06 lakh raw records across five busines
 
 ---
 
+## 🎯 Decision-Intelligence Portfolio Framing
+
+> **This project transforms operational data into executive KPIs, risk signals and action-oriented insights across vendor management, procurement, inventory, logistics and returns.**
+
+### Why this matters for AI Transformation
+
+AI transformation depends on a strong decision and data foundation. This project demonstrates practical capability in:
+
+- Defining business KPIs and decision metrics
+- Validating data quality before automation or AI use
+- Segmenting operational risk
+- Translating analytics into executive actions
+- Building a reproducible path from raw operational data to decision support
+
+### AI / GenAI Roadmap
+
+The current implementation is an analytics and BI solution. Potential future AI extensions include:
+
+- Natural-language querying over supply-chain KPIs
+- Automated anomaly detection and alerting
+- AI-generated explanations for vendor and inventory risk
+- Scenario-based recommendations
+- Conversational executive decision support
+
+These items are **future extensions**, not capabilities claimed as already implemented in this repository.
+
+---
+
 ## 🧭 Project Navigation
 
 | Section                                               | Description                         |
